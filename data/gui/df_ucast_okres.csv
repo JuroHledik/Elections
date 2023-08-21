@@ -1,0 +1,81 @@
+kraj_code,kraj,obvod_code,obvod,okres_code,okres,last_year_votes,total_count_okrsok,votes,count_okrsok,counted_percentage
+1,Bratislavský kraj,101,Bratislava,101,Bratislava I,30370,34,30124.826565833766,34,1.0
+1,Bratislavský kraj,101,Bratislava,102,Bratislava II,75534,108,76734.40128094742,108,1.0
+1,Bratislavský kraj,101,Bratislava,103,Bratislava III,45425,68,46111.21894489549,68,1.0
+1,Bratislavský kraj,101,Bratislava,104,Bratislava IV,64498,88,65141.51322293118,88,1.0
+1,Bratislavský kraj,101,Bratislava,105,Bratislava V,74113,104,75500.82273365949,104,1.0
+1,Bratislavský kraj,102,Malacky,106,Malacky,41829,56,42104.79988565788,56,1.0
+1,Bratislavský kraj,103,Pezinok,107,Pezinok,40936,53,42156.482513693096,53,1.0
+1,Bratislavský kraj,104,Senec,108,Senec,54406,71,54043.32584783248,71,1.0
+2,Trnavský kraj,201,Dunajská Streda,201,Dunajská Streda,62964,124,62949.561348027695,124,1.0
+2,Trnavský kraj,202,Galanta,202,Galanta,50902,84,51352.90410848438,84,1.0
+2,Trnavský kraj,203,Piešťany,204,Piešťany,36388,63,36460.2391069041,63,1.0
+2,Trnavský kraj,204,Senica,205,Senica,32054,53,32752.213009711944,53,1.0
+2,Trnavský kraj,204,Senica,206,Skalica,25507,44,25555.253551199006,44,1.0
+2,Trnavský kraj,205,Trnava,203,Hlohovec,24745,46,25139.378175953938,46,1.0
+2,Trnavský kraj,205,Trnava,207,Trnava,76678,120,76322.6918811868,120,1.0
+3,Trenčiansky kraj,301,Bánovce nad Bebravou,301,Bánovce nad Bebravou,20170,62,20554.85640723258,62,1.0
+3,Trenčiansky kraj,302,Nové Mesto nad Váhom,303,Myjava,14573,32,15117.81249055561,32,1.0
+3,Trenčiansky kraj,302,Nové Mesto nad Váhom,304,Nové Mesto nad Váhom,35051,67,35931.19602515597,67,1.0
+3,Trenčiansky kraj,303,Považská Bystrica,306,Považská Bystrica,35617,68,35531.78268881642,68,1.0
+3,Trenčiansky kraj,303,Považská Bystrica,308,Púchov,25577,53,25265.763386948838,53,1.0
+3,Trenčiansky kraj,304,Prievidza,305,Partizánske,24897,52,25195.815303101914,52,1.0
+3,Trenčiansky kraj,304,Prievidza,307,Prievidza,75124,138,74282.43357706787,138,1.0
+3,Trenčiansky kraj,305,Trenčín,302,Ilava,33275,60,33635.341869754746,60,1.0
+3,Trenčiansky kraj,305,Trenčín,309,Trenčín,66773,116,66810.02148165884,116,1.0
+4,Nitriansky kraj,401,Komárno,401,Komárno,44000,108,43621.19748694399,108,1.0
+4,Nitriansky kraj,402,Levice,402,Levice,56299,163,55408.277266556186,163,1.0
+4,Nitriansky kraj,403,Nitra,403,Nitra,92603,163,93999.9340316982,163,1.0
+4,Nitriansky kraj,403,Nitra,407,Zlaté Moravce,23509,46,23921.13180471559,46,1.0
+4,Nitriansky kraj,404,Nové Zámky,404,Nové Zámky,70647,143,71316.46091942677,143,1.0
+4,Nitriansky kraj,405,Šaľa,405,Šaľa,26054,43,26167.488647338014,43,1.0
+4,Nitriansky kraj,406,Topoľčany,406,Topoľčany,39714,88,39504.12898006186,88,1.0
+5,Žilinský kraj,501,Čadca,502,Čadca,46129,77,45210.20346436867,77,1.0
+5,Žilinský kraj,502,Dolný Kubín,503,Dolný Kubín,22701,42,21689.97877270022,42,1.0
+5,Žilinský kraj,503,Liptovský Mikuláš,505,Liptovský Mikuláš,42265,96,41126.97684938701,96,1.0
+5,Žilinský kraj,504,Martin,506,Martin,54094,107,53651.29631388955,107,1.0
+5,Žilinský kraj,504,Martin,509,Turčianske Teplice,9341,32,8832.205658545556,32,1.0
+5,Žilinský kraj,505,Námestovo,507,Námestovo,33089,45,33647.328715254065,45,1.0
+5,Žilinský kraj,505,Námestovo,510,Tvrdošín,21376,32,21752.95658248104,32,1.0
+5,Žilinský kraj,506,Ružomberok,508,Ružomberok,33077,58,33048.16241962132,58,1.0
+5,Žilinský kraj,507,Žilina,501,Bytča,17278,34,17877.729363729355,34,1.0
+5,Žilinský kraj,507,Žilina,504,Kysucké Nové Mesto,18574,28,18766.60697774352,28,1.0
+5,Žilinský kraj,507,Žilina,511,Žilina,93418,157,93355.16580401972,157,1.0
+6,Banskobystrický kraj,601,Banská Bystrica,601,Banská Bystrica,63677,129,64060.457948100404,129,1.0
+6,Banskobystrický kraj,602,Brezno,603,Brezno,30537,67,30668.434295397612,67,1.0
+6,Banskobystrický kraj,603,Lučenec,606,Lučenec,31112,95,31052.492659222273,95,1.0
+6,Banskobystrický kraj,603,Lučenec,607,Poltár,10460,38,10244.50886586344,38,1.0
+6,Banskobystrický kraj,604,Rimavská Sobota,608,Revúca,15257,66,15584.084609769545,66,1.0
+6,Banskobystrický kraj,604,Rimavská Sobota,609,Rimavská Sobota,33673,151,33417.8810331919,151,1.0
+6,Banskobystrický kraj,605,Veľký Krtíš,610,Veľký Krtíš,19866,85,19692.177294278274,85,1.0
+6,Banskobystrický kraj,606,Zvolen,604,Detva,17228,45,18093.893431577108,45,1.0
+6,Banskobystrický kraj,606,Zvolen,605,Krupina,11556,45,11744.224274262233,45,1.0
+6,Banskobystrický kraj,606,Zvolen,611,Zvolen,37151,77,36820.2517265734,77,1.0
+6,Banskobystrický kraj,607,Žiar nad Hronom,602,Banská Štiavnica,8628,24,9113.000343515736,24,1.0
+6,Banskobystrický kraj,607,Žiar nad Hronom,612,Žarnovica,13939,33,13554.456593277493,33,1.0
+6,Banskobystrický kraj,607,Žiar nad Hronom,613,Žiar nad Hronom,24749,56,25286.64850929745,56,1.0
+7,Prešovský kraj,701,Bardejov,701,Bardejov,37860,116,38250.787392864855,116,1.0
+7,Prešovský kraj,702,Humenné,702,Humenné,29855,88,29852.895572047997,88,1.0
+7,Prešovský kraj,702,Humenné,705,Medzilaborce,4993,30,5059.298702383759,30,1.0
+7,Prešovský kraj,702,Humenné,709,Snina,16082,48,15923.82361009937,48,1.0
+7,Prešovský kraj,703,Kežmarok,703,Kežmarok,30656,68,30400.26037171846,68,1.0
+7,Prešovský kraj,704,Poprad,704,Levoča,15708,47,15216.90079044221,47,1.0
+7,Prešovský kraj,704,Poprad,706,Poprad,55966,90,56266.69376830384,90,1.0
+7,Prešovský kraj,705,Prešov,707,Prešov,89246,167,89612.48936631165,167,1.0
+7,Prešovský kraj,705,Prešov,708,Sabinov,27478,62,27558.993510995882,62,1.0
+7,Prešovský kraj,706,Stará Ľubovňa,710,Stará Ľubovňa,24220,62,25124.25602960506,62,1.0
+7,Prešovský kraj,707,Stropkov,711,Stropkov,9584,52,9626.68483538688,52,1.0
+7,Prešovský kraj,708,Svidník,712,Svidník,15189,78,14788.64889832534,78,1.0
+7,Prešovský kraj,709,Vranov nad Topľou,713,Vranov nad Topľou,34799,93,34999.05913343212,93,1.0
+8,Košický kraj,801,Košice,802,Košice I,34940,59,34223.247549230524,59,1.0
+8,Košický kraj,801,Košice,803,Košice II,39371,60,39608.38796765528,60,1.0
+8,Košický kraj,801,Košice,804,Košice III,14469,26,14529.274699081336,26,1.0
+8,Košický kraj,801,Košice,805,Košice IV,30224,54,30168.387556091664,54,1.0
+8,Košický kraj,802,Košice - okolie,806,Košice - okolie,58287,147,59257.49359743345,147,1.0
+8,Košický kraj,803,Michalovce,807,Michalovce,45494,132,45955.16695922138,132,1.0
+8,Košický kraj,803,Michalovce,809,Sobrance,10277,52,10341.850632144487,52,1.0
+8,Košický kraj,804,Rožňava,808,Rožňava,26254,88,26389.348507846524,88,1.0
+8,Košický kraj,805,Spišská Nová Ves,801,Gelnica,12809,32,12958.671999508355,32,1.0
+8,Košický kraj,805,Spišská Nová Ves,810,Spišská Nová Ves,42953,81,42614.24444028427,81,1.0
+8,Košický kraj,806,Trebišov,811,Trebišov,41565,128,42040.91022364552,128,1.0
+9,Zahraničie,900,Zahraničie,900,Zahraničie,3825,1,3359.9676801180913,1,1.0

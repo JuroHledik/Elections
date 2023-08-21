@@ -1,0 +1,448 @@
+\documentclass[12pt]{article}
+\usepackage{setspace,graphicx,epstopdf,amsmath,amsfonts,amssymb,amsthm}
+\usepackage{datetime}
+
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{array,longtable,booktabs}
+%\usepackage{array,longtable,ragged2e,booktabs}
+
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+\usepackage{bbm}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage[tableposition=below]{caption}
+%These two lines are needed to set the spacing 
+
+
+\usepackage{tikz}% needed for the graphical model representation
+\usetikzlibrary{bayesnet}% needed for the graphical model representation
+
+\usepackage{dsfont}% needed to use \mathds for the indicator function
+
+\usepackage{booktabs}
+
+\usepackage{multirow}
+\usepackage{multicol}
+
+\usepackage{enumerate}
+
+\usepackage{subfig}
+
+%Algorithms:
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+
+\usepackage{hyperref}
+
+% These next lines allow including or excluding different versions of text
+% using versionPO.sty
+% \excludeversion{notes}% Include notes?
+% \includeversion{links}% Turn hyperlinks on?
+% Turn off hyperlinking if links is excluded
+% \iflinks{}{\hypersetup{draft=true}}
+
+% Notes options
+% \ifnotes{%
+% 	\usepackage[margin=1in,paperwidth=10in,right=2.5in]{geometry}%
+% 	\usepackage[textwidth=1.4in,shadow,colorinlistoftodos]{todonotes}%
+% }{%
+% \usepackage[margin=1in]{geometry}%
+% \usepackage[disable]{todonotes}%
+% }
+%\renewcommand{\marginpar}{\marginnote}%
+% Save original definition of \marginpar
+\let\oldmarginpar\marginpar
+% Workaround for todonotes problem with natbib (To Do list title comes out wrong)
+\makeatletter\let\chapter\@undefined\makeatother % Undefine \chapter for todonotes
+% Define note commands
+\newcommand{\smalltodo}[2][] {\todo[caption={#2}, size=\scriptsize, fancyline, #1] {\begin{spacing}{.5}#2\end{spacing}}}
+\newcommand{\rhs}[2][]{\smalltodo[color=green!30,#1]{{\bf RS:} #2}}
+\newcommand{\rhsnolist}[2][]{\smalltodo[nolist,color=green!30,#1]{{\bf RS:} #2}}
+\newcommand{\rhsfn}[2][]{%  To be used in footnotes (and in floats)
+	\renewcommand{\marginpar}{\marginnote}%
+	\smalltodo[color=green!30,#1]{{\bf RS:} #2}%
+	\renewcommand{\marginpar}{\oldmarginpar}}
+%\newcommand{\textnote}[1]{\ifnotes{{\noindent\color{red}#1}}{}}
+\newcommand{\textnote}[1]{\ifnotes{{\colorbox{yellow}{{\color{red}#1}}}}{}}
+
+% Command to start a new page, starting on odd-numbered page if twoside option 
+% is selected above
+\newcommand{\clearRHS}{\clearpage\thispagestyle{empty}\cleardoublepage\thispagestyle{plain}}
+
+% Number paragraphs and subparagraphs and include them in TOC
+\setcounter{tocdepth}{2}
+%
+%%JF-specific includes:
+\usepackage{indentfirst} % Indent first sentence of a new section.
+\usepackage{endnotes}    % Use endnotes instead of footnotes
+%\usepackage{jf}          % JF-specific formatting of sections, etc.
+
+\usepackage[labelfont=bf,labelsep=period]{caption}   % Format figure captions
+%\captionsetup[table]{labelsep=none}
+%\usepackage[toc,page]{appendix}
+
+\captionsetup[table]{skip=0.5pt}
+\usepackage[toc,page,titletoc]{appendix}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                       << NEW THEOREM >>                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newtheorem{condition}{Condition}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{obs}{OBSERVATION}
+\newcommand{\argmax}{\mathop{\rm arg\,max}}
+\newcommand{\sign}{\mathop{\rm sign}}
+\newcommand{\defeq}{\stackrel{\rm def}{=}}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{problem}{Problem}[section]
+\newtheorem{lemma}{Lemma}[subsection]
+
+
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+
+%%%%%%%%%%%%%%%%%%%%% IMPORTANT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Specify the dirrectory from which you want latex to call the figures
+%\graphicspath{{./Figures used/}} 
+%\graphicspath{{}}
+
+%This is the path for tables in the paper
+\makeatletter
+\def\input@path{{Tables/}}
+%or: \def\input@path{{/path/to/folder}{/path/to/other/folder}}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                       << BEGIN DOCUMENT >>                              %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                       << USEFUL OPTION >>                               %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%\setlist{noitemsep}  % Reduce space between list items (itemize, enumerate, etc.)
+	% 	\doublespacing       % Use 2 spacing
+	\onehalfspacing      % Use 1.5 spacing
+	% Use endnotes instead of footnotes - redefine \footnote command
+	%\renewcommand{\footnote}{\endnote}  % Endnotes instead of footnotes
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                       << AUTHOR/S >>                                    %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\author{Juraj Hledik} 
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                          << TITLE >>                                    %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\title{\Large \textbf{Estimating Slovak Parliamentary Election Results from Partially Counted Data}}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                     << DATE AND TIME >>                                 %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\date{\today} 
+	
+	%\vspace{0.1cm} Preliminary and Incomplete
+	%This version: 
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%         << Create title page with no page number >>                     %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\maketitle
+	\thispagestyle{empty}
+	\bigskip
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                          << ABSTRACT >>                                 %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\centerline{\bf ABSTRACT}
+	\begin{onehalfspace}%Double-space the abstract and don't indent it
+		We develop a statistical model to estimate election results from partially counted data, i.e. from data available during the actual vote counting. We combine the results from the last Slovak parliamentary elections with location data on Slovak towns. An equilibrium network model where towns' expected vote count and alignment is influenced by its neighbors is used in the process. We also provide a naive probabilistic view of the final results and their associated fair betting odds. Our emphasis is put on simplicity and the speed of calculation such that the framework can be easily and quickly applied during an ongoing future vote count, for instance for live betting purposes.
+	\end{onehalfspace}
+	\medskip	
+
+\section{Introduction}
+
+Predicting the outcome of an election 
+
+\section{Data}
+
+Two different architectures are used for data import. Firstly, we use two datasets that are stored locally in the project folder. Secondly, we are using data downloaded from a google spreadsheet via the google sheets api functionality. Each method shall have its own subsection here.
+
+
+\subsection{Offline data}
+
+We are using two different offline data sets in this project - a voting data from 2020 Slovak parliamentary election and a location dataset of Slovak towns. In Slovakia, there are 5 different inclusion levels to which each voting center is allocated. The top level is called "kraj", then it's "obvod", "okres", "obec" and finally "okrsok". We shall translate "obec" as "town", otherwise we keep the original terms \footnote{One might try to translate these terms to "states", "counties", "precincts", etc, but the end result would ultimately be simply counter-productive and just overly confusing}. The numbers of the respective levels is shown in Table \ref{tab:data:Geo-spatial levels}. The structure of these data sets can be found in Table \ref{tab:data:location_data:used_variables} and \ref{tab:data:election_data:used_variables}. The data can be found in the subfolder /data in files historical\_data.xlsx and towns.csv.
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{.27\linewidth}{lr}
+		\toprule
+		\textbf{level} & Count \\
+		kraj & 9 \\
+		obvod & 50 \\
+		okres & 80 \\
+		town & 2817 \\
+		okrsok & 5998 \\
+		\bottomrule
+	\end{tabularx}
+	\caption{Geo-spatial levels.}
+	\label{tab:data:Geo-spatial levels}
+\end{table}
+
+In Slovakia, results for a given okrsok are reported at once and submitted to the system. In other words, an okrsok is the lowest level of granularity for which the data is observable. 
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{0.7\linewidth}{lX}
+		\toprule
+		\textbf{town\_code} & Code of the relevant town \\
+		\textbf{latitude} & Latitude of the relevant town  \\
+		\textbf{longitude} & Longitude of the relevant town  \\
+		\bottomrule
+	\end{tabularx}
+	\caption{Variables available regarding town location.}
+	\label{tab:data:location_data:used_variables}
+\end{table}
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\linewidth}{lX}
+		\toprule
+		\textbf{kraj\_code} & ID of the relevant "kraj". \\
+		\textbf{kraj} & Name of the relevant "kraj". \\
+		\textbf{obvod\_code} & ID of the relevant "obvod". \\
+		\textbf{obvod} & Name of the relevant "obvod". \\
+		\textbf{okres\_code} & ID of the relevant "okres". \\		
+		\textbf{okres} & Name of the relevant "okres". \\
+		\textbf{town\_code} & ID of the relevant "town". \\
+		\textbf{town} & Name of the relevant "town". \\
+		\textbf{okrsok} & ID of the relevant "okrsok". \\
+		\textbf{party\_ID} & Unique identifier of the party. \\
+		\textbf{party\_name} & Name of the party. \\
+		\textbf{votes} & Number of votes. \\
+		\textbf{votes\_percentage} & Percentage of votes in this "okrsok". \\
+		\textbf{preferential\_votes} & Number of preferential candidate votes. \\
+		\textbf{preferential\_votes\_percentage} & Percentage of preferential candidate votes in this "okrsok".  \\
+		\bottomrule
+	\end{tabularx}
+	\caption{Variables available regarding election results.}
+	\label{tab:data:election_data:used_variables}
+\end{table}
+
+
+\subsection{Online data}
+We are using two different online data sets in this project - a table denoting the names of the parties in the currently ongoing election and a table denoting the heuristic parameters of the vote distribution depending on the current counted percentage\footnote{These were obtained from a Monte Carlo simulation where thousands of election nights were sampled. In each sample, the 2020 election vote counts per okrsok were multiplied by a uniformly random variable $s$, where $s\sim U[a,b]$. Multiple simulations were conducted with different values of $a$ and $b$, ranging from $a=0.5$ to $a=1$ and from $b=1$ to $b=1.5$ (uniform priors). The resulting vote distributions' mean, variance and quantiles were then saved for increments of 1\% in the counted percentage of votes, resulting in 400 parameters (4 parameters in 100 counted vote percentage increments).}. These two respective datasets are located in the google sheets \textbf{election\_data.Quantiles} and \textbf{election\_data.PartyNames}. Their respective variables are depicted in tables \ref{tab:data:election_data:quantiles} and \ref{tab:data:election_data:party_names}.
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\linewidth}{lX}
+		\toprule
+		\textbf{counted\_percentage} & Percentage of counted votes. \\
+		\textbf{lower\_quantile} & Lower 95\% quantile of the vote distribution. \\
+		\textbf{upper\_quantile} & Upper 95\% quantile of the vote distribution. \\
+		\textbf{mu} & Expected value of the vote distribution. \\
+		\textbf{sigma\_squared} & Variance of the vote distribution. \\		
+		\bottomrule
+	\end{tabularx}
+	\caption{Vote distribution parameters obtained from a Monte Carlo simulation.}
+	\label{tab:data:election_data:quantiles}
+\end{table}
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{0.65\linewidth}{lX}
+		\toprule
+		\textbf{ID (not in header)} & ID of the party. \\
+		\textbf{name (not in header)} & Name of the party. \\
+		\bottomrule
+	\end{tabularx}
+	\caption{Party names dataset.}
+	\label{tab:data:election_data:party_names}
+\end{table}
+
+
+
+\section{Google sheets structure}
+We are using two different google sheets in this project. The main sheet is called \textbf{election\_data} and contains some of the data described in the previous section, a user dashboard v 1.0 with detailed graphs depicting estimates' evolution in time and automatically filled sheets used to keep past estimates and temporary data saved online during the elections night.
+This sheet is meant mostly for temp data storage. In addition, the graphical depictions of past estimates can be used for a better perspective on prediction reliability. If the curve for a particular party has remained flat for some time now, there is a good chance that this is already quite close to the final estimate.\footnote{This is a very informal way to view the estimate of course. One should primarily take into account the expected vote count and the upper/lower quantiles of the distribution.}
+The secondary sheet is called \textbf{elections\_lite} and it is meant for a quick overview of the current state of the election. It does not contain any graphical elements which can slow a browser down considerably, instead it contains probabilistic estimates as well as fair computed betting odds for various events. This is the sheet to be used for betting during the actual elections night.
+Both sheets contain differently colored cells. A red cell corresponds to a model output, a green cell to a model input (data), while a yellow cell corresponds to an intermediate computation within the google sheet itself - usually for the sake of formatting or transposition between the different sub-sheets. Further info on both sheets can be found in Table \ref{tab:google_sheets_structure:election_data} and Table \ref{tab:google_sheets_structure:elections_lite}.
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\linewidth}{lcX}
+		\toprule
+		\textbf{Sheet name} & \textbf{I/O/C} & \textbf{Description}\\
+		DashBoard & O/C & The main sheet. It contains the user dashboard, showing the current prediction of results. It also shows line charts of previous predictions, such that the evolution of prediction values can be judged by the user. \\
+		Quantiles & I & Contains the input data regarding vote distribution, see the Data section for more info. \\
+		GranularData & O & Saves the granular data used by the prediction algorithm. \\
+		Prediction & O & Stores past predictions with timestamps and counted vote percentages. \\
+		LowerPredictionQuantile & O & Stores the past lower prediction quantiles with relevant timestamps and counted vote percentages. \\
+		UpperPredictionQuantile & O & Stores the past upper prediction quantiles with relevant timestamps and counted vote percentages. \\				
+		CurrentResults & O & Stores the current state of the election, no prediction, essentially just the status reported by the media at a particular moment in time. \\	
+		PartyNames & I & Contains the input data regarding the party names, see the Data section for more info.\\
+		UcastKraj & O & Counted votes by kraj\\
+		UcastObvod & O & Counted votes by obvod\\
+		UcastOkres & O & Counted votes by okres\\					
+		UcastTown & O & Counted votes by town\\			
+		UcastOkrsok & O & Counted votes by okrsok\\
+		LastPrediction & O & Stores lagged predictions with timestamps and counted vote percentages. \\
+		\bottomrule
+	\end{tabularx}
+	\caption{Characteristics of different sub-sheets for the election\_data google sheet. Contains the sub-sheet name, its function (Input, Output, Computation) and its general description.}
+	\label{tab:google_sheets_structure:election_data}
+\end{table}
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\linewidth}{lcX}
+		\toprule
+		\textbf{Sheet name} & \textbf{I/O/C} & \textbf{Description}\\
+		DashBoard & O/C & The main sheet. It contains the user dashboard, showing the current prediction of results. It also shows P(win) for each party and the associated fair betting odds computed as 1/P(win). \\
+		FairOddsComparison & O & Shows fair odds for events of type "party A votes $>$ party B votes". \\
+		ProbabilityComparison & O & Shows probabilities for events of type "party A votes $>$ party B votes". \\
+		UcastKraj & O & Counted votes by kraj\\
+		UcastObvod & O & Counted votes by obvod\\
+		UcastOkres & O & Counted votes by okres\\					
+		UcastTown & O & Counted votes by town\\			
+		UcastOkrsok & O & Counted votes by okrsok\\
+		PartyNames & O & Contains party names, used in elections\_lite.DashBoard, elections\_lite.FairOddsComparison and elections\_lite.ProbabilityComparison to fill in the party names.\\
+		\bottomrule
+	\end{tabularx}
+	\caption{Characteristics of different sub-sheets for the elections\_lite google sheet. Contains the sub-sheet name, its function (Input, Output, Computation) and its general description.}
+	\label{tab:google_sheets_structure:elections_lite}
+\end{table}
+
+
+\section{Code}
+We use python as our main programming language. The relevant files and functions as well as  their description is shown in Table \ref{tab:code:files_functions}. There are two algorithms running in parallel.
+
+\begin{table}[h]
+	\centering
+	\begin{tabularx}{\linewidth}{lX}
+		\toprule
+		\textbf{File} & \textbf{Description}\\
+		config.py & Stores variables and settings. \\
+		download\_data.py & Downloads new data. \\
+		formatting\_functions.py & Various auxiliary formatting functions. \\
+		google\_api\_functions.py & Tools for google sheet management. Append, read, write, delete.  \\
+		location\_functions.py & Tools used with location data on Slovak towns.  \\
+		main.py & Checks if new data is available, if so, updates the prediction.  \\		
+		\bottomrule
+	\end{tabularx}
+	\caption{Characteristics of different sub-sheets for the elections\_lite google sheet. Contains the sub-sheet name, its function (Input, Output, Computation) and its general description.}
+	\label{tab:code:files_functions}
+\end{table}
+
+The first one - download\_data.py - periodically checks for new data. If it finds some, it downloads it and stores within /data/current\_data.csv.
+
+The second algorithm - main.py - keeps importing the /data/current\_data.csv dataset. If 
+it notices that there are new observations as opposed to the ones stored within election\_data.GranularData, it runs the main prediction model, extracts the results, and updates both google sheets via google sheet api.
+
+We shall now look into both algorithms more closely.
+
+\subsection{download\_data.py}
+This algorithm takes care of downloading the latest data from the webpage of the Slovak statistics office located at\footnote{The web address might be different in the next elections.} \begin{verbatim}https://volby.statistics.sk/nrsr/nrsr2020/\end{verbatim}
+The algorithm is described in Algorithm \ref{alg:code:download_data}. In short, it first sets vote counts for each okrsok equal to zero. Afterwards, it downloads aggregated vote counts on kraj level. While there is an okrsok with zero votes, it keeps downloading aggregate vote counts first on the level of kraj, then obvod, okres, etc., until it finds the relevant okrsok that has been added to the dataset. Upon finding it, it downloads its granular data and updates  the /data/current\_data.csv file with it.
+The end result is a perpetually updated, locally-stored file with the relevant current vote counts for each available okrsok.
+
+
+\begin{algorithm}
+	\caption{download\_data.py}\label{alg:code:download_data}
+	\begin{algorithmic}[1]
+		\State Import historical data.
+		\State Assign 0 votes to each okrsok.
+		\State Import party names.
+		\While {$\exists$ okrsok with 0 votes}:
+			\State Import latest locally saved vote counts.
+			\State Download vote count by kraj.
+			\State Determine which kraj has new votes.
+			\If {new votes in any kraj}:
+				\For{$\forall$ kraj with new votes}
+					\For{$\forall$ obvod with new votes}
+						\For{$\forall$ okres with new votes}
+							\For{$\forall$ town with new votes}
+								\For{$\forall$ okrsok with new votes}
+									\State Add this okrsok values into the locally saved data.
+								\EndFor
+							\EndFor
+						\EndFor
+					\EndFor
+				\EndFor				
+			\EndIf
+		\EndWhile
+	\end{algorithmic}
+\end{algorithm}
+
+
+\subsection{main.py}
+This algorithm takes care of importing the latest locally-saved dataset, checking whether there are any new observations and if so, running the whole prediction algorithm and uploading the results into both google sheets.
+The algorithm is described in Algorithm \ref{alg:code:main}.
+
+
+\begin{algorithm}
+	\caption{main.py}\label{alg:code:main}
+	\begin{algorithmic}[1]
+		\State Clear values in election\_data google sheet.
+		\State Import data from last elections.
+		\State Compute aggregate past vote counts by kraj, obvod, okres, town and okrsok.
+		\State Compute the adjacency matrix of Slovak towns.
+		\State Set the party IDs and names.
+		\State Download distributional expectations from election\_data.Quantiles.
+		\State finished:=FALSE
+		\While {finished==FALSE}:
+			\State Import the current data from /data/current\_data.csv.
+			\State Import the last iteration's data from election\_data.GranularData.
+			\If {new observations in current data}:
+				\State Update attendance for all granularities in google sheets.
+				\State Update election\_data.GranularData.
+				\State Compute this year's expected attendance by town.
+				\State Compute this year's expected votes per party.
+				\State Compute the relevant mu, sigma\_squared and quantiles.
+				\State $\forall$ parties A and B, compute P(votes A $>$ votes B).
+				\State For each party, compute the probability of winning.
+				\State Update both google sheets with the new prediction.
+				\If {All towns have 100\% attendance}
+					\State finished = TRUE
+				\EndIf
+			\Else:
+				\State Wait for 3 seconds.
+			\EndIf
+		\EndWhile
+	\end{algorithmic}
+\end{algorithm}
+
+
+
+
+
+
+
+\section{The Model}
+Assume we have a set $\mathcal{P} = \{1,2,\ldots,K\}$ of $K$ political parties and a set $\mathcal{C} = \{1,2,\ldots,N\}$ of $N$ towns (or cities). Denote by $t\in [0,1]$ the fraction of precincts (okrsok) for which results have already been submitted. We shall understand $t$ as a temporal variable in our analysis even though we observe it at discrete increments and it is not actually measured in seconds. Despite that, it is a version of information filtration at consecutive steps, therefore a temporal variable. For the purpose of our model, let:
+
+\begin{itemize}
+	\item{} $y_{ijt}$, where $ i\in C, j\in P, t\in [0,1]$ be the expected percentage of votes for party $j$ in town $i$, estimated at time $t$.
+	\item{} $\bar{v}_{it}$, where $ i\in C, t\in [0,1]$ be the overall number of counted votes in town $i$ at time $t$.
+	\item{} $\hat{v}_{i}$, where $ i\in C$ be the overall number of counted votes in town $i$ in the last election.
+	\item{} $\hat{c}_{it}$, where $ i\in C, t\in [0,1]$ be the percentage of counted precincts (okrsok) in town $i$ at time $t$.	
+	\item{} $v_{it}$, where $ i\in C, t\in [0,1]$ be the expected number of votes in town $i$ after all votes are counted, estimated at time $t$.
+	\item{} $\bar{y}_{ijt}$, where $ i\in C, j\in P, t\in [0,1]$ be the percentage of votes for party $j$ in town $i$ counted at time $t$.
+\end{itemize}
+
+
+
+
+
+
+%===============<<  END DOCUMENT >>================ 
+\end{document}
+%=================================================

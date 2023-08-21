@@ -1,0 +1,2927 @@
+kraj_code,kraj,obvod_code,obvod,town_code,town,number_of_potential_voters
+1,Bratislavský kraj,101,Volebný obvod č. 1,528595,Bratislava - Staré Mesto,41433
+1,Bratislavský kraj,102,Volebný obvod č. 2,529320,Bratislava - Ružinov,70536
+1,Bratislavský kraj,103,Volebný obvod č. 3,529338,Bratislava - Vrakuňa,17417
+1,Bratislavský kraj,104,Volebný obvod č. 4,529311,Bratislava - Podunajské Biskupice,19586
+1,Bratislavský kraj,105,Volebný obvod č. 5,529346,Bratislava - Nové Mesto,38429
+1,Bratislavský kraj,106,Volebný obvod č. 6,529354,Bratislava - Rača,21896
+1,Bratislavský kraj,106,Volebný obvod č. 6,529362,Bratislava - Vajnory,4881
+1,Bratislavský kraj,107,Volebný obvod č. 7,529397,Bratislava - Karlova Ves,30572
+1,Bratislavský kraj,108,Volebný obvod č. 8,529401,Bratislava - Devín,1541
+1,Bratislavský kraj,108,Volebný obvod č. 8,529371,Bratislava - Devínska Nová Ves,14284
+1,Bratislavský kraj,109,Volebný obvod č. 9,529389,Bratislava - Dúbravka,31037
+1,Bratislavský kraj,110,Volebný obvod č. 10,529419,Bratislava - Lamač,6530
+1,Bratislavský kraj,110,Volebný obvod č. 10,529427,Bratislava - Záhorská Bystrica,5155
+1,Bratislavský kraj,111,Volebný obvod č. 11,529435,Bratislava - Čunovo,1259
+1,Bratislavský kraj,111,Volebný obvod č. 11,529443,Bratislava - Jarovce,2149
+1,Bratislavský kraj,111,Volebný obvod č. 11,529460,Bratislava - Petržalka,97822
+1,Bratislavský kraj,111,Volebný obvod č. 11,529494,Bratislava - Rusovce,3456
+1,Bratislavský kraj,112,Volebný obvod č. 12,508063,Malacky,15592
+1,Bratislavský kraj,112,Volebný obvod č. 12,504874,Studienka,1426
+1,Bratislavský kraj,112,Volebný obvod č. 12,500267,Záhorie (vojenský obvod),124
+1,Bratislavský kraj,112,Volebný obvod č. 12,504980,Závod,2387
+1,Bratislavský kraj,113,Volebný obvod č. 13,507890,Gajary,2673
+1,Bratislavský kraj,113,Volebný obvod č. 13,508012,Kostolište,1657
+1,Bratislavský kraj,113,Volebný obvod č. 13,504556,Malé Leváre,1377
+1,Bratislavský kraj,113,Volebný obvod č. 13,508241,Suchohrad,575
+1,Bratislavský kraj,113,Volebný obvod č. 13,504947,Veľké Leváre,3074
+1,Bratislavský kraj,113,Volebný obvod č. 13,508365,Záhorská Ves,1500
+1,Bratislavský kraj,114,Volebný obvod č. 14,507962,Jakubov,1405
+1,Bratislavský kraj,114,Volebný obvod č. 14,508039,Láb,1613
+1,Bratislavský kraj,114,Volebný obvod č. 14,508195,Plavecký Štvrtok,2097
+1,Bratislavský kraj,114,Volebný obvod č. 14,508349,Vysoká pri Morave,1896
+1,Bratislavský kraj,114,Volebný obvod č. 14,508381,Zohor,2919
+1,Bratislavský kraj,115,Volebný obvod č. 15,507954,Jablonové,1113
+1,Bratislavský kraj,115,Volebný obvod č. 15,508021,Kuchyňa,1510
+1,Bratislavský kraj,115,Volebný obvod č. 15,508055,Lozorno,2600
+1,Bratislavský kraj,115,Volebný obvod č. 15,508161,Pernek,743
+1,Bratislavský kraj,115,Volebný obvod č. 15,504629,Plavecké Podhradie,635
+1,Bratislavský kraj,115,Volebný obvod č. 15,504637,Plavecký Mikuláš,613
+1,Bratislavský kraj,115,Volebný obvod č. 15,504769,Rohožník,2923
+1,Bratislavský kraj,115,Volebný obvod č. 15,504858,Sološnica,1342
+1,Bratislavský kraj,116,Volebný obvod č. 16,507831,Borinka,704
+1,Bratislavský kraj,116,Volebný obvod č. 16,508080,Marianka,1793
+1,Bratislavský kraj,116,Volebný obvod č. 16,508233,Stupava,9644
+1,Bratislavský kraj,117,Volebný obvod č. 17,508179,Pezinok,19868
+1,Bratislavský kraj,118,Volebný obvod č. 18,508047,Limbach,1813
+1,Bratislavský kraj,118,Volebný obvod č. 18,508225,Slovenský Grob,4166
+1,Bratislavský kraj,118,Volebný obvod č. 18,507989,Svätý Jur,4674
+1,Bratislavský kraj,118,Volebný obvod č. 18,508306,Viničné,2154
+1,Bratislavský kraj,119,Volebný obvod č. 19,508101,Modra,7666
+1,Bratislavský kraj,119,Volebný obvod č. 19,508250,Šenkvice,4207
+1,Bratislavský kraj,119,Volebný obvod č. 19,508314,Vinosady,1183
+1,Bratislavský kraj,120,Volebný obvod č. 20,507806,Báhoň,1489
+1,Bratislavský kraj,120,Volebný obvod č. 20,507849,Budmerice,1980
+1,Bratislavský kraj,120,Volebný obvod č. 20,507857,Častá,1923
+1,Bratislavský kraj,120,Volebný obvod č. 20,507873,Doľany,890
+1,Bratislavský kraj,120,Volebný obvod č. 20,507881,Dubová,941
+1,Bratislavský kraj,120,Volebný obvod č. 20,555487,Igram,461
+1,Bratislavský kraj,120,Volebný obvod č. 20,507946,Jablonec,801
+1,Bratislavský kraj,120,Volebný obvod č. 20,555495,Kaplna,720
+1,Bratislavský kraj,120,Volebný obvod č. 20,508187,Píla,285
+1,Bratislavský kraj,120,Volebný obvod č. 20,508268,Štefanová,312
+1,Bratislavský kraj,120,Volebný obvod č. 20,508322,Vištuk,1125
+1,Bratislavský kraj,121,Volebný obvod č. 21,508217,Senec,15715
+1,Bratislavský kraj,122,Volebný obvod č. 22,507822,Blatné,1388
+1,Bratislavský kraj,122,Volebný obvod č. 22,503681,Boldog,435
+1,Bratislavský kraj,122,Volebný obvod č. 22,507865,Čataj,952
+1,Bratislavský kraj,122,Volebný obvod č. 22,503797,Hrubá Borša,1139
+1,Bratislavský kraj,122,Volebný obvod č. 22,503801,Hrubý Šúr,808
+1,Bratislavský kraj,122,Volebný obvod č. 22,503819,Hurbanova Ves,484
+1,Bratislavský kraj,122,Volebný obvod č. 22,503851,Kostolná pri Dunaji,603
+1,Bratislavský kraj,122,Volebný obvod č. 22,503894,Kráľová pri Senci,1754
+1,Bratislavský kraj,122,Volebný obvod č. 22,508136,Nová Dedinka,2553
+1,Bratislavský kraj,122,Volebný obvod č. 22,582549,Nový Svet,78
+1,Bratislavský kraj,122,Volebný obvod č. 22,503983,Reca,1352
+1,Bratislavský kraj,122,Volebný obvod č. 22,508284,Tureň,938
+1,Bratislavský kraj,122,Volebný obvod č. 22,508292,Veľký Biel,2360
+1,Bratislavský kraj,123,Volebný obvod č. 23,507814,Bernolákovo,7116
+1,Bratislavský kraj,123,Volebný obvod č. 23,507911,Chorvátsky Grob,5147
+1,Bratislavský kraj,123,Volebný obvod č. 23,507938,Ivanka pri Dunaji,5392
+1,Bratislavský kraj,123,Volebný obvod č. 23,555509,Zálesie,1719
+1,Bratislavský kraj,124,Volebný obvod č. 24,545333,Dunajská Lužná,5768
+1,Bratislavský kraj,124,Volebný obvod č. 24,507903,Hamuliakovo,2109
+1,Bratislavský kraj,124,Volebný obvod č. 24,507997,Kalinkovo,1204
+1,Bratislavský kraj,124,Volebný obvod č. 24,508071,Malinovo,2972
+1,Bratislavský kraj,124,Volebný obvod č. 24,508098,Miloslavov,3730
+1,Bratislavský kraj,124,Volebný obvod č. 24,508110,Most pri Bratislave,3125
+1,Bratislavský kraj,124,Volebný obvod č. 24,508209,Rovinka,4164
+1,Bratislavský kraj,124,Volebný obvod č. 24,508276,Tomášov,2255
+1,Bratislavský kraj,124,Volebný obvod č. 24,508331,Vlky,371
+2,Trnavský kraj,201,Volebný obvod č. 1,501441,Báč,471
+2,Trnavský kraj,201,Volebný obvod č. 1,501450,Baka,972
+2,Trnavský kraj,201,Volebný obvod č. 1,501468,Baloň,653
+2,Trnavský kraj,201,Volebný obvod č. 1,555517,Bellova Ves,274
+2,Trnavský kraj,201,Volebný obvod č. 1,501484,Blahová,332
+2,Trnavský kraj,201,Volebný obvod č. 1,501492,Blatná na Ostrove,816
+2,Trnavský kraj,201,Volebný obvod č. 1,503461,Bodíky,253
+2,Trnavský kraj,201,Volebný obvod č. 1,501506,Boheľov,305
+2,Trnavský kraj,201,Volebný obvod č. 1,501514,Čakany,493
+2,Trnavský kraj,201,Volebný obvod č. 1,580554,Čenkovce,909
+2,Trnavský kraj,201,Volebný obvod č. 1,501531,Čiližská Radvaň,995
+2,Trnavský kraj,201,Volebný obvod č. 1,501549,Dobrohošť,426
+2,Trnavský kraj,201,Volebný obvod č. 1,501557,Dolný Bar,755
+2,Trnavský kraj,201,Volebný obvod č. 1,501611,Dolný Štál,1608
+2,Trnavský kraj,201,Volebný obvod č. 1,501433,Dunajská Streda,20117
+2,Trnavský kraj,201,Volebný obvod č. 1,555541,Dunajský Klátov,665
+2,Trnavský kraj,201,Volebný obvod č. 1,501573,Gabčíkovo,4445
+2,Trnavský kraj,201,Volebný obvod č. 1,501581,Holice,1738
+2,Trnavský kraj,201,Volebný obvod č. 1,501590,Horná Potôň,1814
+2,Trnavský kraj,201,Volebný obvod č. 1,555568,Horné Mýto,773
+2,Trnavský kraj,201,Volebný obvod č. 1,501603,Horný Bar,1091
+2,Trnavský kraj,201,Volebný obvod č. 1,501620,Hubice,533
+2,Trnavský kraj,201,Volebný obvod č. 1,501638,Hviezdoslavov,2172
+2,Trnavský kraj,201,Volebný obvod č. 1,501654,Jahodná,1412
+2,Trnavský kraj,201,Volebný obvod č. 1,501662,Janíky,769
+2,Trnavský kraj,201,Volebný obvod č. 1,501671,Jurová,421
+2,Trnavský kraj,201,Volebný obvod č. 1,501689,Kľúčovec,308
+2,Trnavský kraj,201,Volebný obvod č. 1,501697,Kostolné Kračany,1229
+2,Trnavský kraj,201,Volebný obvod č. 1,501701,Kráľovičove Kračany,946
+2,Trnavský kraj,201,Volebný obvod č. 1,501719,Kútniky,1273
+2,Trnavský kraj,201,Volebný obvod č. 1,501727,Kvetoslavov,1430
+2,Trnavský kraj,201,Volebný obvod č. 1,580597,Kyselica,197
+2,Trnavský kraj,201,Volebný obvod č. 1,501735,Lehnice,2510
+2,Trnavský kraj,201,Volebný obvod č. 1,501743,Lúč na Ostrove,616
+2,Trnavský kraj,201,Volebný obvod č. 1,555606,Macov,378
+2,Trnavský kraj,201,Volebný obvod č. 1,555649,Mad,479
+2,Trnavský kraj,201,Volebný obvod č. 1,555665,Malé Dvorníky,987
+2,Trnavský kraj,201,Volebný obvod č. 1,501760,Medveďov,463
+2,Trnavský kraj,201,Volebný obvod č. 1,501778,Mierovo,361
+2,Trnavský kraj,201,Volebný obvod č. 1,501786,Michal na Ostrove,879
+2,Trnavský kraj,201,Volebný obvod č. 1,501930,Ňárad,559
+2,Trnavský kraj,201,Volebný obvod č. 1,501808,Nový Život,1875
+2,Trnavský kraj,201,Volebný obvod č. 1,501816,Ohrady,1158
+2,Trnavský kraj,201,Volebný obvod č. 1,501824,Okoč,3136
+2,Trnavský kraj,201,Volebný obvod č. 1,501832,Oľdza,471
+2,Trnavský kraj,201,Volebný obvod č. 1,501859,Orechová Potôň,1434
+2,Trnavský kraj,201,Volebný obvod č. 1,501867,Padáň,735
+2,Trnavský kraj,201,Volebný obvod č. 1,501883,Pataš,633
+2,Trnavský kraj,201,Volebný obvod č. 1,582522,Potônske Lúky,239
+2,Trnavský kraj,201,Volebný obvod č. 1,555720,Povoda,803
+2,Trnavský kraj,201,Volebný obvod č. 1,501891,Rohovce,886
+2,Trnavský kraj,201,Volebný obvod č. 1,501875,Sap,446
+2,Trnavský kraj,201,Volebný obvod č. 1,501905,Šamorín,11106
+2,Trnavský kraj,201,Volebný obvod č. 1,501913,Štvrtok na Ostrove,1443
+2,Trnavský kraj,201,Volebný obvod č. 1,501921,Topoľníky,2678
+2,Trnavský kraj,201,Volebný obvod č. 1,555576,Trhová Hradská,1878
+2,Trnavský kraj,201,Volebný obvod č. 1,501956,Trnávka,417
+2,Trnavský kraj,201,Volebný obvod č. 1,501964,Trstená na Ostrove,500
+2,Trnavský kraj,201,Volebný obvod č. 1,501972,Veľká Paka,855
+2,Trnavský kraj,201,Volebný obvod č. 1,501981,Veľké Blahovo,1318
+2,Trnavský kraj,201,Volebný obvod č. 1,555673,Veľké Dvorníky,1122
+2,Trnavský kraj,201,Volebný obvod č. 1,501522,Veľký Meder,7219
+2,Trnavský kraj,201,Volebný obvod č. 1,555746,Vieska,363
+2,Trnavský kraj,201,Volebný obvod č. 1,501999,Vojka nad Dunajom,365
+2,Trnavský kraj,201,Volebný obvod č. 1,502006,Vrakúň,2394
+2,Trnavský kraj,201,Volebný obvod č. 1,502014,Vydrany,1526
+2,Trnavský kraj,201,Volebný obvod č. 1,502022,Zlaté Klasy,2720
+2,Trnavský kraj,202,Volebný obvod č. 2,503673,Abrahám,918
+2,Trnavský kraj,202,Volebný obvod č. 2,503690,Čierna Voda,1158
+2,Trnavský kraj,202,Volebný obvod č. 2,503703,Čierny Brod,1369
+2,Trnavský kraj,202,Volebný obvod č. 2,555789,Dolná Streda,1381
+2,Trnavský kraj,202,Volebný obvod č. 2,503746,Dolné Saliby,1733
+2,Trnavský kraj,202,Volebný obvod č. 2,503754,Dolný Chotár,282
+2,Trnavský kraj,202,Volebný obvod č. 2,503665,Galanta,13954
+2,Trnavský kraj,202,Volebný obvod č. 2,503762,Gáň,702
+2,Trnavský kraj,202,Volebný obvod č. 2,503771,Horné Saliby,2614
+2,Trnavský kraj,202,Volebný obvod č. 2,503789,Hoste,381
+2,Trnavský kraj,202,Volebný obvod č. 2,503827,Jánovce,409
+2,Trnavský kraj,202,Volebný obvod č. 2,503835,Jelka,3286
+2,Trnavský kraj,202,Volebný obvod č. 2,503843,Kajal,1265
+2,Trnavský kraj,202,Volebný obvod č. 2,503860,Košúty,1530
+2,Trnavský kraj,202,Volebný obvod č. 2,503878,Kráľov Brod,908
+2,Trnavský kraj,202,Volebný obvod č. 2,582638,Malá Mača,486
+2,Trnavský kraj,202,Volebný obvod č. 2,555754,Matúškovo,1880
+2,Trnavský kraj,202,Volebný obvod č. 2,503924,Mostová,1332
+2,Trnavský kraj,202,Volebný obvod č. 2,503959,Pata,2679
+2,Trnavský kraj,202,Volebný obvod č. 2,503967,Pusté Sady,544
+2,Trnavský kraj,202,Volebný obvod č. 2,503975,Pusté Úľany,1455
+2,Trnavský kraj,202,Volebný obvod č. 2,504009,Sereď,13098
+2,Trnavský kraj,202,Volebný obvod č. 2,504017,Sládkovičovo,4541
+2,Trnavský kraj,202,Volebný obvod č. 2,504033,Šalgočka,376
+2,Trnavský kraj,202,Volebný obvod č. 2,504041,Šintava,1483
+2,Trnavský kraj,202,Volebný obvod č. 2,504050,Šoporňa,3600
+2,Trnavský kraj,202,Volebný obvod č. 2,504076,Tomášikovo,1382
+2,Trnavský kraj,202,Volebný obvod č. 2,504084,Topoľnica,688
+2,Trnavský kraj,202,Volebný obvod č. 2,504106,Trstice,3247
+2,Trnavský kraj,202,Volebný obvod č. 2,504114,Váhovce,1782
+2,Trnavský kraj,202,Volebný obvod č. 2,504122,Veľká Mača,2139
+2,Trnavský kraj,202,Volebný obvod č. 2,504131,Veľké Úľany,3974
+2,Trnavský kraj,202,Volebný obvod č. 2,504149,Veľký Grob,1145
+2,Trnavský kraj,202,Volebný obvod č. 2,504157,Vinohrady nad Váhom,1379
+2,Trnavský kraj,202,Volebný obvod č. 2,504173,Vozokany,944
+2,Trnavský kraj,202,Volebný obvod č. 2,504181,Zemianske Sady,714
+2,Trnavský kraj,203,Volebný obvod č. 3,506800,Bojničky,1151
+2,Trnavský kraj,203,Volebný obvod č. 3,506885,Červeník,1355
+2,Trnavský kraj,203,Volebný obvod č. 3,506958,Dolné Otrokovce,317
+2,Trnavský kraj,203,Volebný obvod č. 3,506966,Dolné Trhovište,500
+2,Trnavský kraj,203,Volebný obvod č. 3,556521,Dolné Zelenice,473
+2,Trnavský kraj,203,Volebný obvod č. 3,507024,Dvorníky,1656
+2,Trnavský kraj,203,Volebný obvod č. 3,507032,Hlohovec,16917
+2,Trnavský kraj,203,Volebný obvod č. 3,507075,Horné Otrokovce,747
+2,Trnavský kraj,203,Volebný obvod č. 3,556602,Horné Trhovište,493
+2,Trnavský kraj,203,Volebný obvod č. 3,556530,Horné Zelenice,551
+2,Trnavský kraj,203,Volebný obvod č. 3,507130,Jalšové,409
+2,Trnavský kraj,203,Volebný obvod č. 3,507172,Kľačany,906
+2,Trnavský kraj,203,Volebný obvod č. 3,507202,Koplotovce,611
+2,Trnavský kraj,203,Volebný obvod č. 3,507253,Leopoldov,3240
+2,Trnavský kraj,203,Volebný obvod č. 3,507288,Madunice,1869
+2,Trnavský kraj,203,Volebný obvod č. 3,507326,Merašice,349
+2,Trnavský kraj,203,Volebný obvod č. 3,507415,Pastuchov,757
+2,Trnavský kraj,203,Volebný obvod č. 3,518620,Ratkovce,283
+2,Trnavský kraj,203,Volebný obvod č. 3,507521,Sasinkovo,713
+2,Trnavský kraj,203,Volebný obvod č. 3,507539,Siladice,581
+2,Trnavský kraj,203,Volebný obvod č. 3,556611,Tekolďany,111
+2,Trnavský kraj,203,Volebný obvod č. 3,556645,Tepličky,257
+2,Trnavský kraj,203,Volebný obvod č. 3,507661,Trakovice,1240
+2,Trnavský kraj,203,Volebný obvod č. 3,507792,Žlkovce,523
+2,Trnavský kraj,204,Volebný obvod č. 4,581399,Banka,1810
+2,Trnavský kraj,204,Volebný obvod č. 4,558354,Bašovce,275
+2,Trnavský kraj,204,Volebný obvod č. 4,506834,Borovce,954
+2,Trnavský kraj,204,Volebný obvod č. 4,506982,Dolný Lopašov,800
+2,Trnavský kraj,204,Volebný obvod č. 4,506991,Drahovce,2153
+2,Trnavský kraj,204,Volebný obvod č. 4,507008,Dubovany,857
+2,Trnavský kraj,204,Volebný obvod č. 4,558338,Ducové,370
+2,Trnavský kraj,204,Volebný obvod č. 4,556581,Hubina,449
+2,Trnavský kraj,204,Volebný obvod č. 4,507121,Chtelnica,2135
+2,Trnavský kraj,204,Volebný obvod č. 4,507199,Kočín - Lančár,412
+2,Trnavský kraj,204,Volebný obvod č. 4,507229,Krakovany,1144
+2,Trnavský kraj,204,Volebný obvod č. 4,507342,Moravany nad Váhom,1987
+2,Trnavský kraj,204,Volebný obvod č. 4,507369,Nižná,441
+2,Trnavský kraj,204,Volebný obvod č. 4,507385,Ostrov,1008
+2,Trnavský kraj,204,Volebný obvod č. 4,507431,Pečeňady,462
+2,Trnavský kraj,204,Volebný obvod č. 4,507440,Piešťany,23623
+2,Trnavský kraj,204,Volebný obvod č. 4,507466,Prašník,670
+2,Trnavský kraj,204,Volebný obvod č. 4,507482,Rakovice,496
+2,Trnavský kraj,204,Volebný obvod č. 4,507491,Ratnovce,906
+2,Trnavský kraj,204,Volebný obvod č. 4,507563,Sokolovce,1140
+2,Trnavský kraj,204,Volebný obvod č. 4,558397,Šípkové,253
+2,Trnavský kraj,204,Volebný obvod č. 4,556548,Šterusy,392
+2,Trnavský kraj,204,Volebný obvod č. 4,507679,Trebatice,1104
+2,Trnavský kraj,204,Volebný obvod č. 4,507709,Veľké Kostoľany,2288
+2,Trnavský kraj,204,Volebný obvod č. 4,556572,Veľké Orvište,878
+2,Trnavský kraj,204,Volebný obvod č. 4,507725,Veselé,991
+2,Trnavský kraj,204,Volebný obvod č. 4,507750,Vrbové,4766
+2,Trnavský kraj,205,Volebný obvod č. 5,504211,Bílkove Humence,177
+2,Trnavský kraj,205,Volebný obvod č. 5,504238,Borský Mikuláš,3222
+2,Trnavský kraj,205,Volebný obvod č. 5,504220,Borský Svätý Jur,1307
+2,Trnavský kraj,205,Volebný obvod č. 5,504297,Cerová,922
+2,Trnavský kraj,205,Volebný obvod č. 5,504319,Čáry,1016
+2,Trnavský kraj,205,Volebný obvod č. 5,504327,Častkov,455
+2,Trnavský kraj,205,Volebný obvod č. 5,504335,Dojč,1080
+2,Trnavský kraj,205,Volebný obvod č. 5,504360,Hlboké,838
+2,Trnavský kraj,205,Volebný obvod č. 5,504386,Hradište pod Vrátnom,559
+2,Trnavský kraj,205,Volebný obvod č. 5,504416,Jablonica,1849
+2,Trnavský kraj,205,Volebný obvod č. 5,504475,Koválov,578
+2,Trnavský kraj,205,Volebný obvod č. 5,504491,Kuklov,623
+2,Trnavský kraj,205,Volebný obvod č. 5,504513,Kúty,3262
+2,Trnavský kraj,205,Volebný obvod č. 5,504521,Lakšárska Nová Ves,889
+2,Trnavský kraj,205,Volebný obvod č. 5,504572,Moravský Svätý Ján,1765
+2,Trnavský kraj,205,Volebný obvod č. 5,504602,Osuské,489
+2,Trnavský kraj,205,Volebný obvod č. 5,504645,Plavecký Peter,507
+2,Trnavský kraj,205,Volebný obvod č. 5,504653,Podbranč,516
+2,Trnavský kraj,205,Volebný obvod č. 5,504700,Prietrž,614
+2,Trnavský kraj,205,Volebný obvod č. 5,504726,Prievaly,764
+2,Trnavský kraj,205,Volebný obvod č. 5,556122,Rohov,332
+2,Trnavský kraj,205,Volebný obvod č. 5,504777,Rovensko,354
+2,Trnavský kraj,205,Volebný obvod č. 5,556131,Rybky,337
+2,Trnavský kraj,205,Volebný obvod č. 5,556114,Sekule,1429
+2,Trnavský kraj,205,Volebný obvod č. 5,504203,Senica,16721
+2,Trnavský kraj,205,Volebný obvod č. 5,504823,Smolinské,741
+2,Trnavský kraj,205,Volebný obvod č. 5,504831,Smrdáky,480
+2,Trnavský kraj,205,Volebný obvod č. 5,504840,Sobotište,1229
+2,Trnavský kraj,205,Volebný obvod č. 5,504882,Šajdíkove Humence,911
+2,Trnavský kraj,205,Volebný obvod č. 5,504891,Šaštín - Stráže,4041
+2,Trnavský kraj,205,Volebný obvod č. 5,504904,Štefanov,1282
+2,Trnavský kraj,206,Volebný obvod č. 6,504271,Brodské,1892
+2,Trnavský kraj,206,Volebný obvod č. 6,504343,Dubovce,517
+2,Trnavský kraj,206,Volebný obvod č. 6,504351,Gbely,4119
+2,Trnavský kraj,206,Volebný obvod č. 6,504378,Holíč,9198
+2,Trnavský kraj,206,Volebný obvod č. 6,504394,Chropov,302
+2,Trnavský kraj,206,Volebný obvod č. 6,504432,Kátov,507
+2,Trnavský kraj,206,Volebný obvod č. 6,504459,Kopčany,2068
+2,Trnavský kraj,206,Volebný obvod č. 6,504483,Koválovec,113
+2,Trnavský kraj,206,Volebný obvod č. 6,504530,Letničie,411
+2,Trnavský kraj,206,Volebný obvod č. 6,504548,Lopašov,250
+2,Trnavský kraj,206,Volebný obvod č. 6,504564,Mokrý Háj,567
+2,Trnavský kraj,206,Volebný obvod č. 6,504599,Oreské,305
+2,Trnavský kraj,206,Volebný obvod č. 6,504611,Petrova Ves,871
+2,Trnavský kraj,206,Volebný obvod č. 6,504670,Popudinské Močidľany,784
+2,Trnavský kraj,206,Volebný obvod č. 6,504718,Prietržka,430
+2,Trnavský kraj,206,Volebný obvod č. 6,504734,Radimov,430
+2,Trnavský kraj,206,Volebný obvod č. 6,504742,Radošovce,1453
+2,Trnavský kraj,206,Volebný obvod č. 6,504815,Skalica,12744
+2,Trnavský kraj,206,Volebný obvod č. 6,504912,Trnovec,238
+2,Trnavský kraj,206,Volebný obvod č. 6,504939,Unín,990
+2,Trnavský kraj,206,Volebný obvod č. 6,504963,Vrádište,657
+2,Trnavský kraj,207,Volebný obvod č. 7,580473,Biely Kostol,1938
+2,Trnavský kraj,207,Volebný obvod č. 7,506788,Bíňovce,541
+2,Trnavský kraj,207,Volebný obvod č. 7,506796,Bohdanovce nad Trnavou,1182
+2,Trnavský kraj,207,Volebný obvod č. 7,506818,Boleráz,1927
+2,Trnavský kraj,207,Volebný obvod č. 7,506826,Borová,371
+2,Trnavský kraj,207,Volebný obvod č. 7,506842,Brestovany,2063
+2,Trnavský kraj,207,Volebný obvod č. 7,506851,Bučany,1943
+2,Trnavský kraj,207,Volebný obvod č. 7,506869,Buková,550
+2,Trnavský kraj,207,Volebný obvod č. 7,506877,Cífer,3744
+2,Trnavský kraj,207,Volebný obvod č. 7,506893,Dechtice,1471
+2,Trnavský kraj,207,Volebný obvod č. 7,556599,Dlhá,359
+2,Trnavský kraj,207,Volebný obvod č. 7,506915,Dobrá Voda,668
+2,Trnavský kraj,207,Volebný obvod č. 7,506923,Dolná Krupá,1964
+2,Trnavský kraj,207,Volebný obvod č. 7,506931,Dolné Dubové,601
+2,Trnavský kraj,207,Volebný obvod č. 7,556661,Dolné Lovčice,647
+2,Trnavský kraj,207,Volebný obvod č. 7,506940,Dolné Orešany,1115
+2,Trnavský kraj,207,Volebný obvod č. 7,507041,Horná Krupá,410
+2,Trnavský kraj,207,Volebný obvod č. 7,507059,Horné Dubové,301
+2,Trnavský kraj,207,Volebný obvod č. 7,507067,Horné Orešany,1589
+2,Trnavský kraj,207,Volebný obvod č. 7,581020,Hrnčiarovce nad Parnou,1844
+2,Trnavský kraj,207,Volebný obvod č. 7,507156,Jaslovské Bohunice,1856
+2,Trnavský kraj,207,Volebný obvod č. 7,507164,Kátlovce,937
+2,Trnavský kraj,207,Volebný obvod č. 7,507211,Košolná,679
+2,Trnavský kraj,207,Volebný obvod č. 7,556483,Križovany nad Dudváhom,1467
+2,Trnavský kraj,207,Volebný obvod č. 7,556688,Lošonec,493
+2,Trnavský kraj,207,Volebný obvod č. 7,507296,Majcichov,1760
+2,Trnavský kraj,207,Volebný obvod č. 7,507318,Malženice,1202
+2,Trnavský kraj,207,Volebný obvod č. 7,507351,Naháč,354
+2,Trnavský kraj,207,Volebný obvod č. 7,556491,Opoj,979
+2,Trnavský kraj,207,Volebný obvod č. 7,556556,Pavlice,436
+2,Trnavský kraj,207,Volebný obvod č. 7,556653,Radošovce,318
+2,Trnavský kraj,207,Volebný obvod č. 7,507512,Ružindol,1337
+2,Trnavský kraj,207,Volebný obvod č. 7,556564,Slovenská Nová Ves,431
+2,Trnavský kraj,207,Volebný obvod č. 7,507555,Smolenice,2649
+2,Trnavský kraj,207,Volebný obvod č. 7,507571,Suchá nad Parnou,1803
+2,Trnavský kraj,207,Volebný obvod č. 7,556670,Šelpice,741
+2,Trnavský kraj,207,Volebný obvod č. 7,507601,Špačince,2619
+2,Trnavský kraj,207,Volebný obvod č. 7,507636,Šúrovce,1825
+2,Trnavský kraj,207,Volebný obvod č. 7,506745,Trnava,52921
+2,Trnavský kraj,207,Volebný obvod č. 7,507687,Trstín,1159
+2,Trnavský kraj,207,Volebný obvod č. 7,556513,Vlčkovce,1106
+2,Trnavský kraj,207,Volebný obvod č. 7,507741,Voderady,1329
+2,Trnavský kraj,207,Volebný obvod č. 7,507768,Zavar,1739
+2,Trnavský kraj,207,Volebný obvod č. 7,507776,Zeleneč,2178
+2,Trnavský kraj,207,Volebný obvod č. 7,581488,Zvončín,804
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542652,Bánovce nad Bebravou,14322
+3,Trenčiansky kraj,301,Volebný obvod č. 1,556793,Borčany,214
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542741,Brezolupy,405
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542776,Cimenná,82
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542806,Čierna Lehota,100
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542822,Dežerice,831
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542849,Dolné Naštice,480
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542857,Dubnička,109
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542873,Dvorec,399
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542890,Haláčovce,273
+3,Trenčiansky kraj,301,Volebný obvod č. 1,506028,Horňany,335
+3,Trenčiansky kraj,301,Volebný obvod č. 1,542920,Horné Naštice,416
+3,Trenčiansky kraj,301,Volebný obvod č. 1,556408,Chudá Lehota,183
+3,Trenčiansky kraj,301,Volebný obvod č. 1,543080,Krásna Ves,410
+3,Trenčiansky kraj,301,Volebný obvod č. 1,543136,Kšinná,406
+3,Trenčiansky kraj,301,Volebný obvod č. 1,556360,Libichava,117
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505056,Ľutov,146
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505072,Malá Hradná,316
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505102,Malé Hoste,349
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505153,Miezgovce,239
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505200,Nedašovce,359
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505277,Omastiná,34
+3,Trenčiansky kraj,301,Volebný obvod č. 1,556289,Otrhánky,317
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505331,Pečeňany,437
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505358,Podlužany,764
+3,Trenčiansky kraj,301,Volebný obvod č. 1,556742,Pochabany,214
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505382,Pravotice,279
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505412,Prusy,520
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505447,Ruskovce,440
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505455,Rybany,1257
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505471,Slatina nad Bebravou,375
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505480,Slatinka nad Bebravou,174
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505544,Šípkov,133
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505552,Šišov,410
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505579,Timoradza,413
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505595,Trebichava,32
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505625,Uhrovec,1257
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505633,Uhrovské Podhradie,35
+3,Trenčiansky kraj,301,Volebný obvod č. 1,545651,Veľké Držkovce,535
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505684,Veľké Hoste,461
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505692,Veľké Chlievany,405
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505765,Vysočany,93
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505790,Zlatníky,578
+3,Trenčiansky kraj,301,Volebný obvod č. 1,505811,Žitná - Radiša,373
+3,Trenčiansky kraj,302,Volebný obvod č. 2,582301,Bohunice,611
+3,Trenčiansky kraj,302,Volebný obvod č. 2,512885,Bolešov,1246
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557391,Borčice,555
+3,Trenčiansky kraj,302,Volebný obvod č. 2,512931,Červený Kameň,535
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513016,Dubnica nad Váhom,18881
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513024,Dulov,748
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513091,Horná Poruba,883
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513156,Ilava,4587
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557404,Kameničany,443
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513253,Košeca,2229
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513351,Košecké Podhradie,847
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557617,Krivoklát,184
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513296,Ladce,2041
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513385,Mikušovce,828
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513440,Nová Dubnica,9004
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513598,Pruské,1830
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557412,Sedmerovec,360
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557421,Slavnica,728
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513725,Tuchyňa,697
+3,Trenčiansky kraj,302,Volebný obvod č. 2,557625,Vršatské Podhradie,183
+3,Trenčiansky kraj,302,Volebný obvod č. 2,513865,Zliechov,452
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504254,Brestovec,829
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504262,Brezová pod Bradlom,4064
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504289,Bukovec,346
+3,Trenčiansky kraj,303,Volebný obvod č. 3,506079,Hrašné,411
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504408,Chvojnica,282
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504424,Jablonka,400
+3,Trenčiansky kraj,303,Volebný obvod č. 3,506141,Kostolné,498
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504467,Košariská,347
+3,Trenčiansky kraj,303,Volebný obvod č. 3,506150,Krajné,1183
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504581,Myjava,9274
+3,Trenčiansky kraj,303,Volebný obvod č. 3,506419,Podkylava,220
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504661,Polianka,332
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504688,Poriadie,592
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504696,Priepasné,292
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504793,Rudník,674
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504866,Stará Myjava,626
+3,Trenčiansky kraj,303,Volebný obvod č. 3,504971,Vrbovce,1177
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505846,Beckov,1193
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505871,Bošáca,1108
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505889,Brunovce,497
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505897,Bzince pod Javorinou,1666
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505901,Čachtice,2976
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505919,Častkovce,1300
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505951,Dolné Srnie,791
+3,Trenčiansky kraj,304,Volebný obvod č. 4,556424,Haluzice,83
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506001,Horná Streda,1153
+3,Trenčiansky kraj,304,Volebný obvod č. 4,505994,Hôrka nad Váhom,635
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506052,Hrádok,596
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506061,Hrachovište,531
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506109,Kálnica,851
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506125,Kočovce,1337
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506184,Lubina,1219
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506206,Lúka,585
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506249,Modrová,390
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506257,Modrovka,165
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506265,Moravské Lieskové,2111
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506303,Nová Bošáca,850
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506311,Nová Lehota,167
+3,Trenčiansky kraj,304,Volebný obvod č. 4,556459,Nová Ves nad Váhom,446
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506338,Nové Mesto nad Váhom,15876
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506346,Očkov,382
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506401,Pobedim,934
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506427,Podolie,1535
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506435,Potvorice,554
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506443,Považany,1046
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506516,Stará Lehota,150
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506524,Stará Turá,7331
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506583,Trenčianske Bohuslavice,776
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506630,Vaďovce,593
+3,Trenčiansky kraj,304,Volebný obvod č. 4,506672,Višňové,137
+3,Trenčiansky kraj,304,Volebný obvod č. 4,556441,Zemianske Podhradie,627
+3,Trenčiansky kraj,305,Volebný obvod č. 5,542733,Bošany,3360
+3,Trenčiansky kraj,305,Volebný obvod č. 5,580449,Brodzany,739
+3,Trenčiansky kraj,305,Volebný obvod č. 5,542962,Hradište,824
+3,Trenčiansky kraj,305,Volebný obvod č. 5,543004,Chynorany,2207
+3,Trenčiansky kraj,305,Volebný obvod č. 5,556416,Ješkova Ves,413
+3,Trenčiansky kraj,305,Volebný obvod č. 5,543047,Klátova Nová Ves,1335
+3,Trenčiansky kraj,305,Volebný obvod č. 5,543055,Kolačno,711
+3,Trenčiansky kraj,305,Volebný obvod č. 5,556246,Krásno,443
+3,Trenčiansky kraj,305,Volebný obvod č. 5,556173,Livina,99
+3,Trenčiansky kraj,305,Volebný obvod č. 5,556190,Livinské Opatovce,218
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505129,Malé Kršteňany,442
+3,Trenčiansky kraj,305,Volebný obvod č. 5,580953,Malé Uherce,688
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505170,Nadlice,490
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505196,Nedanovce,524
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505307,Ostratice,654
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505315,Partizánske,18092
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505323,Pažiť,399
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505463,Skačany,1096
+3,Trenčiansky kraj,305,Volebný obvod č. 5,556271,Turčianky,115
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505706,Veľké Kršteňany,488
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505722,Veľké Uherce,1698
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505731,Veľký Klíž,723
+3,Trenčiansky kraj,305,Volebný obvod č. 5,505803,Žabokreky nad Nitrou,1410
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557633,Bodiná,404
+3,Trenčiansky kraj,306,Volebný obvod č. 6,512915,Brvnište,987
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557561,Čelkova Lehota,126
+3,Trenčiansky kraj,306,Volebný obvod č. 6,512966,Dolná Mariková,1173
+3,Trenčiansky kraj,306,Volebný obvod č. 6,546640,Dolný Lieskov,667
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513008,Domaniža,1369
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557609,Ďurďové,131
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557510,Hatné,501
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513083,Horná Mariková,496
+3,Trenčiansky kraj,306,Volebný obvod č. 6,580856,Horný Lieskov,350
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513172,Jasenica,989
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557552,Klieština,285
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513245,Kostolec,208
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557579,Malé Lednice,401
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513466,Papradno,1990
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513474,Plevník - Drienové,1342
+3,Trenčiansky kraj,306,Volebný obvod č. 6,558222,Počarová,122
+3,Trenčiansky kraj,306,Volebný obvod č. 6,580864,Podskalie,114
+3,Trenčiansky kraj,306,Volebný obvod č. 6,512842,Považská Bystrica,32100
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513563,Prečín,1225
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513601,Pružina,1647
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557595,Sádočné,130
+3,Trenčiansky kraj,306,Volebný obvod č. 6,557480,Slopná,398
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513687,Stupné,555
+3,Trenčiansky kraj,306,Volebný obvod č. 6,518913,Sverepec,1087
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513741,Udiča,1816
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513784,Vrchteplá,206
+3,Trenčiansky kraj,306,Volebný obvod č. 6,513822,Záskalie,162
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513903,Bojnice,4278
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513911,Bystričany,1492
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513920,Cigeľ,1041
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513938,Čavoj,427
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513946,Čereňany,1471
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513954,Diviacka Nová Ves,1470
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513962,Diviaky nad Nitricou,1459
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513971,Dlžín,149
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513989,Dolné Vestenice,2079
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513997,Handlová,13699
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514004,Horná Ves,1100
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514012,Horné Vestenice,523
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514021,Chrenovec - Brusno,1141
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514039,Chvojnica,195
+3,Trenčiansky kraj,307,Volebný obvod č. 7,557714,Jalovec,483
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514063,Kamenec pod Vtáčnikom,1490
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514071,Kanianka,3252
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514080,Kľačno,878
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514098,Kocurany,444
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514101,Kostolná Ves,422
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514110,Koš,856
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514128,Lazany,1443
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514136,Lehota pod Vtáčnikom,3126
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514144,Liešťany,981
+3,Trenčiansky kraj,307,Volebný obvod č. 7,557706,Lipník,469
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514179,Malá Čausa,594
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514187,Malinová,799
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514209,Nedožery - Brezany,1732
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514217,Nevidzany,246
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514225,Nitrianske Pravno,2604
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514233,Nitrianske Rudno,1571
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514241,Nitrianske Sučany,987
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514250,Nitrica,968
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514268,Nováky,3555
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514284,Opatovce nad Nitrou,1304
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514292,Oslany,1905
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514306,Podhradie,254
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514314,Poluvsie,458
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514322,Poruba,1112
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514331,Pravenec,1078
+3,Trenčiansky kraj,307,Volebný obvod č. 7,513881,Prievidza,37785
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514349,Radobica,486
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514357,Ráztočno,1049
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514365,Rudnianska Lehota,620
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514373,Sebedražie,1407
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514381,Seč,324
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514390,Šútovce,365
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514403,Temeš,178
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514411,Tužina,1025
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514420,Valaská Belá,1667
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514438,Veľká Čausa,433
+3,Trenčiansky kraj,307,Volebný obvod č. 7,514454,Zemianske Kostoľany,1445
+3,Trenčiansky kraj,308,Volebný obvod č. 8,512851,Beluša,5002
+3,Trenčiansky kraj,308,Volebný obvod č. 8,512940,Dohňany,1518
+3,Trenčiansky kraj,308,Volebný obvod č. 8,512958,Dolná Breznica,823
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557439,Dolné Kočkovce,917
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557692,Horná Breznica,399
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513121,Horovce,714
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557501,Kvašov,537
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513300,Lazy pod Makytou,1027
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513318,Lednica,769
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513326,Lednické Rovne,3280
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513334,Lúky,741
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513342,Lysá pod Makytou,1632
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513377,Mestečko,422
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513407,Mojtín,378
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557447,Nimnica,588
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513610,Púchov,14469
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557471,Streženice,861
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513776,Visolaje,784
+3,Trenčiansky kraj,308,Volebný obvod č. 8,557498,Vydrná,240
+3,Trenčiansky kraj,308,Volebný obvod č. 8,513814,Záriečie,565
+3,Trenčiansky kraj,308,Volebný obvod č. 8,500348,Zubák,701
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505838,Adamovské Kochanovce,692
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505854,Bobot,608
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505935,Dolná Poruba,644
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505943,Dolná Súča,2457
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505960,Drietoma,1812
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505978,Dubodiel,846
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506010,Horná Súča,2699
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506036,Horné Srnie,2199
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506044,Hrabovka,357
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506087,Chocholná - Velčice,1391
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506095,Ivanovce,809
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506133,Kostolná - Záriečie,546
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506168,Krivosúd - Bodovka,292
+3,Trenčiansky kraj,309,Volebný obvod č. 9,545686,Melčice - Lieskové,1311
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506231,Mníchova Lehota,1007
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506273,Motešice,660
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506281,Nemšová,5117
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506290,Neporadza,649
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506354,Omšenie,1530
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506371,Opatovce,340
+3,Trenčiansky kraj,309,Volebný obvod č. 9,581348,Petrova Lehota,152
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506478,Selec,821
+3,Trenčiansky kraj,309,Volebný obvod č. 9,546682,Skalka nad Váhom,959
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506508,Soblahov,1919
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506532,Svinná,1336
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506541,Štvrtok,358
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506559,Trenčianska Teplá,3428
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506567,Trenčianska Turná,2836
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506591,Trenčianske Jastrabie,1072
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506605,Trenčianske Mitice,658
+3,Trenčiansky kraj,309,Volebný obvod č. 9,545741,Trenčianske Stankovce,2758
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506613,Trenčianske Teplice,3428
+3,Trenčiansky kraj,309,Volebný obvod č. 9,505820,Trenčín,46201
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506648,Veľká Hradná,596
+3,Trenčiansky kraj,309,Volebný obvod č. 9,506656,Veľké Bierovce,555
+3,Trenčiansky kraj,309,Volebný obvod č. 9,556475,Zamarovce,911
+4,Nitriansky kraj,401,Volebný obvod č. 1,501034,Bajč,1000
+4,Nitriansky kraj,401,Volebný obvod č. 1,501395,Bátorove Kosihy,2716
+4,Nitriansky kraj,401,Volebný obvod č. 1,501042,Bodza,311
+4,Nitriansky kraj,401,Volebný obvod č. 1,555819,Bodzianske Lúky,159
+4,Nitriansky kraj,401,Volebný obvod č. 1,501069,Brestovec,412
+4,Nitriansky kraj,401,Volebný obvod č. 1,501077,Búč,962
+4,Nitriansky kraj,401,Volebný obvod č. 1,501085,Čalovec,943
+4,Nitriansky kraj,401,Volebný obvod č. 1,501093,Číčov,1035
+4,Nitriansky kraj,401,Volebný obvod č. 1,501107,Dedina Mládeže,361
+4,Nitriansky kraj,401,Volebný obvod č. 1,501123,Dulovce,1322
+4,Nitriansky kraj,401,Volebný obvod č. 1,580911,Holiare,373
+4,Nitriansky kraj,401,Volebný obvod č. 1,501140,Hurbanovo,5990
+4,Nitriansky kraj,401,Volebný obvod č. 1,501158,Chotín,1203
+4,Nitriansky kraj,401,Volebný obvod č. 1,501166,Imeľ,1701
+4,Nitriansky kraj,401,Volebný obvod č. 1,501174,Iža,1498
+4,Nitriansky kraj,401,Volebný obvod č. 1,501182,Kameničná,1614
+4,Nitriansky kraj,401,Volebný obvod č. 1,501191,Klížska Nemá,365
+4,Nitriansky kraj,401,Volebný obvod č. 1,501204,Kolárovo,8848
+4,Nitriansky kraj,401,Volebný obvod č. 1,501026,Komárno,28858
+4,Nitriansky kraj,401,Volebný obvod č. 1,501212,Kravany nad Dunajom,599
+4,Nitriansky kraj,401,Volebný obvod č. 1,501221,Lipové,117
+4,Nitriansky kraj,401,Volebný obvod č. 1,501239,Marcelová,3118
+4,Nitriansky kraj,401,Volebný obvod č. 1,501247,Martovce,607
+4,Nitriansky kraj,401,Volebný obvod č. 1,501255,Moča,940
+4,Nitriansky kraj,401,Volebný obvod č. 1,501263,Modrany,1072
+4,Nitriansky kraj,401,Volebný obvod č. 1,501271,Mudroňovo,107
+4,Nitriansky kraj,401,Volebný obvod č. 1,501280,Nesvady,4007
+4,Nitriansky kraj,401,Volebný obvod č. 1,501301,Okoličná na Ostrove,1231
+4,Nitriansky kraj,401,Volebný obvod č. 1,501310,Patince,451
+4,Nitriansky kraj,401,Volebný obvod č. 1,501328,Pribeta,2312
+4,Nitriansky kraj,401,Volebný obvod č. 1,501336,Radvaň nad Dunajom,607
+4,Nitriansky kraj,401,Volebný obvod č. 1,501344,Sokolce,1009
+4,Nitriansky kraj,401,Volebný obvod č. 1,501115,Svätý Peter,2343
+4,Nitriansky kraj,401,Volebný obvod č. 1,501352,Šrobárová,415
+4,Nitriansky kraj,401,Volebný obvod č. 1,501361,Tôň,625
+4,Nitriansky kraj,401,Volebný obvod č. 1,501379,Trávnik,593
+4,Nitriansky kraj,401,Volebný obvod č. 1,501387,Veľké Kosihy,809
+4,Nitriansky kraj,401,Volebný obvod č. 1,555827,Virt,276
+4,Nitriansky kraj,401,Volebný obvod č. 1,501409,Vrbová nad Váhom,453
+4,Nitriansky kraj,401,Volebný obvod č. 1,501417,Zemianska Olča,1971
+4,Nitriansky kraj,401,Volebný obvod č. 1,501425,Zlatná na Ostrove,2025
+4,Nitriansky kraj,402,Volebný obvod č. 2,502049,Bajka,247
+4,Nitriansky kraj,402,Volebný obvod č. 2,502057,Bátovce,967
+4,Nitriansky kraj,402,Volebný obvod č. 2,502065,Beša,523
+4,Nitriansky kraj,402,Volebný obvod č. 2,502073,Bielovce,201
+4,Nitriansky kraj,402,Volebný obvod č. 2,580937,Bohunice,118
+4,Nitriansky kraj,402,Volebný obvod č. 2,502090,Bory,268
+4,Nitriansky kraj,402,Volebný obvod č. 2,502103,Brhlovce,248
+4,Nitriansky kraj,402,Volebný obvod č. 2,502111,Čajkov,785
+4,Nitriansky kraj,402,Volebný obvod č. 2,502120,Čaka,599
+4,Nitriansky kraj,402,Volebný obvod č. 2,555843,Čata,865
+4,Nitriansky kraj,402,Volebný obvod č. 2,502154,Demandice,765
+4,Nitriansky kraj,402,Volebný obvod č. 2,502162,Devičany,336
+4,Nitriansky kraj,402,Volebný obvod č. 2,502171,Dolná Seč,450
+4,Nitriansky kraj,402,Volebný obvod č. 2,502189,Dolné Semerovce,446
+4,Nitriansky kraj,402,Volebný obvod č. 2,502197,Dolný Pial,742
+4,Nitriansky kraj,402,Volebný obvod č. 2,502201,Domadice,202
+4,Nitriansky kraj,402,Volebný obvod č. 2,502219,Drženice,321
+4,Nitriansky kraj,402,Volebný obvod č. 2,502227,Farná,1137
+4,Nitriansky kraj,402,Volebný obvod č. 2,502243,Hokovce,408
+4,Nitriansky kraj,402,Volebný obvod č. 2,502251,Hontianska Vrbica,490
+4,Nitriansky kraj,402,Volebný obvod č. 2,545350,Hontianske Trsťany,257
+4,Nitriansky kraj,402,Volebný obvod č. 2,502260,Horná Seč,482
+4,Nitriansky kraj,402,Volebný obvod č. 2,502278,Horné Semerovce,501
+4,Nitriansky kraj,402,Volebný obvod č. 2,502286,Horné Turovce,473
+4,Nitriansky kraj,402,Volebný obvod č. 2,502294,Horný Pial,237
+4,Nitriansky kraj,402,Volebný obvod č. 2,581895,Hrkovce,257
+4,Nitriansky kraj,402,Volebný obvod č. 2,502324,Hronovce,1188
+4,Nitriansky kraj,402,Volebný obvod č. 2,502332,Hronské Kľačany,1164
+4,Nitriansky kraj,402,Volebný obvod č. 2,502341,Hronské Kosihy,619
+4,Nitriansky kraj,402,Volebný obvod č. 2,502359,Iňa,190
+4,Nitriansky kraj,402,Volebný obvod č. 2,502367,Ipeľské Úľany,231
+4,Nitriansky kraj,402,Volebný obvod č. 2,502375,Ipeľský Sokolec,683
+4,Nitriansky kraj,402,Volebný obvod č. 2,502383,Jabloňovce,177
+4,Nitriansky kraj,402,Volebný obvod č. 2,556777,Jesenské,37
+4,Nitriansky kraj,402,Volebný obvod č. 2,502391,Jur nad Hronom,811
+4,Nitriansky kraj,402,Volebný obvod č. 2,502413,Kalná nad Hronom,1699
+4,Nitriansky kraj,402,Volebný obvod č. 2,502472,Keť,496
+4,Nitriansky kraj,402,Volebný obvod č. 2,502421,Kozárovce,1636
+4,Nitriansky kraj,402,Volebný obvod č. 2,502430,Krškany,697
+4,Nitriansky kraj,402,Volebný obvod č. 2,502448,Kubáňovo,221
+4,Nitriansky kraj,402,Volebný obvod č. 2,502456,Kukučínov,479
+4,Nitriansky kraj,402,Volebný obvod č. 2,502464,Kuraľany,419
+4,Nitriansky kraj,402,Volebný obvod č. 2,502031,Levice,27013
+4,Nitriansky kraj,402,Volebný obvod č. 2,502481,Lok,829
+4,Nitriansky kraj,402,Volebný obvod č. 2,502499,Lontov,499
+4,Nitriansky kraj,402,Volebný obvod č. 2,502502,Lula,144
+4,Nitriansky kraj,402,Volebný obvod č. 2,502511,Málaš,401
+4,Nitriansky kraj,402,Volebný obvod č. 2,581135,Malé Kozmálovce,325
+4,Nitriansky kraj,402,Volebný obvod č. 2,502537,Malé Ludince,143
+4,Nitriansky kraj,402,Volebný obvod č. 2,502570,Mýtne Ludany,799
+4,Nitriansky kraj,402,Volebný obvod č. 2,502588,Nová Dedina,1201
+4,Nitriansky kraj,402,Volebný obvod č. 2,502596,Nový Tekov,744
+4,Nitriansky kraj,402,Volebný obvod č. 2,502600,Nýrovce,456
+4,Nitriansky kraj,402,Volebný obvod č. 2,502618,Ondrejovce,362
+4,Nitriansky kraj,402,Volebný obvod č. 2,502626,Pastovce,429
+4,Nitriansky kraj,402,Volebný obvod č. 2,502634,Pečenice,109
+4,Nitriansky kraj,402,Volebný obvod č. 2,502642,Plášťovce,1275
+4,Nitriansky kraj,402,Volebný obvod č. 2,502651,Plavé Vozokany,580
+4,Nitriansky kraj,402,Volebný obvod č. 2,502669,Podlužany,642
+4,Nitriansky kraj,402,Volebný obvod č. 2,502677,Pohronský Ruskov,1029
+4,Nitriansky kraj,402,Volebný obvod č. 2,502693,Pukanec,1557
+4,Nitriansky kraj,402,Volebný obvod č. 2,502707,Rybník,1185
+4,Nitriansky kraj,402,Volebný obvod č. 2,502715,Santovka,566
+4,Nitriansky kraj,402,Volebný obvod č. 2,502723,Sazdice,349
+4,Nitriansky kraj,402,Volebný obvod č. 2,502731,Sikenica,505
+4,Nitriansky kraj,402,Volebný obvod č. 2,502740,Slatina,233
+4,Nitriansky kraj,402,Volebný obvod č. 2,502758,Starý Hrádok,167
+4,Nitriansky kraj,402,Volebný obvod č. 2,502766,Starý Tekov,1233
+4,Nitriansky kraj,402,Volebný obvod č. 2,502782,Šahy,6119
+4,Nitriansky kraj,402,Volebný obvod č. 2,502791,Šalov,269
+4,Nitriansky kraj,402,Volebný obvod č. 2,502804,Šarovce,1269
+4,Nitriansky kraj,402,Volebný obvod č. 2,502812,Tehla,387
+4,Nitriansky kraj,402,Volebný obvod č. 2,502821,Tekovské Lužany,2299
+4,Nitriansky kraj,402,Volebný obvod č. 2,502847,Tekovský Hrádok,295
+4,Nitriansky kraj,402,Volebný obvod č. 2,502863,Tlmače,3063
+4,Nitriansky kraj,402,Volebný obvod č. 2,502871,Tupá,478
+4,Nitriansky kraj,402,Volebný obvod č. 2,502880,Turá,182
+4,Nitriansky kraj,402,Volebný obvod č. 2,502898,Uhliská,176
+4,Nitriansky kraj,402,Volebný obvod č. 2,581160,Veľké Kozmálovce,607
+4,Nitriansky kraj,402,Volebný obvod č. 2,502910,Veľké Ludince,1246
+4,Nitriansky kraj,402,Volebný obvod č. 2,502928,Veľké Turovce,631
+4,Nitriansky kraj,402,Volebný obvod č. 2,502936,Veľký Ďur,1079
+4,Nitriansky kraj,402,Volebný obvod č. 2,502944,Vyškovce nad Ipľom,540
+4,Nitriansky kraj,402,Volebný obvod č. 2,502952,Vyšné nad Hronom,148
+4,Nitriansky kraj,402,Volebný obvod č. 2,502961,Zalaba,122
+4,Nitriansky kraj,402,Volebný obvod č. 2,502979,Zbrojníky,416
+4,Nitriansky kraj,402,Volebný obvod č. 2,502987,Želiezovce,5746
+4,Nitriansky kraj,402,Volebný obvod č. 2,502995,Žemberovce,1011
+4,Nitriansky kraj,402,Volebný obvod č. 2,503002,Žemliare,129
+4,Nitriansky kraj,403,Volebný obvod č. 3,500020,Alekšince,1457
+4,Nitriansky kraj,403,Volebný obvod č. 3,500046,Báb,958
+4,Nitriansky kraj,403,Volebný obvod č. 3,581623,Babindol,590
+4,Nitriansky kraj,403,Volebný obvod č. 3,582697,Bádice,330
+4,Nitriansky kraj,403,Volebný obvod č. 3,500071,Branč,1858
+4,Nitriansky kraj,403,Volebný obvod č. 3,545589,Cabaj - Čápor,3459
+4,Nitriansky kraj,403,Volebný obvod č. 3,582387,Čab,647
+4,Nitriansky kraj,403,Volebný obvod č. 3,500101,Čakajovce,947
+4,Nitriansky kraj,403,Volebný obvod č. 3,555886,Čechynce,1031
+4,Nitriansky kraj,403,Volebný obvod č. 3,500135,Čeľadice,879
+4,Nitriansky kraj,403,Volebný obvod č. 3,500160,Čifáre,507
+4,Nitriansky kraj,403,Volebný obvod č. 3,582425,Dolné Lefantovce,546
+4,Nitriansky kraj,403,Volebný obvod č. 3,500194,Dolné Obdokovce,941
+4,Nitriansky kraj,403,Volebný obvod č. 3,500232,Golianovo,1489
+4,Nitriansky kraj,403,Volebný obvod č. 3,545635,Horné Lefantovce,730
+4,Nitriansky kraj,403,Volebný obvod č. 3,555959,Hosťová,334
+4,Nitriansky kraj,403,Volebný obvod č. 3,500313,Hruboňovo,445
+4,Nitriansky kraj,403,Volebný obvod č. 3,558320,Ivanka pri Nitre,2456
+4,Nitriansky kraj,403,Volebný obvod č. 3,500356,Jarok,1716
+4,Nitriansky kraj,403,Volebný obvod č. 3,500372,Jelenec,1740
+4,Nitriansky kraj,403,Volebný obvod č. 3,500381,Jelšovce,826
+4,Nitriansky kraj,403,Volebný obvod č. 3,500399,Kapince,158
+4,Nitriansky kraj,403,Volebný obvod č. 3,500402,Klasov,1174
+4,Nitriansky kraj,403,Volebný obvod č. 3,500411,Kolíňany,1280
+4,Nitriansky kraj,403,Volebný obvod č. 3,500453,Lehota,1943
+4,Nitriansky kraj,403,Volebný obvod č. 3,500470,Lúčnica nad Žitavou,802
+4,Nitriansky kraj,403,Volebný obvod č. 3,581097,Ľudovítová,209
+4,Nitriansky kraj,403,Volebný obvod č. 3,500488,Lukáčovce,974
+4,Nitriansky kraj,403,Volebný obvod č. 3,580899,Lužianky,2583
+4,Nitriansky kraj,403,Volebný obvod č. 3,556785,Malé Chyndice,316
+4,Nitriansky kraj,403,Volebný obvod č. 3,500534,Malé Zálužie,215
+4,Nitriansky kraj,403,Volebný obvod č. 3,555908,Malý Cetín,388
+4,Nitriansky kraj,403,Volebný obvod č. 3,555851,Malý Lapáš,1004
+4,Nitriansky kraj,403,Volebný obvod č. 3,500569,Melek,429
+4,Nitriansky kraj,403,Volebný obvod č. 3,500577,Mojmírovce,2399
+4,Nitriansky kraj,403,Volebný obvod č. 3,500011,Nitra,66697
+4,Nitriansky kraj,403,Volebný obvod č. 3,556696,Nitrianske Hrnčiarovce,1913
+4,Nitriansky kraj,403,Volebný obvod č. 3,500631,Nová Ves nad Žitavou,1113
+4,Nitriansky kraj,403,Volebný obvod č. 3,500640,Nové Sady,1084
+4,Nitriansky kraj,403,Volebný obvod č. 3,500666,Paňa,328
+4,Nitriansky kraj,403,Volebný obvod č. 3,500674,Podhorany,963
+4,Nitriansky kraj,403,Volebný obvod č. 3,500682,Pohranice,933
+4,Nitriansky kraj,403,Volebný obvod č. 3,500691,Poľný Kesov,526
+4,Nitriansky kraj,403,Volebný obvod č. 3,500704,Rišňovce,1690
+4,Nitriansky kraj,403,Volebný obvod č. 3,500712,Rumanová,679
+4,Nitriansky kraj,403,Volebný obvod č. 3,555991,Svätoplukovo,1125
+4,Nitriansky kraj,403,Volebný obvod č. 3,581691,Štefanovičová,292
+4,Nitriansky kraj,403,Volebný obvod č. 3,582719,Štitáre,899
+4,Nitriansky kraj,403,Volebný obvod č. 3,500780,Šurianky,489
+4,Nitriansky kraj,403,Volebný obvod č. 3,500798,Tajná,224
+4,Nitriansky kraj,403,Volebný obvod č. 3,555967,Telince,291
+4,Nitriansky kraj,403,Volebný obvod č. 3,500844,Veľká Dolina,574
+4,Nitriansky kraj,403,Volebný obvod č. 3,500518,Veľké Chyndice,269
+4,Nitriansky kraj,403,Volebný obvod č. 3,500887,Veľké Zálužie,3505
+4,Nitriansky kraj,403,Volebný obvod č. 3,500895,Veľký Cetín,1362
+4,Nitriansky kraj,403,Volebný obvod č. 3,555860,Veľký Lapáš,1536
+4,Nitriansky kraj,403,Volebný obvod č. 3,500917,Vinodol,1575
+4,Nitriansky kraj,403,Volebný obvod č. 3,500933,Vráble,6896
+4,Nitriansky kraj,403,Volebný obvod č. 3,500941,Výčapy - Opatovce,1775
+4,Nitriansky kraj,403,Volebný obvod č. 3,500950,Zbehy,1843
+4,Nitriansky kraj,403,Volebný obvod č. 3,500992,Žirany,1138
+4,Nitriansky kraj,403,Volebný obvod č. 3,501018,Žitavce,361
+4,Nitriansky kraj,404,Volebný obvod č. 4,503029,Andovce,1401
+4,Nitriansky kraj,404,Volebný obvod č. 4,503045,Bánov,3033
+4,Nitriansky kraj,404,Volebný obvod č. 4,503053,Bardoňovo,597
+4,Nitriansky kraj,404,Volebný obvod č. 4,503070,Bešeňov,1341
+4,Nitriansky kraj,404,Volebný obvod č. 4,503096,Branovo,502
+4,Nitriansky kraj,404,Volebný obvod č. 4,503118,Čechy,250
+4,Nitriansky kraj,404,Volebný obvod č. 4,503126,Černík,849
+4,Nitriansky kraj,404,Volebný obvod č. 4,503134,Dedinka,552
+4,Nitriansky kraj,404,Volebný obvod č. 4,503151,Dolný Ohaj,1245
+4,Nitriansky kraj,404,Volebný obvod č. 4,503177,Dvory nad Žitavou,4133
+4,Nitriansky kraj,404,Volebný obvod č. 4,503193,Hul,1029
+4,Nitriansky kraj,404,Volebný obvod č. 4,503215,Jasová,966
+4,Nitriansky kraj,404,Volebný obvod č. 4,503223,Jatov,613
+4,Nitriansky kraj,404,Volebný obvod č. 4,503266,Kmeťovo,705
+4,Nitriansky kraj,404,Volebný obvod č. 4,503274,Kolta,1083
+4,Nitriansky kraj,404,Volebný obvod č. 4,503282,Komjatice,3397
+4,Nitriansky kraj,404,Volebný obvod č. 4,503291,Komoča,812
+4,Nitriansky kraj,404,Volebný obvod č. 4,503321,Lipová,1299
+4,Nitriansky kraj,404,Volebný obvod č. 4,503363,Maňa,1649
+4,Nitriansky kraj,404,Volebný obvod č. 4,503371,Michal nad Žitavou,573
+4,Nitriansky kraj,404,Volebný obvod č. 4,503398,Mojzesovo,1088
+4,Nitriansky kraj,404,Volebný obvod č. 4,503011,Nové Zámky,31611
+4,Nitriansky kraj,404,Volebný obvod č. 4,503452,Palárikovo,3420
+4,Nitriansky kraj,404,Volebný obvod č. 4,503479,Podhájska,941
+4,Nitriansky kraj,404,Volebný obvod č. 4,503487,Pozba,391
+4,Nitriansky kraj,404,Volebný obvod č. 4,503495,Radava,632
+4,Nitriansky kraj,404,Volebný obvod č. 4,503509,Rastislavice,785
+4,Nitriansky kraj,404,Volebný obvod č. 4,503533,Semerovo,1068
+4,Nitriansky kraj,404,Volebný obvod č. 4,503592,Šurany,7938
+4,Nitriansky kraj,404,Volebný obvod č. 4,503606,Trávnica,855
+4,Nitriansky kraj,404,Volebný obvod č. 4,503614,Tvrdošovce,4278
+4,Nitriansky kraj,404,Volebný obvod č. 4,556050,Úľany nad Žitavou,1289
+4,Nitriansky kraj,404,Volebný obvod č. 4,503631,Veľké Lovce,1502
+4,Nitriansky kraj,404,Volebný obvod č. 4,503380,Veľký Kýr,2503
+4,Nitriansky kraj,404,Volebný obvod č. 4,556025,Vlkas,263
+4,Nitriansky kraj,404,Volebný obvod č. 4,503649,Zemné,1757
+4,Nitriansky kraj,405,Volebný obvod č. 5,503711,Diakovce,1967
+4,Nitriansky kraj,405,Volebný obvod č. 5,503720,Dlhá nad Váhom,756
+4,Nitriansky kraj,405,Volebný obvod č. 5,500241,Hájske,1069
+4,Nitriansky kraj,405,Volebný obvod č. 5,555878,Horná Kráľová,1546
+4,Nitriansky kraj,405,Volebný obvod č. 5,503886,Kráľová nad Váhom,1509
+4,Nitriansky kraj,405,Volebný obvod č. 5,500739,Močenok,3560
+4,Nitriansky kraj,405,Volebný obvod č. 5,503932,Neded,2589
+4,Nitriansky kraj,405,Volebný obvod č. 5,503991,Selice,2330
+4,Nitriansky kraj,405,Volebný obvod č. 5,504025,Šaľa,17638
+4,Nitriansky kraj,405,Volebný obvod č. 5,504068,Tešedíkovo,3130
+4,Nitriansky kraj,405,Volebný obvod č. 5,504092,Trnovec nad Váhom,2248
+4,Nitriansky kraj,405,Volebný obvod č. 5,504165,Vlčany,2646
+4,Nitriansky kraj,405,Volebný obvod č. 5,504190,Žihárec,1480
+4,Nitriansky kraj,406,Volebný obvod č. 6,503037,Bajtava,329
+4,Nitriansky kraj,406,Volebný obvod č. 6,503061,Belá,289
+4,Nitriansky kraj,406,Volebný obvod č. 6,503088,Bíňa,1194
+4,Nitriansky kraj,406,Volebný obvod č. 6,503100,Bruty,507
+4,Nitriansky kraj,406,Volebný obvod č. 6,503169,Dubník,1276
+4,Nitriansky kraj,406,Volebný obvod č. 6,503185,Gbelce,1752
+4,Nitriansky kraj,406,Volebný obvod č. 6,503207,Chľaba,575
+4,Nitriansky kraj,406,Volebný obvod č. 6,503231,Kamenica nad Hronom,1076
+4,Nitriansky kraj,406,Volebný obvod č. 6,503240,Kamenín,1227
+4,Nitriansky kraj,406,Volebný obvod č. 6,503258,Kamenný Most,864
+4,Nitriansky kraj,406,Volebný obvod č. 6,503312,Leľa,277
+4,Nitriansky kraj,406,Volebný obvod č. 6,503339,Ľubá,351
+4,Nitriansky kraj,406,Volebný obvod č. 6,503347,Malá nad Hronom,339
+4,Nitriansky kraj,406,Volebný obvod č. 6,503355,Malé Kosihy,318
+4,Nitriansky kraj,406,Volebný obvod č. 6,503401,Mužla,1536
+4,Nitriansky kraj,406,Volebný obvod č. 6,556092,Nána,1060
+4,Nitriansky kraj,406,Volebný obvod č. 6,503436,Nová Vieska,578
+4,Nitriansky kraj,406,Volebný obvod č. 6,582361,Obid,976
+4,Nitriansky kraj,406,Volebný obvod č. 6,556033,Pavlová,191
+4,Nitriansky kraj,406,Volebný obvod č. 6,503517,Rúbaň,725
+4,Nitriansky kraj,406,Volebný obvod č. 6,503525,Salka,872
+4,Nitriansky kraj,406,Volebný obvod č. 6,503541,Sikenička,372
+4,Nitriansky kraj,406,Volebný obvod č. 6,503550,Strekov,1634
+4,Nitriansky kraj,406,Volebný obvod č. 6,503568,Svodín,2031
+4,Nitriansky kraj,406,Volebný obvod č. 6,503576,Šarkan,305
+4,Nitriansky kraj,406,Volebný obvod č. 6,503584,Štúrovo,8727
+4,Nitriansky kraj,407,Volebný obvod č. 7,556220,Ardanovce,184
+4,Nitriansky kraj,407,Volebný obvod č. 7,542661,Belince,310
+4,Nitriansky kraj,407,Volebný obvod č. 7,542695,Biskupová,201
+4,Nitriansky kraj,407,Volebný obvod č. 7,542709,Blesovce,281
+4,Nitriansky kraj,407,Volebný obvod č. 7,542717,Bojná,1661
+4,Nitriansky kraj,407,Volebný obvod č. 7,556297,Čeľadince,392
+4,Nitriansky kraj,407,Volebný obvod č. 7,542792,Čermany,320
+4,Nitriansky kraj,407,Volebný obvod č. 7,556262,Dvorany nad Nitrou,658
+4,Nitriansky kraj,407,Volebný obvod č. 7,542881,Hajná Nová Ves,280
+4,Nitriansky kraj,407,Volebný obvod č. 7,556351,Horné Chlebany,281
+4,Nitriansky kraj,407,Volebný obvod č. 7,542938,Horné Obdokovce,1239
+4,Nitriansky kraj,407,Volebný obvod č. 7,542954,Horné Štitáre,504
+4,Nitriansky kraj,407,Volebný obvod č. 7,542971,Hrušovany,906
+4,Nitriansky kraj,407,Volebný obvod č. 7,556165,Chrabrany,735
+4,Nitriansky kraj,407,Volebný obvod č. 7,556157,Jacovce,1506
+4,Nitriansky kraj,407,Volebný obvod č. 7,543039,Kamanová,503
+4,Nitriansky kraj,407,Volebný obvod č. 7,543063,Koniarovce,543
+4,Nitriansky kraj,407,Volebný obvod č. 7,543071,Kovarce,1286
+4,Nitriansky kraj,407,Volebný obvod č. 7,543101,Krnča,1135
+4,Nitriansky kraj,407,Volebný obvod č. 7,543110,Krtovce,246
+4,Nitriansky kraj,407,Volebný obvod č. 7,556149,Krušovce,1454
+4,Nitriansky kraj,407,Volebný obvod č. 7,581704,Kuzmice,597
+4,Nitriansky kraj,407,Volebný obvod č. 7,505021,Lipovník,275
+4,Nitriansky kraj,407,Volebný obvod č. 7,505048,Ludanice,1471
+4,Nitriansky kraj,407,Volebný obvod č. 7,505064,Lužany,186
+4,Nitriansky kraj,407,Volebný obvod č. 7,505137,Malé Ripňany,456
+4,Nitriansky kraj,407,Volebný obvod č. 7,581305,Nemčice,842
+4,Nitriansky kraj,407,Volebný obvod č. 7,505226,Nemečky,273
+4,Nitriansky kraj,407,Volebný obvod č. 7,505234,Nitrianska Blatnica,1044
+4,Nitriansky kraj,407,Volebný obvod č. 7,505242,Nitrianska Streda,620
+4,Nitriansky kraj,407,Volebný obvod č. 7,505251,Norovce,291
+4,Nitriansky kraj,407,Volebný obvod č. 7,505285,Oponice,698
+4,Nitriansky kraj,407,Volebný obvod č. 7,556211,Orešany,265
+4,Nitriansky kraj,407,Volebný obvod č. 7,505340,Podhradie,235
+4,Nitriansky kraj,407,Volebný obvod č. 7,505374,Prašice,1672
+4,Nitriansky kraj,407,Volebný obvod č. 7,581658,Práznovce,809
+4,Nitriansky kraj,407,Volebný obvod č. 7,505404,Preseľany,1252
+4,Nitriansky kraj,407,Volebný obvod č. 7,505421,Radošina,1564
+4,Nitriansky kraj,407,Volebný obvod č. 7,505439,Rajčany,437
+4,Nitriansky kraj,407,Volebný obvod č. 7,505498,Solčany,2107
+4,Nitriansky kraj,407,Volebný obvod č. 7,556327,Solčianky,230
+4,Nitriansky kraj,407,Volebný obvod č. 7,505510,Súlovce,454
+4,Nitriansky kraj,407,Volebný obvod č. 7,556238,Svrbice,160
+4,Nitriansky kraj,407,Volebný obvod č. 7,505536,Šalgovce,416
+4,Nitriansky kraj,407,Volebný obvod č. 7,505561,Tesáre,598
+4,Nitriansky kraj,407,Volebný obvod č. 7,504998,Topoľčany,21149
+4,Nitriansky kraj,407,Volebný obvod č. 7,580457,Tovarníky,1218
+4,Nitriansky kraj,407,Volebný obvod č. 7,505617,Tvrdomestice,397
+4,Nitriansky kraj,407,Volebný obvod č. 7,505641,Urmince,1173
+4,Nitriansky kraj,407,Volebný obvod č. 7,505676,Veľké Dvorany,597
+4,Nitriansky kraj,407,Volebný obvod č. 7,505714,Veľké Ripňany,1699
+4,Nitriansky kraj,407,Volebný obvod č. 7,505749,Velušovce,452
+4,Nitriansky kraj,407,Volebný obvod č. 7,505757,Vozokany,276
+4,Nitriansky kraj,407,Volebný obvod č. 7,505773,Závada,491
+4,Nitriansky kraj,408,Volebný obvod č. 8,500062,Beladice,1319
+4,Nitriansky kraj,408,Volebný obvod č. 8,500127,Čaradice,422
+4,Nitriansky kraj,408,Volebný obvod č. 8,555916,Červený Hrádok,355
+4,Nitriansky kraj,408,Volebný obvod č. 8,500151,Čierne Kľačany,962
+4,Nitriansky kraj,408,Volebný obvod č. 8,500283,Hostie,983
+4,Nitriansky kraj,408,Volebný obvod č. 8,500305,Hosťovce,625
+4,Nitriansky kraj,408,Volebný obvod č. 8,500321,Choča,409
+4,Nitriansky kraj,408,Volebný obvod č. 8,500364,Jedľové Kostoľany,754
+4,Nitriansky kraj,408,Volebný obvod č. 8,500429,Kostoľany pod Tribečom,296
+4,Nitriansky kraj,408,Volebný obvod č. 8,500437,Ladice,647
+4,Nitriansky kraj,408,Volebný obvod č. 8,500461,Lovce,601
+4,Nitriansky kraj,408,Volebný obvod č. 8,500500,Machulince,903
+4,Nitriansky kraj,408,Volebný obvod č. 8,555924,Malé Vozokany,284
+4,Nitriansky kraj,408,Volebný obvod č. 8,500542,Mankovce,426
+4,Nitriansky kraj,408,Volebný obvod č. 8,500551,Martin nad Žitavou,454
+4,Nitriansky kraj,408,Volebný obvod č. 8,500585,Nemčiňany,548
+4,Nitriansky kraj,408,Volebný obvod č. 8,500593,Neverice,569
+4,Nitriansky kraj,408,Volebný obvod č. 8,500607,Nevidzany,473
+4,Nitriansky kraj,408,Volebný obvod č. 8,500658,Obyce,1224
+4,Nitriansky kraj,408,Volebný obvod č. 8,500721,Skýcov,782
+4,Nitriansky kraj,408,Volebný obvod č. 8,500747,Sľažany,1410
+4,Nitriansky kraj,408,Volebný obvod č. 8,500755,Slepčany,673
+4,Nitriansky kraj,408,Volebný obvod č. 8,517305,Tekovské Nemce,878
+4,Nitriansky kraj,408,Volebný obvod č. 8,500810,Tesárske Mlyňany,1374
+4,Nitriansky kraj,408,Volebný obvod č. 8,500828,Topoľčianky,2261
+4,Nitriansky kraj,408,Volebný obvod č. 8,500836,Velčice,687
+4,Nitriansky kraj,408,Volebný obvod č. 8,555932,Veľké Vozokany,351
+4,Nitriansky kraj,408,Volebný obvod č. 8,500909,Vieska nad Žitavou,365
+4,Nitriansky kraj,408,Volebný obvod č. 8,500925,Volkovce,818
+4,Nitriansky kraj,408,Volebný obvod č. 8,500968,Zlaté Moravce,9993
+4,Nitriansky kraj,408,Volebný obvod č. 8,500976,Zlatno,175
+4,Nitriansky kraj,408,Volebný obvod č. 8,500984,Žikava,433
+4,Nitriansky kraj,408,Volebný obvod č. 8,582816,Žitavany,1565
+5,Žilinský kraj,501,Volebný obvod č. 1,517461,Bytča,9277
+5,Žilinský kraj,501,Volebný obvod č. 1,581984,Hlboké nad Váhom,771
+5,Žilinský kraj,501,Volebný obvod č. 1,517623,Hvozdnica,961
+5,Žilinský kraj,501,Volebný obvod č. 1,517631,Jablonové,727
+5,Žilinský kraj,501,Volebný obvod č. 1,517674,Kolárovice,1472
+5,Žilinský kraj,501,Volebný obvod č. 1,517691,Kotešová,1754
+5,Žilinský kraj,501,Volebný obvod č. 1,517798,Maršová - Rašov,785
+5,Žilinský kraj,501,Volebný obvod č. 1,517861,Petrovice,1346
+5,Žilinský kraj,501,Volebný obvod č. 1,517895,Predmier,1118
+5,Žilinský kraj,501,Volebný obvod č. 1,517992,Súľov - Hradná,821
+5,Žilinský kraj,501,Volebný obvod č. 1,518018,Štiavnik,3173
+5,Žilinský kraj,501,Volebný obvod č. 1,518085,Veľké Rovné,2998
+5,Žilinský kraj,502,Volebný obvod č. 2,509132,Čadca,19186
+5,Žilinský kraj,502,Volebný obvod č. 2,509159,Čierne,3563
+5,Žilinský kraj,502,Volebný obvod č. 2,509167,Dlhá nad Kysucou,498
+5,Žilinský kraj,502,Volebný obvod č. 2,509183,Dunajov,902
+5,Žilinský kraj,502,Volebný obvod č. 2,509213,Klokočov,1893
+5,Žilinský kraj,502,Volebný obvod č. 2,509221,Klubina,423
+5,Žilinský kraj,502,Volebný obvod č. 2,509230,Korňa,1625
+5,Žilinský kraj,502,Volebný obvod č. 2,509248,Krásno nad Kysucou,5404
+5,Žilinský kraj,502,Volebný obvod č. 2,509299,Makov,1438
+5,Žilinský kraj,502,Volebný obvod č. 2,509311,Nová Bystrica,2177
+5,Žilinský kraj,502,Volebný obvod č. 2,509337,Olešná,1586
+5,Žilinský kraj,502,Volebný obvod č. 2,509345,Oščadnica,4636
+5,Žilinský kraj,502,Volebný obvod č. 2,509361,Podvysoká,1100
+5,Žilinský kraj,502,Volebný obvod č. 2,509396,Radôstka,661
+5,Žilinský kraj,502,Volebný obvod č. 2,509400,Raková,4534
+5,Žilinský kraj,502,Volebný obvod č. 2,509451,Skalité,4122
+5,Žilinský kraj,502,Volebný obvod č. 2,509477,Stará Bystrica,2264
+5,Žilinský kraj,502,Volebný obvod č. 2,509485,Staškov,2256
+5,Žilinský kraj,502,Volebný obvod č. 2,509493,Svrčinovec,2743
+5,Žilinský kraj,502,Volebný obvod č. 2,509507,Turzovka,5924
+5,Žilinský kraj,502,Volebný obvod č. 2,509515,Vysoká nad Kysucou,2133
+5,Žilinský kraj,502,Volebný obvod č. 2,509523,Zákopčie,1404
+5,Žilinský kraj,502,Volebný obvod č. 2,509531,Zborov nad Bystricou,1797
+5,Žilinský kraj,503,Volebný obvod č. 3,580813,Bziny,465
+5,Žilinský kraj,503,Volebný obvod č. 3,509639,Dlhá nad Oravou,1157
+5,Žilinský kraj,503,Volebný obvod č. 3,509540,Dolný Kubín,14693
+5,Žilinský kraj,503,Volebný obvod č. 3,509671,Horná Lehota,456
+5,Žilinský kraj,503,Volebný obvod č. 3,509698,Chlebnice,1262
+5,Žilinský kraj,503,Volebný obvod č. 3,509701,Istebné,1116
+5,Žilinský kraj,503,Volebný obvod č. 3,509710,Jasenová,355
+5,Žilinský kraj,503,Volebný obvod č. 3,509744,Kraľovany,344
+5,Žilinský kraj,503,Volebný obvod č. 3,509761,Krivá,655
+5,Žilinský kraj,503,Volebný obvod č. 3,509787,Leštiny,233
+5,Žilinský kraj,503,Volebný obvod č. 3,509825,Malatiná,644
+5,Žilinský kraj,503,Volebný obvod č. 3,509833,Medzibrodie nad Oravou,451
+5,Žilinský kraj,503,Volebný obvod č. 3,509922,Oravská Poruba,881
+5,Žilinský kraj,503,Volebný obvod č. 3,509957,Oravský Podzámok,1087
+5,Žilinský kraj,503,Volebný obvod č. 3,509965,Osádka,126
+5,Žilinský kraj,503,Volebný obvod č. 3,509973,Párnica,764
+5,Žilinský kraj,503,Volebný obvod č. 3,509990,Pokryváč,137
+5,Žilinský kraj,503,Volebný obvod č. 3,510009,Pribiš,381
+5,Žilinský kraj,503,Volebný obvod č. 3,510017,Pucov,674
+5,Žilinský kraj,503,Volebný obvod č. 3,510041,Sedliacka Dubová,413
+5,Žilinský kraj,503,Volebný obvod č. 3,510165,Veličná,1112
+5,Žilinský kraj,503,Volebný obvod č. 3,510181,Vyšný Kubín,628
+5,Žilinský kraj,503,Volebný obvod č. 3,510211,Zázrivá,2080
+5,Žilinský kraj,503,Volebný obvod č. 3,510254,Žaškov,1344
+5,Žilinský kraj,504,Volebný obvod č. 4,509175,Dolný Vadičov,454
+5,Žilinský kraj,504,Volebný obvod č. 4,509205,Horný Vadičov,1384
+5,Žilinský kraj,504,Volebný obvod č. 4,509256,Kysucké Nové Mesto,12036
+5,Žilinský kraj,504,Volebný obvod č. 4,509264,Kysucký Lieskovec,1905
+5,Žilinský kraj,504,Volebný obvod č. 4,509272,Lodno,761
+5,Žilinský kraj,504,Volebný obvod č. 4,509281,Lopušné Pažite,375
+5,Žilinský kraj,504,Volebný obvod č. 4,509302,Nesluša,2578
+5,Žilinský kraj,504,Volebný obvod č. 4,509329,Ochodnica,1592
+5,Žilinský kraj,504,Volebný obvod č. 4,509370,Povina,956
+5,Žilinský kraj,504,Volebný obvod č. 4,580791,Radoľa,1259
+5,Žilinský kraj,504,Volebný obvod č. 4,509426,Rudina,1476
+5,Žilinský kraj,504,Volebný obvod č. 4,509434,Rudinka,318
+5,Žilinský kraj,504,Volebný obvod č. 4,509442,Rudinská,810
+5,Žilinský kraj,504,Volebný obvod č. 4,509469,Snežnica,862
+5,Žilinský kraj,505,Volebný obvod č. 5,510271,Beňadiková,438
+5,Žilinský kraj,505,Volebný obvod č. 5,510319,Bobrovček,148
+5,Žilinský kraj,505,Volebný obvod č. 5,510327,Bobrovec,1616
+5,Žilinský kraj,505,Volebný obvod č. 5,510335,Bobrovník,113
+5,Žilinský kraj,505,Volebný obvod č. 5,510351,Bukovina,89
+5,Žilinský kraj,505,Volebný obvod č. 5,510386,Demänovská Dolina,310
+5,Žilinský kraj,505,Volebný obvod č. 5,510408,Dúbrava,1040
+5,Žilinský kraj,505,Volebný obvod č. 5,510416,Galovany,260
+5,Žilinský kraj,505,Volebný obvod č. 5,510424,Gôtovany,380
+5,Žilinský kraj,505,Volebný obvod č. 5,510459,Huty,132
+5,Žilinský kraj,505,Volebný obvod č. 5,510467,Hybe,1228
+5,Žilinský kraj,505,Volebný obvod č. 5,556807,Ižipovce,75
+5,Žilinský kraj,505,Volebný obvod č. 5,510505,Jakubovany,328
+5,Žilinský kraj,505,Volebný obvod č. 5,510513,Jalovec,266
+5,Žilinský kraj,505,Volebný obvod č. 5,510521,Jamník,387
+5,Žilinský kraj,505,Volebný obvod č. 5,507393,Konská,187
+5,Žilinský kraj,505,Volebný obvod č. 5,510564,Kráľova Lehota,475
+5,Žilinský kraj,505,Volebný obvod č. 5,510572,Kvačany,439
+5,Žilinský kraj,505,Volebný obvod č. 5,510581,Lazisko,321
+5,Žilinský kraj,505,Volebný obvod č. 5,510602,Liptovská Anna,97
+5,Žilinský kraj,505,Volebný obvod č. 5,510611,Liptovská Kokava,771
+5,Žilinský kraj,505,Volebný obvod č. 5,558281,Liptovská Porúbka,1011
+5,Žilinský kraj,505,Volebný obvod č. 5,510653,Liptovská Sielnica,501
+5,Žilinský kraj,505,Volebný obvod č. 5,510688,Liptovské Beharovce,67
+5,Žilinský kraj,505,Volebný obvod č. 5,510696,Liptovské Kľačany,283
+5,Žilinský kraj,505,Volebný obvod č. 5,510700,Liptovské Matiašovce,252
+5,Žilinský kraj,505,Volebný obvod č. 5,510726,Liptovský Hrádok,6042
+5,Žilinský kraj,505,Volebný obvod č. 5,510734,Liptovský Ján,843
+5,Žilinský kraj,505,Volebný obvod č. 5,510262,Liptovský Mikuláš,25712
+5,Žilinský kraj,505,Volebný obvod č. 5,510751,Liptovský Ondrej,538
+5,Žilinský kraj,505,Volebný obvod č. 5,580287,Liptovský Peter,1085
+5,Žilinský kraj,505,Volebný obvod č. 5,510777,Liptovský Trnovec,502
+5,Žilinský kraj,505,Volebný obvod č. 5,510793,Ľubeľa,979
+5,Žilinský kraj,505,Volebný obvod č. 5,510831,Malatíny,207
+5,Žilinský kraj,505,Volebný obvod č. 5,510840,Malé Borové,102
+5,Žilinský kraj,505,Volebný obvod č. 5,510858,Malužiná,194
+5,Žilinský kraj,505,Volebný obvod č. 5,510874,Nižná Boca,134
+5,Žilinský kraj,505,Volebný obvod č. 5,510904,Partizánska Ľupča,1047
+5,Žilinský kraj,505,Volebný obvod č. 5,510912,Pavčina Lehota,317
+5,Žilinský kraj,505,Volebný obvod č. 5,510921,Pavlova Ves,232
+5,Žilinský kraj,505,Volebný obvod č. 5,510947,Podtureň,877
+5,Žilinský kraj,505,Volebný obvod č. 5,510963,Pribylina,1026
+5,Žilinský kraj,505,Volebný obvod č. 5,510971,Prosiek,170
+5,Žilinský kraj,505,Volebný obvod č. 5,511013,Smrečany,576
+5,Žilinský kraj,505,Volebný obvod č. 5,511048,Svätý Kríž,722
+5,Žilinský kraj,505,Volebný obvod č. 5,511072,Trstené,182
+5,Žilinský kraj,505,Volebný obvod č. 5,511099,Uhorská Ves,442
+5,Žilinský kraj,505,Volebný obvod č. 5,511111,Vavrišovo,552
+5,Žilinský kraj,505,Volebný obvod č. 5,511129,Važec,1905
+5,Žilinský kraj,505,Volebný obvod č. 5,511137,Veľké Borové,40
+5,Žilinský kraj,505,Volebný obvod č. 5,511145,Veterná Poruba,304
+5,Žilinský kraj,505,Volebný obvod č. 5,511153,Vlachy,518
+5,Žilinský kraj,505,Volebný obvod č. 5,511170,Východná,1799
+5,Žilinský kraj,505,Volebný obvod č. 5,511188,Vyšná Boca,102
+5,Žilinský kraj,505,Volebný obvod č. 5,511196,Závažná Poruba,1082
+5,Žilinský kraj,505,Volebný obvod č. 5,511200,Žiar,369
+5,Žilinský kraj,506,Volebný obvod č. 6,512052,Belá - Dulice,1012
+5,Žilinský kraj,506,Volebný obvod č. 6,512061,Benice,275
+5,Žilinský kraj,506,Volebný obvod č. 6,512079,Blatnica,855
+5,Žilinský kraj,506,Volebný obvod č. 6,512133,Bystrička,1242
+5,Žilinský kraj,506,Volebný obvod č. 6,512150,Ďanová,450
+5,Žilinský kraj,506,Volebný obvod č. 6,512168,Diaková,409
+5,Žilinský kraj,506,Volebný obvod č. 6,512206,Dolný Kalník,256
+5,Žilinský kraj,506,Volebný obvod č. 6,512214,Dražkovce,825
+5,Žilinský kraj,506,Volebný obvod č. 6,512257,Folkušová,126
+5,Žilinský kraj,506,Volebný obvod č. 6,512290,Horný Kalník,158
+5,Žilinský kraj,506,Volebný obvod č. 6,512346,Karlová,92
+5,Žilinský kraj,506,Volebný obvod č. 6,512354,Kláštor pod Znievom,1419
+5,Žilinský kraj,506,Volebný obvod č. 6,512371,Košťany nad Turcom,1131
+5,Žilinský kraj,506,Volebný obvod č. 6,512389,Krpeľany,889
+5,Žilinský kraj,506,Volebný obvod č. 6,512397,Laskár,97
+5,Žilinský kraj,506,Volebný obvod č. 6,512419,Ležiachov,135
+5,Žilinský kraj,506,Volebný obvod č. 6,512435,Lipovec,753
+5,Žilinský kraj,506,Volebný obvod č. 6,512036,Martin,44451
+5,Žilinský kraj,506,Volebný obvod č. 6,512478,Necpaly,847
+5,Žilinský kraj,506,Volebný obvod č. 6,512486,Nolčovo,202
+5,Žilinský kraj,506,Volebný obvod č. 6,512508,Podhradie,570
+5,Žilinský kraj,506,Volebný obvod č. 6,512524,Príbovce,893
+5,Žilinský kraj,506,Volebný obvod č. 6,512541,Rakovo,320
+5,Žilinský kraj,506,Volebný obvod č. 6,512567,Ratkovo,166
+5,Žilinský kraj,506,Volebný obvod č. 6,512583,Sklabiňa,548
+5,Žilinský kraj,506,Volebný obvod č. 6,512591,Sklabinský Podzámok,153
+5,Žilinský kraj,506,Volebný obvod č. 6,512613,Slovany,365
+5,Žilinský kraj,506,Volebný obvod č. 6,512630,Socovce,189
+5,Žilinský kraj,506,Volebný obvod č. 6,512648,Sučany,3942
+5,Žilinský kraj,506,Volebný obvod č. 6,512656,Šútovo,419
+5,Žilinský kraj,506,Volebný obvod č. 6,512664,Trebostovo,489
+5,Žilinský kraj,506,Volebný obvod č. 6,512672,Trnovo,229
+5,Žilinský kraj,506,Volebný obvod č. 6,512681,Turany,3510
+5,Žilinský kraj,506,Volebný obvod č. 6,512702,Turčianska Štiavnička,764
+5,Žilinský kraj,506,Volebný obvod č. 6,545961,Turčianske Jaseno,360
+5,Žilinský kraj,506,Volebný obvod č. 6,512711,Turčianske Kľačany,830
+5,Žilinský kraj,506,Volebný obvod č. 6,512737,Turčiansky Ďur,143
+5,Žilinský kraj,506,Volebný obvod č. 6,512753,Turčiansky Peter,422
+5,Žilinský kraj,506,Volebný obvod č. 6,512761,Valča,1459
+5,Žilinský kraj,506,Volebný obvod č. 6,512796,Vrícko,408
+5,Žilinský kraj,506,Volebný obvod č. 6,557358,Vrútky,6220
+5,Žilinský kraj,506,Volebný obvod č. 6,512818,Záborie,135
+5,Žilinský kraj,506,Volebný obvod č. 6,512834,Žabokreky,1009
+5,Žilinský kraj,507,Volebný obvod č. 7,509558,Babín,1100
+5,Žilinský kraj,507,Volebný obvod č. 7,509566,Beňadovo,621
+5,Žilinský kraj,507,Volebný obvod č. 7,509582,Bobrov,1442
+5,Žilinský kraj,507,Volebný obvod č. 7,509591,Breza,1242
+5,Žilinský kraj,507,Volebný obvod č. 7,509680,Hruštín,2507
+5,Žilinský kraj,507,Volebný obvod č. 7,509728,Klin,1800
+5,Žilinský kraj,507,Volebný obvod č. 7,509779,Krušetnica,766
+5,Žilinský kraj,507,Volebný obvod č. 7,509809,Lokca,1862
+5,Žilinský kraj,507,Volebný obvod č. 7,509817,Lomná,688
+5,Žilinský kraj,507,Volebný obvod č. 7,509850,Mútne,2226
+5,Žilinský kraj,507,Volebný obvod č. 7,509868,Námestovo,6035
+5,Žilinský kraj,507,Volebný obvod č. 7,509884,Novoť,2679
+5,Žilinský kraj,507,Volebný obvod č. 7,509892,Oravská Jasenica,1474
+5,Žilinský kraj,507,Volebný obvod č. 7,509906,Oravská Lesná,2558
+5,Žilinský kraj,507,Volebný obvod č. 7,509914,Oravská Polhora,2925
+5,Žilinský kraj,507,Volebný obvod č. 7,509931,Oravské Veselé,2309
+5,Žilinský kraj,507,Volebný obvod č. 7,510025,Rabča,3778
+5,Žilinský kraj,507,Volebný obvod č. 7,510033,Rabčice,1557
+5,Žilinský kraj,507,Volebný obvod č. 7,510050,Sihelné,1564
+5,Žilinský kraj,507,Volebný obvod č. 7,510092,Ťapešovo,596
+5,Žilinský kraj,507,Volebný obvod č. 7,510149,Vasiľov,620
+5,Žilinský kraj,507,Volebný obvod č. 7,510157,Vavrečka,1229
+5,Žilinský kraj,507,Volebný obvod č. 7,510203,Zákamenné,4103
+5,Žilinský kraj,507,Volebný obvod č. 7,510246,Zubrohlava,1801
+5,Žilinský kraj,508,Volebný obvod č. 8,510301,Bešeňová,550
+5,Žilinský kraj,508,Volebný obvod č. 8,510441,Hubová,852
+5,Žilinský kraj,508,Volebný obvod č. 8,507300,Ivachnová,525
+5,Žilinský kraj,508,Volebný obvod č. 8,510530,Kalameny,373
+5,Žilinský kraj,508,Volebný obvod č. 8,510548,Komjatná,1241
+5,Žilinský kraj,508,Volebný obvod č. 8,510599,Likavka,2423
+5,Žilinský kraj,508,Volebný obvod č. 8,510629,Liptovská Lúžna,2276
+5,Žilinský kraj,508,Volebný obvod č. 8,510637,Liptovská Osada,1317
+5,Žilinský kraj,508,Volebný obvod č. 8,510661,Liptovská Štiavnica,1004
+5,Žilinský kraj,508,Volebný obvod č. 8,510670,Liptovská Teplá,838
+5,Žilinský kraj,508,Volebný obvod č. 8,510718,Liptovské Revúce,1270
+5,Žilinský kraj,508,Volebný obvod č. 8,511005,Liptovské Sliače,3061
+5,Žilinský kraj,508,Volebný obvod č. 8,510742,Liptovský Michal,250
+5,Žilinský kraj,508,Volebný obvod č. 8,510785,Lisková,1675
+5,Žilinský kraj,508,Volebný obvod č. 8,510807,Ľubochňa,866
+5,Žilinský kraj,508,Volebný obvod č. 8,510815,Lúčky,1356
+5,Žilinský kraj,508,Volebný obvod č. 8,510823,Ludrová,807
+5,Žilinský kraj,508,Volebný obvod č. 8,510866,Martinček,370
+5,Žilinský kraj,508,Volebný obvod č. 8,510955,Potok,85
+5,Žilinský kraj,508,Volebný obvod č. 8,510998,Ružomberok,22736
+5,Žilinský kraj,508,Volebný obvod č. 8,511030,Stankovany,958
+5,Žilinský kraj,508,Volebný obvod č. 8,511056,Štiavnička,670
+5,Žilinský kraj,508,Volebný obvod č. 8,511064,Švošov,671
+5,Žilinský kraj,508,Volebný obvod č. 8,507407,Turík,218
+5,Žilinský kraj,508,Volebný obvod č. 8,511102,Valaská Dubová,610
+5,Žilinský kraj,509,Volebný obvod č. 9,512044,Abramová,147
+5,Žilinský kraj,509,Volebný obvod č. 9,512087,Blažovce,138
+5,Žilinský kraj,509,Volebný obvod č. 9,512095,Bodorová,183
+5,Žilinský kraj,509,Volebný obvod č. 9,512109,Borcová,132
+5,Žilinský kraj,509,Volebný obvod č. 9,512117,Brieštie,120
+5,Žilinský kraj,509,Volebný obvod č. 9,512125,Budiš,167
+5,Žilinský kraj,509,Volebný obvod č. 9,512141,Čremošné,78
+5,Žilinský kraj,509,Volebný obvod č. 9,512222,Dubové,575
+5,Žilinský kraj,509,Volebný obvod č. 9,512265,Háj,387
+5,Žilinský kraj,509,Volebný obvod č. 9,512273,Horná Štubňa,1313
+5,Žilinský kraj,509,Volebný obvod č. 9,512303,Ivančiná,81
+5,Žilinský kraj,509,Volebný obvod č. 9,512311,Jasenovo,105
+5,Žilinský kraj,509,Volebný obvod č. 9,512320,Jazernica,299
+5,Žilinský kraj,509,Volebný obvod č. 9,512338,Kaľamenová,70
+5,Žilinský kraj,509,Volebný obvod č. 9,512427,Liešno,51
+5,Žilinský kraj,509,Volebný obvod č. 9,512443,Malý Čepčín,462
+5,Žilinský kraj,509,Volebný obvod č. 9,512451,Moškovec,58
+5,Žilinský kraj,509,Volebný obvod č. 9,512460,Mošovce,1144
+5,Žilinský kraj,509,Volebný obvod č. 9,512494,Ondrašová,80
+5,Žilinský kraj,509,Volebný obvod č. 9,512559,Rakša,188
+5,Žilinský kraj,509,Volebný obvod č. 9,512575,Rudno,177
+5,Žilinský kraj,509,Volebný obvod č. 9,512605,Sklené,591
+5,Žilinský kraj,509,Volebný obvod č. 9,512621,Slovenské Pravno,746
+5,Žilinský kraj,509,Volebný obvod č. 9,512699,Turček,495
+5,Žilinský kraj,509,Volebný obvod č. 9,512729,Turčianske Teplice,5742
+5,Žilinský kraj,509,Volebný obvod č. 9,512788,Veľký Čepčín,197
+5,Žilinský kraj,510,Volebný obvod č. 10,509604,Brezovica,1125
+5,Žilinský kraj,510,Volebný obvod č. 10,518719,Čimhová,512
+5,Žilinský kraj,510,Volebný obvod č. 10,509655,Habovka,1082
+5,Žilinský kraj,510,Volebný obvod č. 10,509663,Hladovka,789
+5,Žilinský kraj,510,Volebný obvod č. 10,509795,Liesek,2223
+5,Žilinský kraj,510,Volebný obvod č. 10,509876,Nižná,3280
+5,Žilinský kraj,510,Volebný obvod č. 10,509949,Oravský Biely Potok,574
+5,Žilinský kraj,510,Volebný obvod č. 10,509981,Podbiel,1070
+5,Žilinský kraj,510,Volebný obvod č. 10,510076,Suchá Hora,1063
+5,Žilinský kraj,510,Volebný obvod č. 10,510084,Štefanov nad Oravou,531
+5,Žilinský kraj,510,Volebný obvod č. 10,510106,Trstená,5665
+5,Žilinský kraj,510,Volebný obvod č. 10,510114,Tvrdošín,7229
+5,Žilinský kraj,510,Volebný obvod č. 10,510173,Vitanová,1032
+5,Žilinský kraj,510,Volebný obvod č. 10,510190,Zábiedovo,700
+5,Žilinský kraj,510,Volebný obvod č. 10,510238,Zuberec,1528
+5,Žilinský kraj,511,Volebný obvod č. 11,517429,Belá,2669
+5,Žilinský kraj,511,Volebný obvod č. 11,547522,Bitarová,666
+5,Žilinský kraj,511,Volebný obvod č. 11,547557,Brezany,507
+5,Žilinský kraj,511,Volebný obvod č. 11,517470,Čičmany,117
+5,Žilinský kraj,511,Volebný obvod č. 11,517488,Divina,1967
+5,Žilinský kraj,511,Volebný obvod č. 11,517496,Divinka,786
+5,Žilinský kraj,511,Volebný obvod č. 11,517500,Dlhé Pole,1629
+5,Žilinský kraj,511,Volebný obvod č. 11,517518,Dolná Tižina,1138
+5,Žilinský kraj,511,Volebný obvod č. 11,517526,Dolný Hričov,1332
+5,Žilinský kraj,511,Volebný obvod č. 11,557986,Ďurčiná,880
+5,Žilinský kraj,511,Volebný obvod č. 11,517542,Fačkov,539
+5,Žilinský kraj,511,Volebný obvod č. 11,517551,Gbeľany,1214
+5,Žilinský kraj,511,Volebný obvod č. 11,517593,Horný Hričov,705
+5,Žilinský kraj,511,Volebný obvod č. 11,517577,Hôrky,751
+5,Žilinský kraj,511,Volebný obvod č. 11,547590,Hričovské Podhradie,287
+5,Žilinský kraj,511,Volebný obvod č. 11,517640,Jasenové,490
+5,Žilinský kraj,511,Volebný obvod č. 11,517658,Kamenná Poruba,1472
+5,Žilinský kraj,511,Volebný obvod č. 11,557994,Kľače,330
+5,Žilinský kraj,511,Volebný obvod č. 11,517682,Konská,1327
+5,Žilinský kraj,511,Volebný obvod č. 11,517704,Kotrčiná Lúčka,472
+5,Žilinský kraj,511,Volebný obvod č. 11,517712,Krasňany,1225
+5,Žilinský kraj,511,Volebný obvod č. 11,517721,Kunerad,811
+5,Žilinský kraj,511,Volebný obvod č. 11,517739,Lietava,1287
+5,Žilinský kraj,511,Volebný obvod č. 11,557935,Lietavská Lúčka,1556
+5,Žilinský kraj,511,Volebný obvod č. 11,517755,Lietavská Svinná - Babkov,1391
+5,Žilinský kraj,511,Volebný obvod č. 11,517763,Lutiše,619
+5,Žilinský kraj,511,Volebný obvod č. 11,517771,Lysica,702
+5,Žilinský kraj,511,Volebný obvod č. 11,517780,Malá Čierna,270
+5,Žilinský kraj,511,Volebný obvod č. 11,517801,Mojš,1055
+5,Žilinský kraj,511,Volebný obvod č. 11,517828,Nededza,864
+5,Žilinský kraj,511,Volebný obvod č. 11,558168,Nezbudská Lúčka,326
+5,Žilinský kraj,511,Volebný obvod č. 11,547611,Ovčiarsko,535
+5,Žilinský kraj,511,Volebný obvod č. 11,547620,Paština Závada,204
+5,Žilinský kraj,511,Volebný obvod č. 11,517879,Podhorie,749
+5,Žilinský kraj,511,Volebný obvod č. 11,557960,Porúbka,426
+5,Žilinský kraj,511,Volebný obvod č. 11,517917,Rajec,4824
+5,Žilinský kraj,511,Volebný obvod č. 11,517925,Rajecká Lesná,1033
+5,Žilinský kraj,511,Volebný obvod č. 11,517933,Rajecké Teplice,2479
+5,Žilinský kraj,511,Volebný obvod č. 11,517941,Rosina,2692
+5,Žilinský kraj,511,Volebný obvod č. 11,517950,Stráňavy,1556
+5,Žilinský kraj,511,Volebný obvod č. 11,517968,Stránske,728
+5,Žilinský kraj,511,Volebný obvod č. 11,517976,Stráža,545
+5,Žilinský kraj,511,Volebný obvod č. 11,517984,Strečno,2144
+5,Žilinský kraj,511,Volebný obvod č. 11,518000,Svederník,1262
+5,Žilinský kraj,511,Volebný obvod č. 11,581712,Šuja,259
+5,Žilinský kraj,511,Volebný obvod č. 11,518034,Teplička nad Váhom,3396
+5,Žilinský kraj,511,Volebný obvod č. 11,518042,Terchová,3274
+5,Žilinský kraj,511,Volebný obvod č. 11,518051,Turie,1663
+5,Žilinský kraj,511,Volebný obvod č. 11,518069,Varín,3036
+5,Žilinský kraj,511,Volebný obvod č. 11,518077,Veľká Čierna,286
+5,Žilinský kraj,511,Volebný obvod č. 11,518093,Višňové,2409
+5,Žilinský kraj,511,Volebný obvod č. 11,518131,Zbyňov,700
+5,Žilinský kraj,511,Volebný obvod č. 11,517402,Žilina,69091
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508454,Badín,1675
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508471,Baláže,192
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508438,Banská Bystrica,63160
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508675,Brusno,1802
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508519,Čerín,382
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508543,Dolná Mičiná,390
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508551,Dolný Harmanec,217
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508560,Donovaly,249
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508586,Dúbravica,331
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508594,Harmanec,731
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508616,Hiadeľ,416
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508632,Horná Mičiná,566
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508641,Horné Pršany,326
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508659,Hrochoť,1186
+6,Banskobystrický kraj,601,Volebný obvod č. 1,580236,Hronsek,552
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508713,Kordíky,395
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508721,Králiky,584
+6,Banskobystrický kraj,601,Volebný obvod č. 1,557277,Kynceľová,334
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508748,Ľubietová,1016
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508756,Lučatín,579
+6,Banskobystrický kraj,601,Volebný obvod č. 1,580244,Malachov,935
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508764,Medzibrod,1141
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508799,Moštenica,205
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508802,Motyčky,90
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508781,Môlča,327
+6,Banskobystrický kraj,601,Volebný obvod č. 1,557285,Nemce,973
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508837,Oravce,148
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508861,Podkonice,768
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508896,Pohronský Bukovec,99
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508918,Poniky,1262
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508926,Povrazník,120
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508942,Priechod,831
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508969,Riečka,674
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508977,Sebedín - Bečov,303
+6,Banskobystrický kraj,601,Volebný obvod č. 1,508985,Selce,1782
+6,Banskobystrický kraj,601,Volebný obvod č. 1,509001,Slovenská Ľupča,2705
+6,Banskobystrický kraj,601,Volebný obvod č. 1,509019,Staré Hory,453
+6,Banskobystrický kraj,601,Volebný obvod č. 1,509027,Strelníky,636
+6,Banskobystrický kraj,601,Volebný obvod č. 1,509035,Špania Dolina,190
+6,Banskobystrický kraj,601,Volebný obvod č. 1,509060,Tajov,567
+6,Banskobystrický kraj,601,Volebný obvod č. 1,557269,Turecká,137
+6,Banskobystrický kraj,601,Volebný obvod č. 1,557293,Vlkanová,1085
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516601,Baďan,136
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516627,Banská Belá,956
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516643,Banská Štiavnica,7866
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516651,Banský Studenec,376
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516678,Beluj,113
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516716,Dekýš,161
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516856,Ilija,277
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516953,Kozelník,146
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517071,Močiar,135
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517160,Počúvadlo,75
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517143,Podhorie,278
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517178,Prenčov,524
+6,Banskobystrický kraj,602,Volebný obvod č. 2,516597,Svätý Anton,998
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517283,Štiavnické Bane,669
+6,Banskobystrický kraj,602,Volebný obvod č. 2,517372,Vysoká,101
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508446,Bacúch,779
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508462,Beňuš,970
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508489,Braväcovo,565
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508497,Brezno,16641
+6,Banskobystrický kraj,603,Volebný obvod č. 3,557251,Bystrá,141
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508527,Čierny Balog,4018
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508535,Dolná Lehota,576
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508578,Drábsko,131
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508608,Heľpa,2092
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508624,Horná Lehota,490
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508667,Hronec,940
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508691,Jarabá,33
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508705,Jasenie,952
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508730,Lom nad Rimavicou,203
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508772,Michalová,1063
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508811,Mýto pod Ďumbierom,436
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508829,Nemecká,1439
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508845,Osrblie,300
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508853,Podbrezová,3044
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508870,Pohorelá,1830
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508888,Pohronská Polhora,1328
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508900,Polomka,2283
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508934,Predajná,1088
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508951,Ráztoka,225
+6,Banskobystrický kraj,603,Volebný obvod č. 3,508993,Sihla,150
+6,Banskobystrický kraj,603,Volebný obvod č. 3,509043,Šumiac,990
+6,Banskobystrický kraj,603,Volebný obvod č. 3,509051,Telgárt,999
+6,Banskobystrický kraj,603,Volebný obvod č. 3,509086,Valaská,2936
+6,Banskobystrický kraj,603,Volebný obvod č. 3,509094,Vaľkovňa,292
+6,Banskobystrický kraj,603,Volebný obvod č. 3,509124,Závadka nad Hronom,1751
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518263,Detva,11625
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518271,Detvianska Huta,581
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518379,Dúbravy,797
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518450,Horný Tisovník,149
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518468,Hriňová,5941
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518492,Klokoč,398
+6,Banskobystrický kraj,604,Volebný obvod č. 4,580520,Korytárky,788
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518549,Kriváň,1450
+6,Banskobystrický kraj,604,Volebný obvod č. 4,511510,Látky,458
+6,Banskobystrický kraj,604,Volebný obvod č. 4,511731,Podkriváň,477
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518794,Slatinské Lazy,420
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518816,Stará Huta,257
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518824,Stožok,872
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518921,Vígľaš,1253
+6,Banskobystrický kraj,604,Volebný obvod č. 4,518930,Vígľašská Huta - Kalinka,293
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518212,Bzovík,820
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518239,Cerovo,466
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518247,Čabradský Vrbovok,181
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518255,Čekovce,327
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518280,Devičie,256
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518301,Dolné Mladonice,102
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518310,Dolný Badín,210
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518336,Domaníky,174
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518344,Drážovce,99
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518352,Drienovo,88
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518387,Dudince,1182
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518409,Hontianske Moravce,657
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518417,Hontianske Nemce,1165
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518425,Hontianske Tesáre,704
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518433,Horné Mladonice,153
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518441,Horný Badín,142
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518484,Jalšovík,149
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518514,Kozí Vrbovok,122
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518531,Kráľovce - Krnišov,131
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518557,Krupina,6173
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518565,Lackov,73
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518573,Ladzany,220
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518603,Lišov,172
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518611,Litava,587
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518646,Medovarce,166
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518701,Rykynčice,242
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518735,Sebechleby,935
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518743,Selce,80
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518751,Senohrad,599
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518832,Sudince,61
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518841,Súdovce,160
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518867,Terany,471
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518883,Trpín,90
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518905,Uňatín,151
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518956,Zemiansky Vrbovok,69
+6,Banskobystrický kraj,605,Volebný obvod č. 5,518999,Žibritov,68
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511226,Ábelová,147
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511234,Belina,508
+6,Banskobystrický kraj,606,Volebný obvod č. 6,557315,Biskupice,931
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511251,Boľkovce,520
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511277,Budiná,179
+6,Banskobystrický kraj,606,Volebný obvod č. 6,558273,Bulhary,236
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511293,Buzitka,396
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511323,Čakanovce,821
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511331,Čamovce,431
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511358,Divín,1608
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511366,Dobroč,502
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511391,Fiľakovo,7995
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511404,Fiľakovské Kováče,704
+6,Banskobystrický kraj,606,Volebný obvod č. 6,557331,Gregorova Vieska,111
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511421,Halič,1370
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511439,Holiša,509
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511463,Jelšovec,259
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511480,Kalonda,176
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511374,Kotmanová,242
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511528,Lehôtka,283
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511536,Lentvora,55
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511544,Lipovany,197
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511552,Lovinobaňa,1550
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511561,Ľuboreč,280
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511218,Lučenec,21652
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511579,Lupoč,180
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511609,Mašková,263
+6,Banskobystrický kraj,606,Volebný obvod č. 6,580309,Mikušovce,227
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511625,Mučín,586
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511641,Mýtna,955
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511668,Nitra nad Ipľom,269
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511676,Nové Hony,157
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511692,Panické Dravce,608
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511706,Píla,210
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511714,Pinciná,163
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511722,Pleš,150
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511749,Podrečany,448
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511757,Polichno,107
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511773,Praha,66
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511781,Prša,162
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511790,Radzovce,1302
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511803,Rapovce,730
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511811,Ratka,284
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511838,Ružiná,666
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511846,Stará Halič,504
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511854,Šávoľ,447
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511862,Šiatorská Bukovinka,238
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511871,Šíd,952
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511897,Šurice,378
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511901,Točnica,294
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511919,Tomášovce,1142
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511927,Trebeľovce,726
+6,Banskobystrický kraj,606,Volebný obvod č. 6,557340,Trenč,364
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511943,Tuhár,294
+6,Banskobystrický kraj,606,Volebný obvod č. 6,511994,Veľká nad Ipľom,747
+6,Banskobystrický kraj,606,Volebný obvod č. 6,512010,Veľké Dravce,551
+6,Banskobystrický kraj,606,Volebný obvod č. 6,557307,Vidiná,1458
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511269,Breznička,613
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511315,Cinobaňa,1683
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511340,České Brezovo,382
+6,Banskobystrický kraj,607,Volebný obvod č. 7,557323,Ďubákovo,71
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511447,Hradište,193
+6,Banskobystrický kraj,607,Volebný obvod č. 7,514900,Hrnčiarska Ves,736
+6,Banskobystrický kraj,607,Volebný obvod č. 7,514918,Hrnčiarske Zalužany,700
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511471,Kalinovo,1864
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511498,Kokava nad Rimavicou,2272
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511501,Krná,46
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511595,Málinec,1112
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511617,Mládzovo,89
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511684,Ozdín,244
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511765,Poltár,4389
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511820,Rovňany,207
+6,Banskobystrický kraj,607,Volebný obvod č. 7,515515,Selce,86
+6,Banskobystrický kraj,607,Volebný obvod č. 7,515591,Sušany,343
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511889,Šoltýska,75
+6,Banskobystrický kraj,607,Volebný obvod č. 7,511978,Uhorské,432
+6,Banskobystrický kraj,607,Volebný obvod č. 7,580317,Utekáč,754
+6,Banskobystrický kraj,607,Volebný obvod č. 7,512001,Veľká Ves,336
+6,Banskobystrický kraj,607,Volebný obvod č. 7,582051,Zlatno,385
+6,Banskobystrický kraj,608,Volebný obvod č. 8,514675,Držkovce,420
+6,Banskobystrický kraj,608,Volebný obvod č. 8,514721,Gemer,708
+6,Banskobystrický kraj,608,Volebný obvod č. 8,514756,Gemerská Ves,717
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525677,Gemerské Teplice,294
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525685,Gemerský Sad,235
+6,Banskobystrický kraj,608,Volebný obvod č. 8,514896,Hrlica,44
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525766,Hucín,690
+6,Banskobystrický kraj,608,Volebný obvod č. 8,514977,Chvalová,132
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525774,Chyžné,346
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525791,Jelšava,2285
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525812,Kameňany,599
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515574,Leváre,73
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515159,Levkuška,180
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525901,Licince,537
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525928,Lubeník,1027
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525944,Magnezitovce,344
+6,Banskobystrický kraj,608,Volebný obvod č. 8,580384,Mokrá Lúka,449
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525987,Muráň,927
+6,Banskobystrický kraj,608,Volebný obvod č. 8,525995,Muránska Dlhá Lúka,698
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526002,Muránska Huta,152
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526011,Muránska Lehota,163
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526029,Muránska Zdychava,176
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526037,Nandraž,176
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515256,Otročok,238
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515302,Ploské,56
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515311,Polina,78
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526100,Prihradzany,60
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526118,Rákoš,314
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515361,Rašice,96
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515370,Ratková,429
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515400,Ratkovské Bystré,258
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526142,Revúca,9441
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526151,Revúcka Lehota,270
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515507,Rybník,121
+6,Banskobystrický kraj,608,Volebný obvod č. 8,557820,Sása,129
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526258,Sirk,879
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515523,Skerešovo,162
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526304,Šivetice,260
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515612,Tornaľa,5705
+6,Banskobystrický kraj,608,Volebný obvod č. 8,526321,Turčok,216
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515761,Višňové,56
+6,Banskobystrický kraj,608,Volebný obvod č. 8,515833,Žiar,85
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557757,Abovce,512
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514489,Babinec,56
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514501,Barca,385
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514519,Bátka,682
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514535,Belín,132
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514543,Blhovce,604
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514551,Bottovo,171
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514586,Budikovany,40
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514594,Cakov,246
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514608,Čerenčany,459
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514616,Čierny Potok,122
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514624,Číž,569
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514632,Dolné Zahorany,162
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514641,Dražice,186
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514659,Drienčany,169
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514667,Drňa,158
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514683,Dubno,130
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514691,Dubovec,391
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557919,Dulovo,157
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514713,Figa,324
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514730,Gemerček,82
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514764,Gemerské Dechtáre,349
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557889,Gemerské Michalovce,78
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514781,Gemerský Jablonec,566
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514799,Gortva,373
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514811,Hajnáčka,906
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514829,Hnúšťa,5420
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514837,Hodejov,1101
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514845,Hodejovec,144
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514853,Horné Zahorany,93
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514861,Hostice,702
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514870,Hostišovce,171
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514888,Hrachovo,637
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514926,Hrušovo,147
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514934,Hubovo,96
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514942,Husiná,405
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514951,Chanava,570
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514969,Chrámec,317
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514985,Ivanice,159
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514993,Janice,174
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515001,Jesenské,1850
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515019,Jestice,120
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515027,Kaloša,561
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515035,Kesovce,176
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515043,Klenovec,2398
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515051,Kociha,170
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515060,Konrádovce,235
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515078,Kráľ,728
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515086,Kraskovo,104
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515094,Krokava,18
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515108,Kružno,300
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515116,Kyjatice,61
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515124,Lehota nad Rimavicou,224
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515132,Lenartovce,406
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515141,Lenka,169
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515167,Lipovec,47
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515175,Lukovištia,168
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515183,Martinová,164
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515205,Neporadza,232
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557790,Nižný Skálnik,160
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515230,Nová Bašta,410
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515248,Orávka,127
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515264,Ožďany,1250
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515272,Padarovce,122
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515281,Pavlovce,293
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515299,Petrovce,184
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515337,Poproč,21
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515345,Potok,19
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515353,Radnovce,668
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557854,Rakytník,200
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515388,Ratkovská Lehota,41
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515396,Ratkovská Suchá,34
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557765,Riečka,181
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515426,Rimavská Baňa,400
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515442,Rimavská Seč,1464
+6,Banskobystrický kraj,609,Volebný obvod č. 9,514462,Rimavská Sobota,18275
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515451,Rimavské Brezovo,408
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515469,Rimavské Janovce,1122
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557811,Rimavské Zalužany,278
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515485,Rovné,84
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515493,Rumince,289
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515531,Slizké,137
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515540,Stará Bašta,267
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515566,Stránska,264
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515582,Studená,225
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515604,Sútor,428
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515621,Šimonovce,391
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515639,Širkovce,681
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515647,Španie Pole,55
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515655,Štrkovec,294
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515663,Tachty,426
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515671,Teplý Vrch,231
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515680,Tisovec,3068
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515698,Tomášovce,162
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515701,Uzovská Panica,535
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515795,Valice,213
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515710,Včelince,626
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515728,Večelkov,191
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515736,Veľké Teriakovce,674
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515744,Veľký Blh,885
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515752,Vieska nad Blhom,122
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515779,Vlkyňa,253
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557901,Vyšné Valice,195
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515809,Vyšný Skálnik,119
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515817,Zádor,92
+6,Banskobystrický kraj,609,Volebný obvod č. 9,557927,Zacharovce,310
+6,Banskobystrický kraj,609,Volebný obvod č. 9,515841,Žíp,165
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515868,Balog nad Ipľom,661
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515876,Bátorová,299
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515884,Brusník,85
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515892,Bušince,1131
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515906,Čebovce,934
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515914,Čeláre,409
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515922,Čelovce,311
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515931,Červeňany,24
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515949,Dačov Lom,297
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515957,Dolinka,410
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515965,Dolná Strehová,819
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515973,Dolné Plachtince,496
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515981,Dolné Strháre,153
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515990,Ďurkovce,96
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516007,Glabušovce,90
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516015,Horná Strehová,121
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516023,Horné Plachtince,175
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516031,Horné Strháre,208
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516040,Hrušov,675
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516058,Chrastince,166
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516066,Chrťany,108
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516074,Ipeľské Predmostie,468
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516082,Kamenné Kosihy,303
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516091,Kiarov,224
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516104,Kleňany,225
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516112,Koláre,226
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516121,Kosihovce,465
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516139,Kosihy nad Ipľom,345
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516147,Kováčovce,256
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516155,Lesenice,419
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516163,Ľuboriečka,143
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516171,Malá Čalomija,168
+6,Banskobystrický kraj,610,Volebný obvod č. 10,558206,Malé Straciny,116
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516198,Malé Zlievce,233
+6,Banskobystrický kraj,610,Volebný obvod č. 10,558192,Malý Krtíš,399
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516210,Modrý Kameň,1343
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516228,Muľa,221
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516236,Nenince,1137
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516244,Nová Ves,344
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516252,Obeckov,355
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516261,Olováry,241
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516279,Opatovská Nová Ves,540
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516287,Opava,83
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516295,Pôtor,634
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516309,Pravica,96
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516317,Príbelce,477
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516333,Sečianky,281
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516341,Seľany,139
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516368,Senné,165
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516376,Sklabiná,735
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516384,Slovenské Ďarmoty,411
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516392,Slovenské Kľačany,135
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516406,Stredné Plachtince,500
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516414,Sucháň,208
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516422,Suché Brezovo,71
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516431,Širákov,164
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516449,Šuľa,57
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516457,Trebušovce,148
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516465,Veľká Čalomija,485
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516473,Veľká Ves nad Ipľom,352
+6,Banskobystrický kraj,610,Volebný obvod č. 10,558214,Veľké Straciny,133
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516490,Veľké Zlievce,379
+6,Banskobystrický kraj,610,Volebný obvod č. 10,515850,Veľký Krtíš,9254
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516503,Veľký Lom,123
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516511,Vieska,159
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516520,Vinica,1495
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516538,Vrbovka,294
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516546,Záhorce,568
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516554,Závada,355
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516562,Zombor,111
+6,Banskobystrický kraj,610,Volebný obvod č. 10,516571,Želovce,1014
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518166,Babiná,446
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518174,Bacúrov,127
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518191,Breziny,302
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518204,Budča,1104
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518221,Bzovská Lehôtka,105
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518298,Dobrá Niva,1531
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518361,Dubové,285
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518476,Hronská Breznica,210
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518506,Kováčová,1372
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518581,Lešť (vojenský obvod),26
+6,Banskobystrický kraj,611,Volebný obvod č. 11,558133,Lieskovec,1152
+6,Banskobystrický kraj,611,Volebný obvod č. 11,558087,Lukavica,208
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518654,Michalková,36
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518662,Očová,2060
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518671,Ostrá Lúka,260
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518689,Pliešovce,1883
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518697,Podzámčok,429
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518727,Sása,749
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518760,Sielnica,1132
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518808,Sliač,4083
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518875,Tŕnie,327
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518891,Turová,356
+6,Banskobystrický kraj,611,Volebný obvod č. 11,581585,Veľká Lúka,647
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518158,Zvolen,34153
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518972,Zvolenská Slatina,2277
+6,Banskobystrický kraj,611,Volebný obvod č. 11,518981,Železná Breznica,443
+6,Banskobystrický kraj,612,Volebný obvod č. 12,581607,Brehy,857
+6,Banskobystrický kraj,612,Volebný obvod č. 12,516759,Hodruša - Hámre,1697
+6,Banskobystrický kraj,612,Volebný obvod č. 12,516805,Horné Hámre,535
+6,Banskobystrický kraj,612,Volebný obvod č. 12,516813,Hrabičov,459
+6,Banskobystrický kraj,612,Volebný obvod č. 12,516830,Hronský Beňadik,949
+6,Banskobystrický kraj,612,Volebný obvod č. 12,516902,Kľak,155
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517062,Malá Lehota,704
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517097,Nová Baňa,5795
+6,Banskobystrický kraj,612,Volebný obvod č. 12,580546,Orovnica,457
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517119,Ostrý Grúň,442
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517127,Píla,95
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517232,Rudno nad Hronom,425
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517291,Tekovská Breznica,999
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517330,Veľká Lehota,867
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517348,Veľké Pole,355
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517356,Voznica,516
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517381,Žarnovica,4837
+6,Banskobystrický kraj,612,Volebný obvod č. 12,517399,Župkov,684
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516660,Bartošova Lehôtka,292
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516708,Bzenica,549
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516724,Dolná Trnávka,280
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516732,Dolná Ves,179
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516741,Dolná Ždaňa,734
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516767,Hliník nad Hronom,2244
+6,Banskobystrický kraj,613,Volebný obvod č. 13,581747,Horná Ves,559
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516791,Horná Ždaňa,448
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516821,Hronská Dúbrava,337
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516848,Ihráč,403
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516872,Janova Lehota,766
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516881,Jastrabá,447
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516937,Kopernica,339
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516945,Kosorín,381
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516961,Krahule,212
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516970,Kremnica,4090
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516988,Kremnické Bane,194
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516996,Kunešov,173
+6,Banskobystrický kraj,613,Volebný obvod č. 13,599328,Ladomerská Vieska,682
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517011,Lehôtka pod Brehmi,318
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517020,Lovča,563
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517038,Lovčica - Trubín,1296
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517046,Lúčky,163
+6,Banskobystrický kraj,613,Volebný obvod č. 13,599336,Lutila,1152
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517089,Nevoľné,323
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517135,Pitelová,518
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517186,Prestavlky,585
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517194,Prochot,483
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517216,Repište,233
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517241,Sklené Teplice,342
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517259,Slaská,436
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517267,Stará Kremnička,886
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517313,Trnavá Hora,991
+6,Banskobystrický kraj,613,Volebný obvod č. 13,517364,Vyhne,963
+6,Banskobystrický kraj,613,Volebný obvod č. 13,516589,Žiar nad Hronom,14590
+7,Prešovský kraj,701,Volebný obvod č. 1,519014,Abrahámovce,276
+7,Prešovský kraj,701,Volebný obvod č. 1,519022,Andrejová,269
+7,Prešovský kraj,701,Volebný obvod č. 1,519006,Bardejov,25503
+7,Prešovský kraj,701,Volebný obvod č. 1,519049,Bartošovce,584
+7,Prešovský kraj,701,Volebný obvod č. 1,519057,Becherov,229
+7,Prešovský kraj,701,Volebný obvod č. 1,519065,Beloveža,628
+7,Prešovský kraj,701,Volebný obvod č. 1,519073,Bogliarka,90
+7,Prešovský kraj,701,Volebný obvod č. 1,519081,Brezov,310
+7,Prešovský kraj,701,Volebný obvod č. 1,519090,Brezovka,88
+7,Prešovský kraj,701,Volebný obvod č. 1,519103,Buclovany,172
+7,Prešovský kraj,701,Volebný obvod č. 1,519111,Cigeľka,355
+7,Prešovský kraj,701,Volebný obvod č. 1,519138,Dubinné,273
+7,Prešovský kraj,701,Volebný obvod č. 1,519154,Frička,214
+7,Prešovský kraj,701,Volebný obvod č. 1,519162,Fričkovce,580
+7,Prešovský kraj,701,Volebný obvod č. 1,519171,Gaboltov,414
+7,Prešovský kraj,701,Volebný obvod č. 1,519189,Gerlachov,789
+7,Prešovský kraj,701,Volebný obvod č. 1,519201,Hankovce,357
+7,Prešovský kraj,701,Volebný obvod č. 1,519219,Harhaj,201
+7,Prešovský kraj,701,Volebný obvod č. 1,519227,Hažlín,917
+7,Prešovský kraj,701,Volebný obvod č. 1,519235,Hertník,829
+7,Prešovský kraj,701,Volebný obvod č. 1,519243,Hervartov,427
+7,Prešovský kraj,701,Volebný obvod č. 1,519251,Hrabovec,411
+7,Prešovský kraj,701,Volebný obvod č. 1,519260,Hrabské,440
+7,Prešovský kraj,701,Volebný obvod č. 1,519278,Hutka,83
+7,Prešovský kraj,701,Volebný obvod č. 1,519286,Chmeľová,311
+7,Prešovský kraj,701,Volebný obvod č. 1,519294,Janovce,354
+7,Prešovský kraj,701,Volebný obvod č. 1,519308,Jedlinka,71
+7,Prešovský kraj,701,Volebný obvod č. 1,519324,Kľušov,878
+7,Prešovský kraj,701,Volebný obvod č. 1,519341,Kobyly,694
+7,Prešovský kraj,701,Volebný obvod č. 1,519359,Kochanovce,217
+7,Prešovský kraj,701,Volebný obvod č. 1,519367,Komárov,380
+7,Prešovský kraj,701,Volebný obvod č. 1,519375,Koprivnica,521
+7,Prešovský kraj,701,Volebný obvod č. 1,519383,Kožany,81
+7,Prešovský kraj,701,Volebný obvod č. 1,519405,Krivé,170
+7,Prešovský kraj,701,Volebný obvod č. 1,519413,Kríže,61
+7,Prešovský kraj,701,Volebný obvod č. 1,519421,Kružlov,799
+7,Prešovský kraj,701,Volebný obvod č. 1,519430,Kučín,266
+7,Prešovský kraj,701,Volebný obvod č. 1,519456,Kurima,861
+7,Prešovský kraj,701,Volebný obvod č. 1,519464,Kurov,488
+7,Prešovský kraj,701,Volebný obvod č. 1,519472,Lascov,440
+7,Prešovský kraj,701,Volebný obvod č. 1,519481,Lenartov,747
+7,Prešovský kraj,701,Volebný obvod č. 1,519499,Lipová,65
+7,Prešovský kraj,701,Volebný obvod č. 1,519502,Livov,62
+7,Prešovský kraj,701,Volebný obvod č. 1,519511,Livovská Huta,38
+7,Prešovský kraj,701,Volebný obvod č. 1,519529,Lopúchov,237
+7,Prešovský kraj,701,Volebný obvod č. 1,519545,Lukavica,306
+7,Prešovský kraj,701,Volebný obvod č. 1,519553,Lukov,454
+7,Prešovský kraj,701,Volebný obvod č. 1,519570,Malcov,1145
+7,Prešovský kraj,701,Volebný obvod č. 1,519588,Marhaň,709
+7,Prešovský kraj,701,Volebný obvod č. 1,519600,Mikulášová,115
+7,Prešovský kraj,701,Volebný obvod č. 1,519618,Mokroluh,637
+7,Prešovský kraj,701,Volebný obvod č. 1,519626,Nemcovce,213
+7,Prešovský kraj,701,Volebný obvod č. 1,519634,Nižná Polianka,190
+7,Prešovský kraj,701,Volebný obvod č. 1,519642,Nižná Voľa,222
+7,Prešovský kraj,701,Volebný obvod č. 1,519669,Nižný Tvarožec,358
+7,Prešovský kraj,701,Volebný obvod č. 1,519677,Oľšavce,142
+7,Prešovský kraj,701,Volebný obvod č. 1,519685,Ondavka,13
+7,Prešovský kraj,701,Volebný obvod č. 1,519693,Ortuťová,155
+7,Prešovský kraj,701,Volebný obvod č. 1,519707,Osikov,782
+7,Prešovský kraj,701,Volebný obvod č. 1,519715,Petrová,572
+7,Prešovský kraj,701,Volebný obvod č. 1,519723,Poliakovce,291
+7,Prešovský kraj,701,Volebný obvod č. 1,519731,Porúbka,184
+7,Prešovský kraj,701,Volebný obvod č. 1,519936,Raslavice,2125
+7,Prešovský kraj,701,Volebný obvod č. 1,519740,Regetovka,47
+7,Prešovský kraj,701,Volebný obvod č. 1,519758,Rešov,255
+7,Prešovský kraj,701,Volebný obvod č. 1,519766,Richvald,805
+7,Prešovský kraj,701,Volebný obvod č. 1,519774,Rokytov,448
+7,Prešovský kraj,701,Volebný obvod č. 1,519782,Smilno,567
+7,Prešovský kraj,701,Volebný obvod č. 1,519791,Snakov,496
+7,Prešovský kraj,701,Volebný obvod č. 1,519804,Stebnícka Huta,179
+7,Prešovský kraj,701,Volebný obvod č. 1,519812,Stebník,271
+7,Prešovský kraj,701,Volebný obvod č. 1,519821,Stuľany,437
+7,Prešovský kraj,701,Volebný obvod č. 1,519839,Sveržov,463
+7,Prešovský kraj,701,Volebný obvod č. 1,519847,Šarišské Čierne,255
+7,Prešovský kraj,701,Volebný obvod č. 1,519855,Šašová,119
+7,Prešovský kraj,701,Volebný obvod č. 1,519863,Šiba,474
+7,Prešovský kraj,701,Volebný obvod č. 1,519871,Tarnov,323
+7,Prešovský kraj,701,Volebný obvod č. 1,519880,Tročany,245
+7,Prešovský kraj,701,Volebný obvod č. 1,518964,Vaniškovce,297
+7,Prešovský kraj,701,Volebný obvod č. 1,519901,Varadka,165
+7,Prešovský kraj,701,Volebný obvod č. 1,519910,Vyšná Polianka,101
+7,Prešovský kraj,701,Volebný obvod č. 1,519928,Vyšná Voľa,325
+7,Prešovský kraj,701,Volebný obvod č. 1,519944,Vyšný Kručov,127
+7,Prešovský kraj,701,Volebný obvod č. 1,519952,Vyšný Tvarožec,98
+7,Prešovský kraj,701,Volebný obvod č. 1,519961,Zborov,2427
+7,Prešovský kraj,701,Volebný obvod č. 1,519979,Zlaté,631
+7,Prešovský kraj,702,Volebný obvod č. 2,520012,Adidovce,193
+7,Prešovský kraj,702,Volebný obvod č. 2,520021,Baškovce,335
+7,Prešovský kraj,702,Volebný obvod č. 2,520055,Brekov,1033
+7,Prešovský kraj,702,Volebný obvod č. 2,520063,Brestov,480
+7,Prešovský kraj,702,Volebný obvod č. 2,520110,Černina,118
+7,Prešovský kraj,702,Volebný obvod č. 2,520152,Dedačov,139
+7,Prešovský kraj,702,Volebný obvod č. 2,559644,Gruzovce,103
+7,Prešovský kraj,702,Volebný obvod č. 2,520195,Hankovce,423
+7,Prešovský kraj,702,Volebný obvod č. 2,559598,Hažín nad Cirochou,577
+7,Prešovský kraj,702,Volebný obvod č. 2,520225,Hrabovec nad Laborcom,429
+7,Prešovský kraj,702,Volebný obvod č. 2,520233,Hrubov,402
+7,Prešovský kraj,702,Volebný obvod č. 2,520241,Hudcovce,331
+7,Prešovský kraj,702,Volebný obvod č. 2,520004,Humenné,26342
+7,Prešovský kraj,702,Volebný obvod č. 2,520268,Chlmec,476
+7,Prešovský kraj,702,Volebný obvod č. 2,520276,Jabloň,328
+7,Prešovský kraj,702,Volebný obvod č. 2,520292,Jankovce,224
+7,Prešovský kraj,702,Volebný obvod č. 2,559547,Jasenov,1017
+7,Prešovský kraj,702,Volebný obvod č. 2,520331,Kamenica nad Cirochou,1926
+7,Prešovský kraj,702,Volebný obvod č. 2,520349,Kamienka,462
+7,Prešovský kraj,702,Volebný obvod č. 2,520357,Karná,370
+7,Prešovský kraj,702,Volebný obvod č. 2,520373,Kochanovce,615
+7,Prešovský kraj,702,Volebný obvod č. 2,528803,Košarovce,481
+7,Prešovský kraj,702,Volebný obvod č. 2,520403,Koškovce,454
+7,Prešovský kraj,702,Volebný obvod č. 2,582140,Lackovce,671
+7,Prešovský kraj,702,Volebný obvod č. 2,520446,Lieskovec,350
+7,Prešovský kraj,702,Volebný obvod č. 2,520454,Ľubiša,669
+7,Prešovský kraj,702,Volebný obvod č. 2,520462,Lukačovce,387
+7,Prešovský kraj,702,Volebný obvod č. 2,559652,Maškovce,48
+7,Prešovský kraj,702,Volebný obvod č. 2,520497,Modra nad Cirochou,786
+7,Prešovský kraj,702,Volebný obvod č. 2,520501,Myslina,469
+7,Prešovský kraj,702,Volebný obvod č. 2,520527,Nechválova  Polianka,76
+7,Prešovský kraj,702,Volebný obvod č. 2,520535,Nižná Jablonka,116
+7,Prešovský kraj,702,Volebný obvod č. 2,528897,Nižná Sitnica,261
+7,Prešovský kraj,702,Volebný obvod č. 2,520543,Nižné Ladičkovce,268
+7,Prešovský kraj,702,Volebný obvod č. 2,520560,Ohradzany,499
+7,Prešovský kraj,702,Volebný obvod č. 2,528951,Pakostov,382
+7,Prešovský kraj,702,Volebný obvod č. 2,520624,Papín,738
+7,Prešovský kraj,702,Volebný obvod č. 2,520667,Porúbka,227
+7,Prešovský kraj,702,Volebný obvod č. 2,529010,Prituľany,28
+7,Prešovský kraj,702,Volebný obvod č. 2,520683,Ptičie,535
+7,Prešovský kraj,702,Volebný obvod č. 2,529061,Rohožník,37
+7,Prešovský kraj,702,Volebný obvod č. 2,520250,Rokytov pri Humennom,246
+7,Prešovský kraj,702,Volebný obvod č. 2,520721,Rovné,375
+7,Prešovský kraj,702,Volebný obvod č. 2,529087,Ruská Kajňa,78
+7,Prešovský kraj,702,Volebný obvod č. 2,529095,Ruská Poruba,193
+7,Prešovský kraj,702,Volebný obvod č. 2,520772,Slovenská Volová,411
+7,Prešovský kraj,702,Volebný obvod č. 2,520781,Slovenské Krivé,110
+7,Prešovský kraj,702,Volebný obvod č. 2,559636,Sopkovce,92
+7,Prešovský kraj,702,Volebný obvod č. 2,520896,Topoľovka,668
+7,Prešovský kraj,702,Volebný obvod č. 2,520900,Turcovce,249
+7,Prešovský kraj,702,Volebný obvod č. 2,520926,Udavské,1025
+7,Prešovský kraj,702,Volebný obvod č. 2,520977,Veľopolie,295
+7,Prešovský kraj,702,Volebný obvod č. 2,520985,Víťazovce,256
+7,Prešovský kraj,702,Volebný obvod č. 2,521019,Vyšná Jablonka,48
+7,Prešovský kraj,702,Volebný obvod č. 2,529249,Vyšná Sitnica,285
+7,Prešovský kraj,702,Volebný obvod č. 2,521027,Vyšné Ladičkovce,160
+7,Prešovský kraj,702,Volebný obvod č. 2,521035,Vyšný Hrušov,393
+7,Prešovský kraj,702,Volebný obvod č. 2,529273,Závada,60
+7,Prešovský kraj,702,Volebný obvod č. 2,521043,Závadka,448
+7,Prešovský kraj,702,Volebný obvod č. 2,521086,Zbudské Dlhé,504
+7,Prešovský kraj,702,Volebný obvod č. 2,521116,Zubné,292
+7,Prešovský kraj,703,Volebný obvod č. 3,523399,Abrahámovce,212
+7,Prešovský kraj,703,Volebný obvod č. 3,523411,Bušovce,248
+7,Prešovský kraj,703,Volebný obvod č. 3,523429,Červený Kláštor,184
+7,Prešovský kraj,703,Volebný obvod č. 3,523461,Havka,33
+7,Prešovský kraj,703,Volebný obvod č. 3,523470,Holumnica,706
+7,Prešovský kraj,703,Volebný obvod č. 3,523500,Hradisko,77
+7,Prešovský kraj,703,Volebný obvod č. 3,523526,Huncovce,2030
+7,Prešovský kraj,703,Volebný obvod č. 3,523534,Ihľany,1063
+7,Prešovský kraj,703,Volebný obvod č. 3,523569,Jezersko,56
+7,Prešovský kraj,703,Volebný obvod č. 3,523577,Jurské,850
+7,Prešovský kraj,703,Volebný obvod č. 3,523585,Kežmarok,12883
+7,Prešovský kraj,703,Volebný obvod č. 3,523607,Krížová Ves,1476
+7,Prešovský kraj,703,Volebný obvod č. 3,523615,Lechnica,203
+7,Prešovský kraj,703,Volebný obvod č. 3,523623,Lendak,3852
+7,Prešovský kraj,703,Volebný obvod č. 3,523682,Ľubica,3360
+7,Prešovský kraj,703,Volebný obvod č. 3,523674,Majere,95
+7,Prešovský kraj,703,Volebný obvod č. 3,559938,Malá Franková,143
+7,Prešovský kraj,703,Volebný obvod č. 3,581241,Malý Slavkov,865
+7,Prešovský kraj,703,Volebný obvod č. 3,523712,Matiašovce,605
+7,Prešovský kraj,703,Volebný obvod č. 3,523739,Mlynčeky,560
+7,Prešovský kraj,703,Volebný obvod č. 3,523771,Osturňa,253
+7,Prešovský kraj,703,Volebný obvod č. 3,523780,Podhorany,1427
+7,Prešovský kraj,703,Volebný obvod č. 3,523798,Rakúsy,1897
+7,Prešovský kraj,703,Volebný obvod č. 3,523801,Reľov,277
+7,Prešovský kraj,703,Volebný obvod č. 3,523810,Slovenská Ves,1438
+7,Prešovský kraj,703,Volebný obvod č. 3,523828,Spišská Belá,5218
+7,Prešovský kraj,703,Volebný obvod č. 3,523836,Spišská Stará Ves,1742
+7,Prešovský kraj,703,Volebný obvod č. 3,523861,Spišské Hanušovce,584
+7,Prešovský kraj,703,Volebný obvod č. 3,523887,Stará Lesná,748
+7,Prešovský kraj,703,Volebný obvod č. 3,523909,Stráne pod Tatrami,1266
+7,Prešovský kraj,703,Volebný obvod č. 3,523976,Toporec,1471
+7,Prešovský kraj,703,Volebný obvod č. 3,523984,Tvarožná,570
+7,Prešovský kraj,703,Volebný obvod č. 3,523992,Veľká Franková,276
+7,Prešovský kraj,703,Volebný obvod č. 3,524000,Veľká Lomnica,3364
+7,Prešovský kraj,703,Volebný obvod č. 3,524042,Vlková,669
+7,Prešovský kraj,703,Volebný obvod č. 3,524051,Vlkovce,370
+7,Prešovský kraj,703,Volebný obvod č. 3,524069,Vojňany,236
+7,Prešovský kraj,703,Volebný obvod č. 3,524077,Vrbov,1096
+7,Prešovský kraj,703,Volebný obvod č. 3,524085,Výborná,789
+7,Prešovský kraj,703,Volebný obvod č. 3,524115,Zálesie,72
+7,Prešovský kraj,703,Volebný obvod č. 3,524123,Žakovce,719
+7,Prešovský kraj,704,Volebný obvod č. 4,526371,Baldovce,134
+7,Prešovský kraj,704,Volebný obvod č. 4,526380,Beharovce,134
+7,Prešovský kraj,704,Volebný obvod č. 4,526401,Bijacovce,674
+7,Prešovský kraj,704,Volebný obvod č. 4,526410,Brutovce,132
+7,Prešovský kraj,704,Volebný obvod č. 4,526428,Buglovce,227
+7,Prešovský kraj,704,Volebný obvod č. 4,526452,Dlhé Stráže,430
+7,Prešovský kraj,704,Volebný obvod č. 4,526461,Doľany,431
+7,Prešovský kraj,704,Volebný obvod č. 4,526479,Domaňovce,715
+7,Prešovský kraj,704,Volebný obvod č. 4,526487,Dravce,646
+7,Prešovský kraj,704,Volebný obvod č. 4,526495,Dúbrava,277
+7,Prešovský kraj,704,Volebný obvod č. 4,526517,Granč - Petrovce,515
+7,Prešovský kraj,704,Volebný obvod č. 4,526525,Harakovce,48
+7,Prešovský kraj,704,Volebný obvod č. 4,543179,Jablonov,748
+7,Prešovský kraj,704,Volebný obvod č. 4,543225,Klčov,493
+7,Prešovský kraj,704,Volebný obvod č. 4,581640,Korytné,85
+7,Prešovský kraj,704,Volebný obvod č. 4,543276,Kurimany,309
+7,Prešovský kraj,704,Volebný obvod č. 4,543292,Levoča,11222
+7,Prešovský kraj,704,Volebný obvod č. 4,543314,Lúčka,107
+7,Prešovský kraj,704,Volebný obvod č. 4,543381,Nemešany,335
+7,Prešovský kraj,704,Volebný obvod č. 4,543390,Nižné Repaše,133
+7,Prešovský kraj,704,Volebný obvod č. 4,543420,Oľšavica,213
+7,Prešovský kraj,704,Volebný obvod č. 4,543446,Ordzovany,134
+7,Prešovský kraj,704,Volebný obvod č. 4,543454,Pavľany,40
+7,Prešovský kraj,704,Volebný obvod č. 4,543462,Poľanovce,131
+7,Prešovský kraj,704,Volebný obvod č. 4,543471,Pongrácovce,93
+7,Prešovský kraj,704,Volebný obvod č. 4,543578,Spišské Podhradie,3057
+7,Prešovský kraj,704,Volebný obvod č. 4,543608,Spišský Hrhov,1297
+7,Prešovský kraj,704,Volebný obvod č. 4,543624,Spišský Štvrtok,2032
+7,Prešovský kraj,704,Volebný obvod č. 4,543641,Studenec,410
+7,Prešovský kraj,704,Volebný obvod č. 4,543675,Torysky,278
+7,Prešovský kraj,704,Volebný obvod č. 4,543691,Uloža,196
+7,Prešovský kraj,704,Volebný obvod č. 4,526606,Vyšné Repaše,72
+7,Prešovský kraj,704,Volebný obvod č. 4,526614,Vyšný Slavkov,225
+7,Prešovský kraj,705,Volebný obvod č. 5,520071,Brestov nad Laborcom,95
+7,Prešovský kraj,705,Volebný obvod č. 5,520098,Čabalovce,261
+7,Prešovský kraj,705,Volebný obvod č. 5,520101,Čabiny,281
+7,Prešovský kraj,705,Volebný obvod č. 5,520128,Čertižné,281
+7,Prešovský kraj,705,Volebný obvod č. 5,520187,Habura,413
+7,Prešovský kraj,705,Volebný obvod č. 5,520314,Kalinov,231
+7,Prešovský kraj,705,Volebný obvod č. 5,520411,Krásny Brod,348
+7,Prešovský kraj,705,Volebný obvod č. 5,520471,Medzilaborce,4854
+7,Prešovský kraj,705,Volebný obvod č. 5,520519,Ňagov,323
+7,Prešovský kraj,705,Volebný obvod č. 5,520578,Oľka,216
+7,Prešovský kraj,705,Volebný obvod č. 5,520586,Oľšinkov,18
+7,Prešovský kraj,705,Volebný obvod č. 5,520616,Palota,124
+7,Prešovský kraj,705,Volebný obvod č. 5,520691,Radvaň nad Laborcom,433
+7,Prešovský kraj,705,Volebný obvod č. 5,520705,Repejov,91
+7,Prešovský kraj,705,Volebný obvod č. 5,559610,Rokytovce,144
+7,Prešovský kraj,705,Volebný obvod č. 5,520713,Roškovce,127
+7,Prešovský kraj,705,Volebný obvod č. 5,520853,Sukov,107
+7,Prešovský kraj,705,Volebný obvod č. 5,520861,Svetlice,79
+7,Prešovský kraj,705,Volebný obvod č. 5,520951,Valentovce,34
+7,Prešovský kraj,705,Volebný obvod č. 5,520993,Volica,221
+7,Prešovský kraj,705,Volebný obvod č. 5,521001,Výrava,155
+7,Prešovský kraj,705,Volebný obvod č. 5,521060,Zbojné,140
+7,Prešovský kraj,705,Volebný obvod č. 5,521078,Zbudská Belá,94
+7,Prešovský kraj,706,Volebný obvod č. 6,523402,Batizovce,1859
+7,Prešovský kraj,706,Volebný obvod č. 6,523437,Gánovce,1116
+7,Prešovský kraj,706,Volebný obvod č. 6,523445,Gerlachov,668
+7,Prešovský kraj,706,Volebný obvod č. 6,523496,Hozelec,625
+7,Prešovský kraj,706,Volebný obvod č. 6,523488,Hôrka,1658
+7,Prešovský kraj,706,Volebný obvod č. 6,523518,Hranovnica,2216
+7,Prešovský kraj,706,Volebný obvod č. 6,523542,Jánovce,1076
+7,Prešovský kraj,706,Volebný obvod č. 6,523593,Kravany,727
+7,Prešovský kraj,706,Volebný obvod č. 6,523631,Liptovská Teplička,1784
+7,Prešovský kraj,706,Volebný obvod č. 6,523658,Lučivná,765
+7,Prešovský kraj,706,Volebný obvod č. 6,523721,Mengusovce,502
+7,Prešovský kraj,706,Volebný obvod č. 6,523747,Mlynica,547
+7,Prešovský kraj,706,Volebný obvod č. 6,523763,Nová Lesná,1376
+7,Prešovský kraj,706,Volebný obvod č. 6,523381,Poprad,41423
+7,Prešovský kraj,706,Volebný obvod č. 6,523844,Spišská Teplica,1833
+7,Prešovský kraj,706,Volebný obvod č. 6,523852,Spišské Bystré,1957
+7,Prešovský kraj,706,Volebný obvod č. 6,523879,Spišský Štiavnik,1843
+7,Prešovský kraj,706,Volebný obvod č. 6,523925,Svit,6352
+7,Prešovský kraj,706,Volebný obvod č. 6,559890,Štôla,438
+7,Prešovský kraj,706,Volebný obvod č. 6,523933,Štrba,2813
+7,Prešovský kraj,706,Volebný obvod č. 6,524107,Šuňava,1547
+7,Prešovský kraj,706,Volebný obvod č. 6,523950,Švábovce,1153
+7,Prešovský kraj,706,Volebný obvod č. 6,580368,Tatranská Javorina,151
+7,Prešovský kraj,706,Volebný obvod č. 6,524018,Veľký Slavkov,1171
+7,Prešovský kraj,706,Volebný obvod č. 6,524026,Vernár,482
+7,Prešovský kraj,706,Volebný obvod č. 6,524034,Vikartovce,1451
+7,Prešovský kraj,706,Volebný obvod č. 6,524093,Vydrník,874
+7,Prešovský kraj,706,Volebný obvod č. 6,560103,Vysoké Tatry,3322
+7,Prešovský kraj,706,Volebný obvod č. 6,524131,Ždiar,1086
+7,Prešovský kraj,707,Volebný obvod č. 7,524158,Abranovce,514
+7,Prešovský kraj,707,Volebný obvod č. 7,524174,Bajerov,350
+7,Prešovský kraj,707,Volebný obvod č. 7,524191,Bertotovce,419
+7,Prešovský kraj,707,Volebný obvod č. 7,524212,Brestov,361
+7,Prešovský kraj,707,Volebný obvod č. 7,524221,Bretejovce,355
+7,Prešovský kraj,707,Volebný obvod č. 7,524255,Brežany,158
+7,Prešovský kraj,707,Volebný obvod č. 7,524263,Bzenov,583
+7,Prešovský kraj,707,Volebný obvod č. 7,524271,Čelovce,281
+7,Prešovský kraj,707,Volebný obvod č. 7,524301,Červenica,678
+7,Prešovský kraj,707,Volebný obvod č. 7,524336,Demjata,915
+7,Prešovský kraj,707,Volebný obvod č. 7,524352,Drienov,1760
+7,Prešovský kraj,707,Volebný obvod č. 7,524361,Drienovská Nová Ves,641
+7,Prešovský kraj,707,Volebný obvod č. 7,524387,Dulova Ves,1195
+7,Prešovský kraj,707,Volebný obvod č. 7,524395,Fintice,1785
+7,Prešovský kraj,707,Volebný obvod č. 7,524409,Fričovce,865
+7,Prešovský kraj,707,Volebný obvod č. 7,524417,Fulianka,328
+7,Prešovský kraj,707,Volebný obvod č. 7,524425,Geraltov,97
+7,Prešovský kraj,707,Volebný obvod č. 7,524433,Gregorovce,723
+7,Prešovský kraj,707,Volebný obvod č. 7,518522,Haniska,589
+7,Prešovský kraj,707,Volebný obvod č. 7,524450,Hendrichovce,197
+7,Prešovský kraj,707,Volebný obvod č. 7,524468,Hermanovce,1172
+7,Prešovský kraj,707,Volebný obvod č. 7,524476,Hrabkov,577
+7,Prešovský kraj,707,Volebný obvod č. 7,524506,Chmeľov,804
+7,Prešovský kraj,707,Volebný obvod č. 7,524514,Chmeľovec,361
+7,Prešovský kraj,707,Volebný obvod č. 7,524549,Chmiňany,672
+7,Prešovský kraj,707,Volebný obvod č. 7,524522,Chminianska Nová Ves,1013
+7,Prešovský kraj,707,Volebný obvod č. 7,524531,Chminianske Jakubovany,1410
+7,Prešovský kraj,707,Volebný obvod č. 7,524581,Janov,258
+7,Prešovský kraj,707,Volebný obvod č. 7,524590,Janovík,308
+7,Prešovský kraj,707,Volebný obvod č. 7,524620,Kapušany,1698
+7,Prešovský kraj,707,Volebný obvod č. 7,524638,Kendice,1465
+7,Prešovský kraj,707,Volebný obvod č. 7,524646,Klenov,175
+7,Prešovský kraj,707,Volebný obvod č. 7,524654,Kojatice,866
+7,Prešovský kraj,707,Volebný obvod č. 7,524662,Kokošovce,717
+7,Prešovský kraj,707,Volebný obvod č. 7,524697,Krížovany,293
+7,Prešovský kraj,707,Volebný obvod č. 7,524701,Kvačany,228
+7,Prešovský kraj,707,Volebný obvod č. 7,524727,Lada,685
+7,Prešovský kraj,707,Volebný obvod č. 7,524735,Lažany,142
+7,Prešovský kraj,707,Volebný obvod č. 7,524743,Lemešany,1484
+7,Prešovský kraj,707,Volebný obvod č. 7,524751,Lesíček,262
+7,Prešovský kraj,707,Volebný obvod č. 7,524760,Ličartovce,776
+7,Prešovský kraj,707,Volebný obvod č. 7,559971,Lipníky,465
+7,Prešovský kraj,707,Volebný obvod č. 7,524786,Lipovce,415
+7,Prešovský kraj,707,Volebný obvod č. 7,518590,Ľubotice,2976
+7,Prešovský kraj,707,Volebný obvod č. 7,524794,Ľubovec,404
+7,Prešovský kraj,707,Volebný obvod č. 7,524808,Lúčina,131
+7,Prešovský kraj,707,Volebný obvod č. 7,524832,Malý Slivník,657
+7,Prešovský kraj,707,Volebný obvod č. 7,524841,Malý Šariš,1429
+7,Prešovský kraj,707,Volebný obvod č. 7,556823,Medzany,741
+7,Prešovský kraj,707,Volebný obvod č. 7,524867,Miklušovce,247
+7,Prešovský kraj,707,Volebný obvod č. 7,524883,Mirkovce,868
+7,Prešovský kraj,707,Volebný obvod č. 7,524905,Mošurov,152
+7,Prešovský kraj,707,Volebný obvod č. 7,524913,Nemcovce,377
+7,Prešovský kraj,707,Volebný obvod č. 7,524930,Okružná,391
+7,Prešovský kraj,707,Volebný obvod č. 7,524964,Ondrašovce,48
+7,Prešovský kraj,707,Volebný obvod č. 7,524999,Ovčie,530
+7,Prešovský kraj,707,Volebný obvod č. 7,525014,Petrovany,1563
+7,Prešovský kraj,707,Volebný obvod č. 7,525022,Podhorany,669
+7,Prešovský kraj,707,Volebný obvod č. 7,525031,Podhradík,312
+7,Prešovský kraj,707,Volebný obvod č. 7,524140,Prešov,70049
+7,Prešovský kraj,707,Volebný obvod č. 7,525057,Proč,330
+7,Prešovský kraj,707,Volebný obvod č. 7,525065,Pušovce,431
+7,Prešovský kraj,707,Volebný obvod č. 7,525073,Radatice,607
+7,Prešovský kraj,707,Volebný obvod č. 7,525111,Rokycany,692
+7,Prešovský kraj,707,Volebný obvod č. 7,525138,Ruská Nová Ves,1045
+7,Prešovský kraj,707,Volebný obvod č. 7,525154,Sedlice,801
+7,Prešovský kraj,707,Volebný obvod č. 7,525162,Seniakovce,133
+7,Prešovský kraj,707,Volebný obvod č. 7,559989,Suchá Dolina,162
+7,Prešovský kraj,707,Volebný obvod č. 7,525171,Svinia,1323
+7,Prešovský kraj,707,Volebný obvod č. 7,525189,Šarišská Poruba,426
+7,Prešovský kraj,707,Volebný obvod č. 7,525197,Šarišská Trstená,250
+7,Prešovský kraj,707,Volebný obvod č. 7,525201,Šarišské Bohdanovce,703
+7,Prešovský kraj,707,Volebný obvod č. 7,525251,Šindliar,421
+7,Prešovský kraj,707,Volebný obvod č. 7,525260,Široké,1913
+7,Prešovský kraj,707,Volebný obvod č. 7,525278,Štefanovce,164
+7,Prešovský kraj,707,Volebný obvod č. 7,525286,Teriakovce,779
+7,Prešovský kraj,707,Volebný obvod č. 7,525294,Terňa,951
+7,Prešovský kraj,707,Volebný obvod č. 7,525324,Trnkov,233
+7,Prešovský kraj,707,Volebný obvod č. 7,525332,Tuhrina,341
+7,Prešovský kraj,707,Volebný obvod č. 7,525341,Tulčík,1059
+7,Prešovský kraj,707,Volebný obvod č. 7,525383,Varhaňovce,1051
+7,Prešovský kraj,707,Volebný obvod č. 7,525391,Veľký Slivník,260
+7,Prešovský kraj,707,Volebný obvod č. 7,525405,Veľký Šariš,5138
+7,Prešovský kraj,707,Volebný obvod č. 7,525413,Víťaz,1558
+7,Prešovský kraj,707,Volebný obvod č. 7,525430,Vyšná Šebastová,1037
+7,Prešovský kraj,707,Volebný obvod č. 7,525448,Záborské,827
+7,Prešovský kraj,707,Volebný obvod č. 7,525456,Záhradné,883
+7,Prešovský kraj,707,Volebný obvod č. 7,525472,Zlatá Baňa,373
+7,Prešovský kraj,707,Volebný obvod č. 7,525499,Žehňa,802
+7,Prešovský kraj,707,Volebný obvod č. 7,525502,Žipov,235
+7,Prešovský kraj,707,Volebný obvod č. 7,525511,Župčany,1482
+7,Prešovský kraj,708,Volebný obvod č. 8,524182,Bajerovce,233
+7,Prešovský kraj,708,Volebný obvod č. 8,524204,Bodovce,291
+7,Prešovský kraj,708,Volebný obvod č. 8,524239,Brezovica,1339
+7,Prešovský kraj,708,Volebný obvod č. 8,524247,Brezovička,330
+7,Prešovský kraj,708,Volebný obvod č. 8,524280,Červená Voda,409
+7,Prešovský kraj,708,Volebný obvod č. 8,524298,Červenica pri Sabinove,724
+7,Prešovský kraj,708,Volebný obvod č. 8,524310,Ďačov,581
+7,Prešovský kraj,708,Volebný obvod č. 8,524328,Daletice,76
+7,Prešovský kraj,708,Volebný obvod č. 8,524344,Drienica,630
+7,Prešovský kraj,708,Volebný obvod č. 8,524379,Dubovica,1150
+7,Prešovský kraj,708,Volebný obvod č. 8,524441,Hanigovce,107
+7,Prešovský kraj,708,Volebný obvod č. 8,524492,Hubošovce,407
+7,Prešovský kraj,708,Volebný obvod č. 8,524557,Jakovany,275
+7,Prešovský kraj,708,Volebný obvod č. 8,524565,Jakubova Voľa,323
+7,Prešovský kraj,708,Volebný obvod č. 8,524573,Jakubovany,768
+7,Prešovský kraj,708,Volebný obvod č. 8,524603,Jarovnice,3889
+7,Prešovský kraj,708,Volebný obvod č. 8,524611,Kamenica,1399
+7,Prešovský kraj,708,Volebný obvod č. 8,524671,Krásna Lúka,524
+7,Prešovský kraj,708,Volebný obvod č. 8,524689,Krivany,892
+7,Prešovský kraj,708,Volebný obvod č. 8,524778,Lipany,4881
+7,Prešovský kraj,708,Volebný obvod č. 8,524816,Lúčka,537
+7,Prešovský kraj,708,Volebný obvod č. 8,524824,Ľutina,371
+7,Prešovský kraj,708,Volebný obvod č. 8,524875,Milpoš,499
+7,Prešovský kraj,708,Volebný obvod č. 8,524921,Nižný Slavkov,616
+7,Prešovský kraj,708,Volebný obvod č. 8,524948,Olejníkov,344
+7,Prešovský kraj,708,Volebný obvod č. 8,524956,Oľšov,308
+7,Prešovský kraj,708,Volebný obvod č. 8,524981,Ostrovany,1420
+7,Prešovský kraj,708,Volebný obvod č. 8,525006,Pečovská Nová Ves,1978
+7,Prešovský kraj,708,Volebný obvod č. 8,525049,Poloma,742
+7,Prešovský kraj,708,Volebný obvod č. 8,525081,Ratvaj,116
+7,Prešovský kraj,708,Volebný obvod č. 8,525090,Ražňany,1246
+7,Prešovský kraj,708,Volebný obvod č. 8,525103,Renčišov,142
+7,Prešovský kraj,708,Volebný obvod č. 8,525120,Rožkovany,1035
+7,Prešovský kraj,708,Volebný obvod č. 8,525146,Sabinov,9501
+7,Prešovský kraj,708,Volebný obvod č. 8,525219,Šarišské Dravce,969
+7,Prešovský kraj,708,Volebný obvod č. 8,525235,Šarišské Michaľany,2241
+7,Prešovský kraj,708,Volebný obvod č. 8,525243,Šarišské Sokolovce,447
+7,Prešovský kraj,708,Volebný obvod č. 8,525308,Tichý Potok,268
+7,Prešovský kraj,708,Volebný obvod č. 8,525316,Torysa,1149
+7,Prešovský kraj,708,Volebný obvod č. 8,525359,Uzovce,426
+7,Prešovský kraj,708,Volebný obvod č. 8,525367,Uzovské Pekľany,314
+7,Prešovský kraj,708,Volebný obvod č. 8,525375,Uzovský Šalgov,528
+7,Prešovský kraj,708,Volebný obvod č. 8,525421,Vysoká,102
+7,Prešovský kraj,709,Volebný obvod č. 9,520039,Belá nad Cirochou,2768
+7,Prešovský kraj,709,Volebný obvod č. 9,520080,Brezovec,32
+7,Prešovský kraj,709,Volebný obvod č. 9,520136,Čukalovce,146
+7,Prešovský kraj,709,Volebný obvod č. 9,520161,Dlhé nad Cirochou,1580
+7,Prešovský kraj,709,Volebný obvod č. 9,520179,Dúbrava,190
+7,Prešovský kraj,709,Volebný obvod č. 9,520209,Hostovice,224
+7,Prešovský kraj,709,Volebný obvod č. 9,520217,Hrabová Roztoka,42
+7,Prešovský kraj,709,Volebný obvod č. 9,520284,Jalová,54
+7,Prešovský kraj,709,Volebný obvod č. 9,520322,Kalná Roztoka,424
+7,Prešovský kraj,709,Volebný obvod č. 9,520365,Klenová,390
+7,Prešovský kraj,709,Volebný obvod č. 9,520381,Kolbasov,61
+7,Prešovský kraj,709,Volebný obvod č. 9,520390,Kolonica,455
+7,Prešovský kraj,709,Volebný obvod č. 9,520438,Ladomirov,235
+7,Prešovský kraj,709,Volebný obvod č. 9,520489,Michajlov,72
+7,Prešovský kraj,709,Volebný obvod č. 9,520551,Nová Sedlica,229
+7,Prešovský kraj,709,Volebný obvod č. 9,520594,Osadné,123
+7,Prešovský kraj,709,Volebný obvod č. 9,520632,Parihuzovce,30
+7,Prešovský kraj,709,Volebný obvod č. 9,520641,Pčoliné,464
+7,Prešovský kraj,709,Volebný obvod č. 9,520659,Pichne,457
+7,Prešovský kraj,709,Volebný obvod č. 9,520675,Príslop,37
+7,Prešovský kraj,709,Volebný obvod č. 9,520730,Runina,71
+7,Prešovský kraj,709,Volebný obvod č. 9,520748,Ruská Volová,75
+7,Prešovský kraj,709,Volebný obvod č. 9,520764,Ruský Potok,112
+7,Prešovský kraj,709,Volebný obvod č. 9,520802,Snina,15460
+7,Prešovský kraj,709,Volebný obvod č. 9,520829,Stakčín,1924
+7,Prešovský kraj,709,Volebný obvod č. 9,520811,Stakčínska Roztoka,251
+7,Prešovský kraj,709,Volebný obvod č. 9,520845,Strihovce,109
+7,Prešovský kraj,709,Volebný obvod č. 9,520870,Šmigovec,70
+7,Prešovský kraj,709,Volebný obvod č. 9,520888,Topoľa,138
+7,Prešovský kraj,709,Volebný obvod č. 9,520918,Ubľa,641
+7,Prešovský kraj,709,Volebný obvod č. 9,520934,Ulič,672
+7,Prešovský kraj,709,Volebný obvod č. 9,520942,Uličské Krivé,198
+7,Prešovský kraj,709,Volebný obvod č. 9,521051,Zboj,246
+7,Prešovský kraj,709,Volebný obvod č. 9,521108,Zemplínske Hámre,1048
+7,Prešovský kraj,710,Volebný obvod č. 10,526673,Čirč,978
+7,Prešovský kraj,710,Volebný obvod č. 10,526681,Ďurková,174
+7,Prešovský kraj,710,Volebný obvod č. 10,526690,Forbasy,351
+7,Prešovský kraj,710,Volebný obvod č. 10,526703,Hajtovka,58
+7,Prešovský kraj,710,Volebný obvod č. 10,526711,Haligovce,520
+7,Prešovský kraj,710,Volebný obvod č. 10,526720,Hniezdne,1113
+7,Prešovský kraj,710,Volebný obvod č. 10,526738,Hraničné,165
+7,Prešovský kraj,710,Volebný obvod č. 10,526746,Hromoš,406
+7,Prešovský kraj,710,Volebný obvod č. 10,526754,Chmeľnica,794
+7,Prešovský kraj,710,Volebný obvod č. 10,526762,Jakubany,2065
+7,Prešovský kraj,710,Volebný obvod č. 10,526771,Jarabina,723
+7,Prešovský kraj,710,Volebný obvod č. 10,526789,Kamienka,1065
+7,Prešovský kraj,710,Volebný obvod č. 10,526797,Kolačkov,831
+7,Prešovský kraj,710,Volebný obvod č. 10,526801,Kremná,80
+7,Prešovský kraj,710,Volebný obvod č. 10,526819,Kyjov,539
+7,Prešovský kraj,710,Volebný obvod č. 10,526827,Lacková,135
+7,Prešovský kraj,710,Volebný obvod č. 10,526835,Legnava,49
+7,Prešovský kraj,710,Volebný obvod č. 10,526843,Lesnica,388
+7,Prešovský kraj,710,Volebný obvod č. 10,526851,Litmanová,533
+7,Prešovský kraj,710,Volebný obvod č. 10,526860,Lomnička,1709
+7,Prešovský kraj,710,Volebný obvod č. 10,526878,Ľubotín,1024
+7,Prešovský kraj,710,Volebný obvod č. 10,526886,Malý Lipník,360
+7,Prešovský kraj,710,Volebný obvod č. 10,526894,Matysová,58
+7,Prešovský kraj,710,Volebný obvod č. 10,526908,Mníšek nad Popradom,472
+7,Prešovský kraj,710,Volebný obvod č. 10,526916,Nižné Ružbachy,480
+7,Prešovský kraj,710,Volebný obvod č. 10,526924,Nová Ľubovňa,2373
+7,Prešovský kraj,710,Volebný obvod č. 10,526932,Obručné,25
+7,Prešovský kraj,710,Volebný obvod č. 10,526941,Orlov,514
+7,Prešovský kraj,710,Volebný obvod č. 10,526959,Plaveč,1430
+7,Prešovský kraj,710,Volebný obvod č. 10,526967,Plavnica,1280
+7,Prešovský kraj,710,Volebný obvod č. 10,526975,Podolínec,2397
+7,Prešovský kraj,710,Volebný obvod č. 10,526983,Pusté Pole,176
+7,Prešovský kraj,710,Volebný obvod č. 10,526991,Ruská Voľa nad Popradom,70
+7,Prešovský kraj,710,Volebný obvod č. 10,526665,Stará Ľubovňa,12510
+7,Prešovský kraj,710,Volebný obvod č. 10,527009,Starina,45
+7,Prešovský kraj,710,Volebný obvod č. 10,527017,Stráňany,151
+7,Prešovský kraj,710,Volebný obvod č. 10,527025,Sulín,263
+7,Prešovský kraj,710,Volebný obvod č. 10,527033,Šambron,322
+7,Prešovský kraj,710,Volebný obvod č. 10,527041,Šarišské Jastrabie,957
+7,Prešovský kraj,710,Volebný obvod č. 10,527050,Údol,298
+7,Prešovský kraj,710,Volebný obvod č. 10,527068,Veľká Lesná,374
+7,Prešovský kraj,710,Volebný obvod č. 10,527076,Veľký Lipník,738
+7,Prešovský kraj,710,Volebný obvod č. 10,527084,Vislanka,221
+7,Prešovský kraj,710,Volebný obvod č. 10,527092,Vyšné Ružbachy,1135
+7,Prešovský kraj,711,Volebný obvod č. 11,527114,Baňa,160
+7,Prešovský kraj,711,Volebný obvod č. 11,527157,Breznica,654
+7,Prešovský kraj,711,Volebný obvod č. 11,527165,Breznička,106
+7,Prešovský kraj,711,Volebný obvod č. 11,527173,Brusnica,238
+7,Prešovský kraj,711,Volebný obvod č. 11,527181,Bukovce,435
+7,Prešovský kraj,711,Volebný obvod č. 11,527190,Bystrá,14
+7,Prešovský kraj,711,Volebný obvod č. 11,527203,Bžany,217
+7,Prešovský kraj,711,Volebný obvod č. 11,527262,Duplín,412
+7,Prešovský kraj,711,Volebný obvod č. 11,527289,Gribov,144
+7,Prešovský kraj,711,Volebný obvod č. 11,527297,Havaj,346
+7,Prešovský kraj,711,Volebný obvod č. 11,527335,Chotča,503
+7,Prešovský kraj,711,Volebný obvod č. 11,527343,Jakušovce,34
+7,Prešovský kraj,711,Volebný obvod č. 11,527386,Kolbovce,145
+7,Prešovský kraj,711,Volebný obvod č. 11,527408,Korunková,58
+7,Prešovský kraj,711,Volebný obvod č. 11,527416,Kožuchovce,45
+7,Prešovský kraj,711,Volebný obvod č. 11,527467,Krišľovce,30
+7,Prešovský kraj,711,Volebný obvod č. 11,527793,Kručov,170
+7,Prešovský kraj,711,Volebný obvod č. 11,527475,Krušinec,198
+7,Prešovský kraj,711,Volebný obvod č. 11,527513,Lomné,195
+7,Prešovský kraj,711,Volebný obvod č. 11,527521,Makovce,120
+7,Prešovský kraj,711,Volebný obvod č. 11,527530,Malá Poľana,94
+7,Prešovský kraj,711,Volebný obvod č. 11,527572,Miková,97
+7,Prešovský kraj,711,Volebný obvod č. 11,527581,Miňovce,294
+7,Prešovský kraj,711,Volebný obvod č. 11,527611,Mrázovce,68
+7,Prešovský kraj,711,Volebný obvod č. 11,527637,Nižná Olšava,321
+7,Prešovský kraj,711,Volebný obvod č. 11,527700,Oľšavka,166
+7,Prešovský kraj,711,Volebný obvod č. 11,527726,Potoky,77
+7,Prešovský kraj,711,Volebný obvod č. 11,527718,Potôčky,57
+7,Prešovský kraj,711,Volebný obvod č. 11,527815,Soľník,27
+7,Prešovský kraj,711,Volebný obvod č. 11,527823,Staškovce,219
+7,Prešovský kraj,711,Volebný obvod č. 11,527840,Stropkov,8116
+7,Prešovský kraj,711,Volebný obvod č. 11,527866,Šandal,246
+7,Prešovský kraj,711,Volebný obvod č. 11,527912,Tisinec,389
+7,Prešovský kraj,711,Volebný obvod č. 11,527921,Tokajík,84
+7,Prešovský kraj,711,Volebný obvod č. 11,527939,Turany nad Ondavou,299
+7,Prešovský kraj,711,Volebný obvod č. 11,527971,Varechovce,119
+7,Prešovský kraj,711,Volebný obvod č. 11,527980,Veľkrop,167
+7,Prešovský kraj,711,Volebný obvod č. 11,527998,Vislava,174
+7,Prešovský kraj,711,Volebný obvod č. 11,528005,Vladiča,55
+7,Prešovský kraj,711,Volebný obvod č. 11,528013,Vojtovce,85
+7,Prešovský kraj,711,Volebný obvod č. 11,528021,Vyškovce,123
+7,Prešovský kraj,711,Volebný obvod č. 11,528048,Vyšná Olšava,469
+7,Prešovský kraj,711,Volebný obvod č. 11,560073,Vyšný Hrabovec,162
+7,Prešovský kraj,712,Volebný obvod č. 12,527122,Belejovce,22
+7,Prešovský kraj,712,Volebný obvod č. 12,527131,Beňadikovce,164
+7,Prešovský kraj,712,Volebný obvod č. 12,527149,Bodružal,45
+7,Prešovský kraj,712,Volebný obvod č. 12,527211,Cernina,461
+7,Prešovský kraj,712,Volebný obvod č. 12,527220,Cigla,63
+7,Prešovský kraj,712,Volebný obvod č. 12,527238,Dlhoňa,57
+7,Prešovský kraj,712,Volebný obvod č. 12,527246,Dobroslava,36
+7,Prešovský kraj,712,Volebný obvod č. 12,527254,Dubová,174
+7,Prešovský kraj,712,Volebný obvod č. 12,580601,Dukovce,233
+7,Prešovský kraj,712,Volebný obvod č. 12,527271,Fijaš,114
+7,Prešovský kraj,712,Volebný obvod č. 12,519197,Giraltovce,3219
+7,Prešovský kraj,712,Volebný obvod č. 12,527301,Havranec,12
+7,Prešovský kraj,712,Volebný obvod č. 12,527319,Hrabovčík,254
+7,Prešovský kraj,712,Volebný obvod č. 12,527327,Hunkovce,246
+7,Prešovský kraj,712,Volebný obvod č. 12,527351,Jurkova Voľa,63
+7,Prešovský kraj,712,Volebný obvod č. 12,519316,Kalnište,415
+7,Prešovský kraj,712,Volebný obvod č. 12,527360,Kapišová,356
+7,Prešovský kraj,712,Volebný obvod č. 12,527378,Kečkovce,178
+7,Prešovský kraj,712,Volebný obvod č. 12,519332,Kobylnice,75
+7,Prešovský kraj,712,Volebný obvod č. 12,527394,Korejovce,60
+7,Prešovský kraj,712,Volebný obvod č. 12,519391,Kračúnovce,998
+7,Prešovský kraj,712,Volebný obvod č. 12,527424,Krajná Bystrá,333
+7,Prešovský kraj,712,Volebný obvod č. 12,527432,Krajná Poľana,167
+7,Prešovský kraj,712,Volebný obvod č. 12,527441,Krajná Porúbka,32
+7,Prešovský kraj,712,Volebný obvod č. 12,527459,Krajné Čierno,70
+7,Prešovský kraj,712,Volebný obvod č. 12,527483,Kružlová,503
+7,Prešovský kraj,712,Volebný obvod č. 12,519448,Kuková,593
+7,Prešovský kraj,712,Volebný obvod č. 12,527491,Kurimka,300
+7,Prešovský kraj,712,Volebný obvod č. 12,527505,Ladomirová,772
+7,Prešovský kraj,712,Volebný obvod č. 12,519537,Lúčka,426
+7,Prešovský kraj,712,Volebný obvod č. 12,519561,Lužany pri Topli,215
+7,Prešovský kraj,712,Volebný obvod č. 12,527548,Matovce,98
+7,Prešovský kraj,712,Volebný obvod č. 12,527556,Medvedie,39
+7,Prešovský kraj,712,Volebný obvod č. 12,527564,Mestisko,376
+7,Prešovský kraj,712,Volebný obvod č. 12,519596,Mičakovce,104
+7,Prešovský kraj,712,Volebný obvod č. 12,527599,Miroľa,46
+7,Prešovský kraj,712,Volebný obvod č. 12,527602,Mlynárovce,174
+7,Prešovský kraj,712,Volebný obvod č. 12,527629,Nižná Jedľová,94
+7,Prešovský kraj,712,Volebný obvod č. 12,527645,Nižná Pisaná,74
+7,Prešovský kraj,712,Volebný obvod č. 12,527653,Nižný Komárnik,116
+7,Prešovský kraj,712,Volebný obvod č. 12,527661,Nižný Mirošov,213
+7,Prešovský kraj,712,Volebný obvod č. 12,527670,Nižný Orlík,254
+7,Prešovský kraj,712,Volebný obvod č. 12,527688,Nová Polianka,55
+7,Prešovský kraj,712,Volebný obvod č. 12,527696,Okrúhle,476
+7,Prešovský kraj,712,Volebný obvod č. 12,527734,Príkra,11
+7,Prešovský kraj,712,Volebný obvod č. 12,527742,Pstriná,46
+7,Prešovský kraj,712,Volebný obvod č. 12,527751,Radoma,360
+7,Prešovský kraj,712,Volebný obvod č. 12,527769,Rakovčík,128
+7,Prešovský kraj,712,Volebný obvod č. 12,527777,Rovné,388
+7,Prešovský kraj,712,Volebný obvod č. 12,527785,Roztoky,287
+7,Prešovský kraj,712,Volebný obvod č. 12,527807,Soboš,124
+7,Prešovský kraj,712,Volebný obvod č. 12,527831,Stročín,430
+7,Prešovský kraj,712,Volebný obvod č. 12,527858,Svidnička,109
+7,Prešovský kraj,712,Volebný obvod č. 12,527106,Svidník,8784
+7,Prešovský kraj,712,Volebný obvod č. 12,527874,Šarbov,18
+7,Prešovský kraj,712,Volebný obvod č. 12,527882,Šarišský Štiavnik,209
+7,Prešovský kraj,712,Volebný obvod č. 12,527891,Šemetkovce,68
+7,Prešovský kraj,712,Volebný obvod č. 12,527904,Štefurov,88
+7,Prešovský kraj,712,Volebný obvod č. 12,527947,Vagrinec,92
+7,Prešovský kraj,712,Volebný obvod č. 12,527955,Valkovce,169
+7,Prešovský kraj,712,Volebný obvod č. 12,527963,Vápeník,37
+7,Prešovský kraj,712,Volebný obvod č. 12,528030,Vyšná Jedľová,159
+7,Prešovský kraj,712,Volebný obvod č. 12,528056,Vyšná Pisaná,69
+7,Prešovský kraj,712,Volebný obvod č. 12,528064,Vyšný Komárnik,60
+7,Prešovský kraj,712,Volebný obvod č. 12,528072,Vyšný Mirošov,461
+7,Prešovský kraj,712,Volebný obvod č. 12,528081,Vyšný Orlík,318
+7,Prešovský kraj,712,Volebný obvod č. 12,519987,Železník,385
+7,Prešovský kraj,712,Volebný obvod č. 12,519995,Želmanovce,269
+7,Prešovský kraj,713,Volebný obvod č. 13,544060,Babie,199
+7,Prešovský kraj,713,Volebný obvod č. 13,544078,Banské,1326
+7,Prešovský kraj,713,Volebný obvod č. 13,544086,Benkovce,435
+7,Prešovský kraj,713,Volebný obvod č. 13,544094,Bystré,2166
+7,Prešovský kraj,713,Volebný obvod č. 13,544108,Cabov,312
+7,Prešovský kraj,713,Volebný obvod č. 13,544116,Čaklov,1954
+7,Prešovský kraj,713,Volebný obvod č. 13,544124,Čičava,870
+7,Prešovský kraj,713,Volebný obvod č. 13,544132,Čierne nad Topľou,606
+7,Prešovský kraj,713,Volebný obvod č. 13,544141,Ďapalovce,348
+7,Prešovský kraj,713,Volebný obvod č. 13,544159,Davidov,632
+7,Prešovský kraj,713,Volebný obvod č. 13,544167,Detrík,42
+7,Prešovský kraj,713,Volebný obvod č. 13,544175,Dlhé Klčovo,1118
+7,Prešovský kraj,713,Volebný obvod č. 13,544183,Ďurďoš,183
+7,Prešovský kraj,713,Volebný obvod č. 13,544191,Giglovce,121
+7,Prešovský kraj,713,Volebný obvod č. 13,544205,Girovce,48
+7,Prešovský kraj,713,Volebný obvod č. 13,544213,Hanušovce nad Topľou,2815
+7,Prešovský kraj,713,Volebný obvod č. 13,581674,Hencovce,1059
+7,Prešovský kraj,713,Volebný obvod č. 13,544221,Hermanovce nad Topľou,562
+7,Prešovský kraj,713,Volebný obvod č. 13,544230,Hlinné,1347
+7,Prešovský kraj,713,Volebný obvod č. 13,528731,Holčíkovce,361
+7,Prešovský kraj,713,Volebný obvod č. 13,528749,Jasenovce,175
+7,Prešovský kraj,713,Volebný obvod č. 13,528757,Jastrabie nad Topľou,367
+7,Prešovský kraj,713,Volebný obvod č. 13,528765,Juskova Voľa,247
+7,Prešovský kraj,713,Volebný obvod č. 13,528773,Kamenná Poruba,1038
+7,Prešovský kraj,713,Volebný obvod č. 13,528781,Kladzany,459
+7,Prešovský kraj,713,Volebný obvod č. 13,528790,Komárany,401
+7,Prešovský kraj,713,Volebný obvod č. 13,528811,Kučín,392
+7,Prešovský kraj,713,Volebný obvod č. 13,528820,Kvakovce,517
+7,Prešovský kraj,713,Volebný obvod č. 13,528838,Majerovce,364
+7,Prešovský kraj,713,Volebný obvod č. 13,528846,Malá Domaša,474
+7,Prešovský kraj,713,Volebný obvod č. 13,528854,Matiaška,228
+7,Prešovský kraj,713,Volebný obvod č. 13,528862,Medzianky,251
+7,Prešovský kraj,713,Volebný obvod č. 13,528871,Merník,485
+7,Prešovský kraj,713,Volebný obvod č. 13,528889,Michalok,253
+7,Prešovský kraj,713,Volebný obvod č. 13,528901,Nižný Hrabovec,1292
+7,Prešovský kraj,713,Volebný obvod č. 13,528919,Nižný Hrušov,1259
+7,Prešovský kraj,713,Volebný obvod č. 13,528927,Nižný Kručov,318
+7,Prešovský kraj,713,Volebný obvod č. 13,528935,Nová Kelča,311
+7,Prešovský kraj,713,Volebný obvod č. 13,528943,Ondavské Matiašovce,623
+7,Prešovský kraj,713,Volebný obvod č. 13,528960,Pavlovce,610
+7,Prešovský kraj,713,Volebný obvod č. 13,528978,Petkovce,107
+7,Prešovský kraj,713,Volebný obvod č. 13,528986,Petrovce,368
+7,Prešovský kraj,713,Volebný obvod č. 13,528994,Piskorovce,103
+7,Prešovský kraj,713,Volebný obvod č. 13,529001,Poša,659
+7,Prešovský kraj,713,Volebný obvod č. 13,529028,Prosačov,137
+7,Prešovský kraj,713,Volebný obvod č. 13,529036,Radvanovce,172
+7,Prešovský kraj,713,Volebný obvod č. 13,529044,Rafajovce,125
+7,Prešovský kraj,713,Volebný obvod č. 13,529052,Remeniny,226
+7,Prešovský kraj,713,Volebný obvod č. 13,529079,Rudlov,512
+7,Prešovský kraj,713,Volebný obvod č. 13,529109,Ruská Voľa,59
+7,Prešovský kraj,713,Volebný obvod č. 13,529125,Sačurov,1672
+7,Prešovský kraj,713,Volebný obvod č. 13,529133,Sečovská Polianka,2131
+7,Prešovský kraj,713,Volebný obvod č. 13,529141,Sedliská,1117
+7,Prešovský kraj,713,Volebný obvod č. 13,529150,Skrabské,579
+7,Prešovský kraj,713,Volebný obvod č. 13,529168,Slovenská Kajňa,634
+7,Prešovský kraj,713,Volebný obvod č. 13,529176,Soľ,1860
+7,Prešovský kraj,713,Volebný obvod č. 13,529184,Štefanovce,87
+7,Prešovský kraj,713,Volebný obvod č. 13,529192,Tovarné,855
+7,Prešovský kraj,713,Volebný obvod č. 13,529206,Tovarnianska Polianka,86
+7,Prešovský kraj,713,Volebný obvod č. 13,529214,Vavrinec,51
+7,Prešovský kraj,713,Volebný obvod č. 13,529222,Vechec,1969
+7,Prešovský kraj,713,Volebný obvod č. 13,529231,Vlača,185
+7,Prešovský kraj,713,Volebný obvod č. 13,544051,Vranov nad Topľou,17384
+7,Prešovský kraj,713,Volebný obvod č. 13,529117,Vyšný Kazimír,164
+7,Prešovský kraj,713,Volebný obvod č. 13,529257,Vyšný Žipov,940
+7,Prešovský kraj,713,Volebný obvod č. 13,529265,Zámutov,2356
+7,Prešovský kraj,713,Volebný obvod č. 13,529281,Zlatník,56
+7,Prešovský kraj,713,Volebný obvod č. 13,529290,Žalobín,616
+8,Košický kraj,801,Volebný obvod č. 1,599891,Košice - Džungľa,537
+8,Košický kraj,801,Volebný obvod č. 1,598119,Košice - Kavečany,1100
+8,Košický kraj,801,Volebný obvod č. 1,598151,Košice - Sever,16675
+8,Košický kraj,801,Volebný obvod č. 1,599875,Košice - Sídlisko Ťahanovce,17712
+8,Košický kraj,801,Volebný obvod č. 1,598186,Košice - Staré Mesto,17981
+8,Košický kraj,801,Volebný obvod č. 1,598127,Košice - Ťahanovce,1797
+8,Košický kraj,802,Volebný obvod č. 2,598194,Košice - Lorinčík,789
+8,Košický kraj,802,Volebný obvod č. 2,599972,Košice - Luník IX,4925
+8,Košický kraj,802,Volebný obvod č. 2,598216,Košice - Myslava,2170
+8,Košický kraj,802,Volebný obvod č. 2,598208,Košice - Pereš,1750
+8,Košický kraj,802,Volebný obvod č. 2,599859,Košice - Poľov,949
+8,Košický kraj,802,Volebný obvod č. 2,599883,Košice - Sídlisko KVP,18828
+8,Košický kraj,802,Volebný obvod č. 2,599841,Košice - Šaca,4616
+8,Košický kraj,802,Volebný obvod č. 2,598224,Košice - Západ,32219
+8,Košický kraj,803,Volebný obvod č. 3,598682,Košice - Dargovských hrdinov,21632
+8,Košický kraj,803,Volebný obvod č. 3,599018,Košice - Košická Nová Ves,2431
+8,Košický kraj,804,Volebný obvod č. 4,599093,Košice - Barca,3066
+8,Košický kraj,804,Volebný obvod č. 4,599824,Košice - Juh,18604
+8,Košický kraj,804,Volebný obvod č. 4,599794,Košice - Krásna,4639
+8,Košický kraj,804,Volebný obvod č. 4,599816,Košice - Nad jazerom,19498
+8,Košický kraj,804,Volebný obvod č. 4,599786,Košice - Šebastovce,622
+8,Košický kraj,804,Volebný obvod č. 4,599913,Košice - Vyšné Opátske,2138
+8,Košický kraj,805,Volebný obvod č. 5,521141,Bačkovík,396
+8,Košický kraj,805,Volebný obvod č. 5,521159,Baška,570
+8,Košický kraj,805,Volebný obvod č. 5,521167,Belža,351
+8,Košický kraj,805,Volebný obvod č. 5,521175,Beniakovce,618
+8,Košický kraj,805,Volebný obvod č. 5,521183,Bidovce,1192
+8,Košický kraj,805,Volebný obvod č. 5,521191,Blažice,468
+8,Košický kraj,805,Volebný obvod č. 5,559831,Bočiar,187
+8,Košický kraj,805,Volebný obvod č. 5,521205,Bohdanovce,925
+8,Košický kraj,805,Volebný obvod č. 5,521213,Boliarov,572
+8,Košický kraj,805,Volebný obvod č. 5,521221,Budimír,1054
+8,Košický kraj,805,Volebný obvod č. 5,521248,Bukovec,717
+8,Košický kraj,805,Volebný obvod č. 5,521256,Bunetice,71
+8,Košický kraj,805,Volebný obvod č. 5,521264,Buzica,961
+8,Košický kraj,805,Volebný obvod č. 5,521272,Cestice,709
+8,Košický kraj,805,Volebný obvod č. 5,521281,Čakanovce,516
+8,Košický kraj,805,Volebný obvod č. 5,521299,Čaňa,4572
+8,Košický kraj,805,Volebný obvod č. 5,521302,Čečejovce,1724
+8,Košický kraj,805,Volebný obvod č. 5,521311,Čižatice,334
+8,Košický kraj,805,Volebný obvod č. 5,521329,Debraď,336
+8,Košický kraj,805,Volebný obvod č. 5,521337,Drienovec,1673
+8,Košický kraj,805,Volebný obvod č. 5,521345,Družstevná pri Hornáde,2130
+8,Košický kraj,805,Volebný obvod č. 5,521353,Ďurďošík,534
+8,Košický kraj,805,Volebný obvod č. 5,521361,Ďurkov,1371
+8,Košický kraj,805,Volebný obvod č. 5,559873,Dvorníky - Včeláre,429
+8,Košický kraj,805,Volebný obvod č. 5,521370,Geča,1508
+8,Košický kraj,805,Volebný obvod č. 5,521388,Gyňov,546
+8,Košický kraj,805,Volebný obvod č. 5,521396,Hačava,159
+8,Košický kraj,805,Volebný obvod č. 5,518123,Háj,219
+8,Košický kraj,805,Volebný obvod č. 5,521400,Haniska,1216
+8,Košický kraj,805,Volebný obvod č. 5,521418,Herľany,218
+8,Košický kraj,805,Volebný obvod č. 5,521426,Hodkovce,279
+8,Košický kraj,805,Volebný obvod č. 5,518107,Hosťovce,178
+8,Košický kraj,805,Volebný obvod č. 5,521442,Hrašovík,325
+8,Košický kraj,805,Volebný obvod č. 5,521469,Hýľov,429
+8,Košický kraj,805,Volebný obvod č. 5,599310,Chorváty,88
+8,Košický kraj,805,Volebný obvod č. 5,521477,Chrastné,496
+8,Košický kraj,805,Volebný obvod č. 5,521485,Janík,497
+8,Košický kraj,805,Volebný obvod č. 5,521493,Jasov,2465
+8,Košický kraj,805,Volebný obvod č. 5,521507,Kalša,579
+8,Košický kraj,805,Volebný obvod č. 5,521523,Kecerovce,2286
+8,Košický kraj,805,Volebný obvod č. 5,521540,Kecerovský Lipovec,86
+8,Košický kraj,805,Volebný obvod č. 5,559687,Kechnec,882
+8,Košický kraj,805,Volebný obvod č. 5,521558,Kokšov - Bakša,1011
+8,Košický kraj,805,Volebný obvod č. 5,521566,Komárovce,325
+8,Košický kraj,805,Volebný obvod č. 5,582514,Kostoľany nad Hornádom,1042
+8,Košický kraj,805,Volebný obvod č. 5,521574,Košická Belá,819
+8,Košický kraj,805,Volebný obvod č. 5,521582,Košická Polianka,834
+8,Košický kraj,805,Volebný obvod č. 5,521591,Košické Oľšany,1023
+8,Košický kraj,805,Volebný obvod č. 5,521604,Košický Klečenov,248
+8,Košický kraj,805,Volebný obvod č. 5,521612,Kráľovce,937
+8,Košický kraj,805,Volebný obvod č. 5,521639,Kysak,1200
+8,Košický kraj,805,Volebný obvod č. 5,521655,Malá Ida,1487
+8,Košický kraj,805,Volebný obvod č. 5,521663,Malá Lodina,194
+8,Košický kraj,805,Volebný obvod č. 5,521671,Medzev,3076
+8,Košický kraj,805,Volebný obvod č. 5,580252,Milhosť,314
+8,Košický kraj,805,Volebný obvod č. 5,521680,Mokrance,1209
+8,Košický kraj,805,Volebný obvod č. 5,521698,Moldava nad Bodvou,7880
+8,Košický kraj,805,Volebný obvod č. 5,521701,Mudrovce,59
+8,Košický kraj,805,Volebný obvod č. 5,518140,Nižná Hutka,526
+8,Košický kraj,805,Volebný obvod č. 5,521728,Nižná Kamenica,536
+8,Košický kraj,805,Volebný obvod č. 5,521736,Nižná Myšľa,1176
+8,Košický kraj,805,Volebný obvod č. 5,521744,Nižný Čaj,231
+8,Košický kraj,805,Volebný obvod č. 5,521752,Nižný Klátov,754
+8,Košický kraj,805,Volebný obvod č. 5,521761,Nižný Lánec,329
+8,Košický kraj,805,Volebný obvod č. 5,521795,Nová Polhora,402
+8,Košický kraj,805,Volebný obvod č. 5,521787,Nováčany,613
+8,Košický kraj,805,Volebný obvod č. 5,521809,Nový Salaš,183
+8,Košický kraj,805,Volebný obvod č. 5,521817,Obišovce,384
+8,Košický kraj,805,Volebný obvod č. 5,521825,Olšovany,511
+8,Košický kraj,805,Volebný obvod č. 5,521833,Opátka,84
+8,Košický kraj,805,Volebný obvod č. 5,521841,Opiná,151
+8,Košický kraj,805,Volebný obvod č. 5,521850,Paňovce,495
+8,Košický kraj,805,Volebný obvod č. 5,521868,Peder,302
+8,Košický kraj,805,Volebný obvod č. 5,521876,Perín - Chym,1289
+8,Košický kraj,805,Volebný obvod č. 5,521884,Ploské,738
+8,Košický kraj,805,Volebný obvod č. 5,521892,Poproč,2213
+8,Košický kraj,805,Volebný obvod č. 5,521906,Rákoš,302
+8,Košický kraj,805,Volebný obvod č. 5,521914,Rankovce,587
+8,Košický kraj,805,Volebný obvod č. 5,521922,Rešica,295
+8,Košický kraj,805,Volebný obvod č. 5,521931,Rozhanovce,2072
+8,Košický kraj,805,Volebný obvod č. 5,521949,Rudník,522
+8,Košický kraj,805,Volebný obvod č. 5,521957,Ruskov,1325
+8,Košický kraj,805,Volebný obvod č. 5,521965,Sady nad Torysou,1539
+8,Košický kraj,805,Volebný obvod č. 5,521973,Seňa,1723
+8,Košický kraj,805,Volebný obvod č. 5,521981,Skároš,899
+8,Košický kraj,805,Volebný obvod č. 5,518115,Slančík,175
+8,Košický kraj,805,Volebný obvod č. 5,522007,Slanec,1180
+8,Košický kraj,805,Volebný obvod č. 5,522015,Slanská Huta,195
+8,Košický kraj,805,Volebný obvod č. 5,522023,Slanské Nové Mesto,391
+8,Košický kraj,805,Volebný obvod č. 5,522031,Sokoľ,999
+8,Košický kraj,805,Volebný obvod č. 5,559865,Sokoľany,985
+8,Košický kraj,805,Volebný obvod č. 5,522040,Svinica,760
+8,Košický kraj,805,Volebný obvod č. 5,522066,Šemša,791
+8,Košický kraj,805,Volebný obvod č. 5,522074,Štós,583
+8,Košický kraj,805,Volebný obvod č. 5,522082,Trebejov,180
+8,Košický kraj,805,Volebný obvod č. 5,522091,Trsťany,249
+8,Košický kraj,805,Volebný obvod č. 5,522104,Trstené pri Hornáde,1220
+8,Košický kraj,805,Volebný obvod č. 5,559784,Turňa nad Bodvou,2844
+8,Košický kraj,805,Volebný obvod č. 5,521779,Turnianska Nová Ves,246
+8,Košický kraj,805,Volebný obvod č. 5,522121,Vajkovce,717
+8,Košický kraj,805,Volebný obvod č. 5,522139,Valaliky,3473
+8,Košický kraj,805,Volebný obvod č. 5,522147,Veľká Ida,2513
+8,Košický kraj,805,Volebný obvod č. 5,522155,Veľká Lodina,254
+8,Košický kraj,805,Volebný obvod č. 5,522163,Vtáčkovce,831
+8,Košický kraj,805,Volebný obvod č. 5,522171,Vyšná Hutka,425
+8,Košický kraj,805,Volebný obvod č. 5,522180,Vyšná Kamenica,279
+8,Košický kraj,805,Volebný obvod č. 5,522198,Vyšná Myšľa,804
+8,Košický kraj,805,Volebný obvod č. 5,522201,Vyšný Čaj,254
+8,Košický kraj,805,Volebný obvod č. 5,522210,Vyšný Klátov,391
+8,Košický kraj,805,Volebný obvod č. 5,582093,Vyšný Medzev,426
+8,Košický kraj,805,Volebný obvod č. 5,559881,Zádiel,130
+8,Košický kraj,805,Volebný obvod č. 5,522244,Zlatá Idka,317
+8,Košický kraj,805,Volebný obvod č. 5,522252,Žarnov,359
+8,Košický kraj,805,Volebný obvod č. 5,522261,Ždaňa,1093
+8,Košický kraj,806,Volebný obvod č. 6,526509,Gelnica,4857
+8,Košický kraj,806,Volebný obvod č. 6,526541,Helcmanovce,1131
+8,Košický kraj,806,Volebný obvod č. 6,526550,Henclová,85
+8,Košický kraj,806,Volebný obvod č. 6,543144,Hrišovce,239
+8,Košický kraj,806,Volebný obvod č. 6,543187,Jaklovce,1504
+8,Košický kraj,806,Volebný obvod č. 6,543233,Kluknava,1247
+8,Košický kraj,806,Volebný obvod č. 6,543241,Kojšov,576
+8,Košický kraj,806,Volebný obvod č. 6,543322,Margecany,1613
+8,Košický kraj,806,Volebný obvod č. 6,543365,Mníšek nad Hnilcom,1269
+8,Košický kraj,806,Volebný obvod č. 6,543373,Nálepkovo,2217
+8,Košický kraj,806,Volebný obvod č. 6,543497,Prakovce,2626
+8,Košický kraj,806,Volebný obvod č. 6,543501,Richnava,1680
+8,Košický kraj,806,Volebný obvod č. 6,543551,Smolnícka Huta,371
+8,Košický kraj,806,Volebný obvod č. 6,543560,Smolník,810
+8,Košický kraj,806,Volebný obvod č. 6,543632,Stará Voda,169
+8,Košický kraj,806,Volebný obvod č. 6,543659,Švedlár,1567
+8,Košický kraj,806,Volebný obvod č. 6,543683,Úhorná,102
+8,Košický kraj,806,Volebný obvod č. 6,543705,Veľký Folkmar,736
+8,Košický kraj,806,Volebný obvod č. 6,526631,Závadka,428
+8,Košický kraj,806,Volebný obvod č. 6,526649,Žakarovce,489
+8,Košický kraj,807,Volebný obvod č. 7,522287,Bajany,372
+8,Košický kraj,807,Volebný obvod č. 7,522295,Bánovce nad Ondavou,581
+8,Košický kraj,807,Volebný obvod č. 7,528137,Beša,294
+8,Košický kraj,807,Volebný obvod č. 7,522368,Bracovce,730
+8,Košický kraj,807,Volebný obvod č. 7,513857,Budince,162
+8,Košický kraj,807,Volebný obvod č. 7,522376,Budkovce,1238
+8,Košický kraj,807,Volebný obvod č. 7,522392,Čečehov,314
+8,Košický kraj,807,Volebný obvod č. 7,528277,Čičarovce,704
+8,Košický kraj,807,Volebný obvod č. 7,528307,Čierne Pole,291
+8,Košický kraj,807,Volebný obvod č. 7,528331,Drahňov,1124
+8,Košický kraj,807,Volebný obvod č. 7,522406,Dúbravka,556
+8,Košický kraj,807,Volebný obvod č. 7,522414,Falkušovce,520
+8,Košický kraj,807,Volebný obvod č. 7,522431,Hatalov,590
+8,Košický kraj,807,Volebný obvod č. 7,522449,Hažín,394
+8,Košický kraj,807,Volebný obvod č. 7,522465,Hnojné,200
+8,Košický kraj,807,Volebný obvod č. 7,522481,Horovce,653
+8,Košický kraj,807,Volebný obvod č. 7,522511,Iňačovce,566
+8,Košický kraj,807,Volebný obvod č. 7,528391,Ižkovce,84
+8,Košický kraj,807,Volebný obvod č. 7,522546,Jastrabie pri Michalovciach,240
+8,Košický kraj,807,Volebný obvod č. 7,522562,Jovsa,708
+8,Košický kraj,807,Volebný obvod č. 7,522571,Kačanov,335
+8,Košický kraj,807,Volebný obvod č. 7,522589,Kaluža,393
+8,Košický kraj,807,Volebný obvod č. 7,528404,Kapušianske Kľačany,658
+8,Košický kraj,807,Volebný obvod č. 7,522597,Klokočov,377
+8,Košický kraj,807,Volebný obvod č. 7,522651,Krásnovce,518
+8,Košický kraj,807,Volebný obvod č. 7,528463,Krišovská Liesková,674
+8,Košický kraj,807,Volebný obvod č. 7,522686,Kusín,302
+8,Košický kraj,807,Volebný obvod č. 7,522694,Lastomír,983
+8,Košický kraj,807,Volebný obvod č. 7,522708,Laškovce,465
+8,Košický kraj,807,Volebný obvod č. 7,522724,Lesné,342
+8,Košický kraj,807,Volebný obvod č. 7,522732,Ložín,684
+8,Košický kraj,807,Volebný obvod č. 7,522741,Lúčky,455
+8,Košický kraj,807,Volebný obvod č. 7,522759,Malčice,1058
+8,Košický kraj,807,Volebný obvod č. 7,522767,Malé Raškovce,201
+8,Košický kraj,807,Volebný obvod č. 7,522783,Markovce,677
+8,Košický kraj,807,Volebný obvod č. 7,528579,Maťovské Vojkovce,513
+8,Košický kraj,807,Volebný obvod č. 7,522279,Michalovce,30502
+8,Košický kraj,807,Volebný obvod č. 7,522791,Moravany,839
+8,Košický kraj,807,Volebný obvod č. 7,522805,Nacina Ves,1425
+8,Košický kraj,807,Volebný obvod č. 7,528633,Oborín,562
+8,Košický kraj,807,Volebný obvod č. 7,522848,Oreské,398
+8,Košický kraj,807,Volebný obvod č. 7,522864,Palín,712
+8,Košický kraj,807,Volebný obvod č. 7,522872,Pavlovce nad Uhom,3400
+8,Košický kraj,807,Volebný obvod č. 7,522881,Petrikovce,158
+8,Košický kraj,807,Volebný obvod č. 7,522902,Petrovce nad Laborcom,804
+8,Košický kraj,807,Volebný obvod č. 7,522945,Poruba pod Vihorlatom,512
+8,Košický kraj,807,Volebný obvod č. 7,522961,Pozdišovce,1085
+8,Košický kraj,807,Volebný obvod č. 7,528692,Ptrukša,406
+8,Košický kraj,807,Volebný obvod č. 7,522988,Pusté Čemerné,290
+8,Košický kraj,807,Volebný obvod č. 7,522996,Rakovec nad Ondavou,851
+8,Košický kraj,807,Volebný obvod č. 7,528714,Ruská,452
+8,Košický kraj,807,Volebný obvod č. 7,523054,Senné,590
+8,Košický kraj,807,Volebný obvod č. 7,523062,Slavkovce,499
+8,Košický kraj,807,Volebný obvod č. 7,523071,Sliepkovce,612
+8,Košický kraj,807,Volebný obvod č. 7,523097,Staré,634
+8,Košický kraj,807,Volebný obvod č. 7,523101,Strážske,3519
+8,Košický kraj,807,Volebný obvod č. 7,523119,Stretava,543
+8,Košický kraj,807,Volebný obvod č. 7,523127,Stretavka,147
+8,Košický kraj,807,Volebný obvod č. 7,523135,Suché,348
+8,Košický kraj,807,Volebný obvod č. 7,523151,Šamudovce,447
+8,Košický kraj,807,Volebný obvod č. 7,523186,Trhovište,1415
+8,Košický kraj,807,Volebný obvod č. 7,523194,Trnava pri Laborci,504
+8,Košický kraj,807,Volebný obvod č. 7,523208,Tušice,546
+8,Košický kraj,807,Volebný obvod č. 7,523216,Tušická Nová Ves,432
+8,Košický kraj,807,Volebný obvod č. 7,543853,Veľké Kapušany,7251
+8,Košický kraj,807,Volebný obvod č. 7,543870,Veľké Raškovce,276
+8,Košický kraj,807,Volebný obvod č. 7,543888,Veľké Slemence,438
+8,Košický kraj,807,Volebný obvod č. 7,523259,Vinné,1674
+8,Košický kraj,807,Volebný obvod č. 7,543942,Vojany,657
+8,Košický kraj,807,Volebný obvod č. 7,523275,Voľa,208
+8,Košický kraj,807,Volebný obvod č. 7,523283,Vrbnica,721
+8,Košický kraj,807,Volebný obvod č. 7,523291,Vysoká nad Uhom,647
+8,Košický kraj,807,Volebný obvod č. 7,523241,Zalužice,961
+8,Košický kraj,807,Volebný obvod č. 7,523348,Závadka,352
+8,Košický kraj,807,Volebný obvod č. 7,523356,Zbudza,439
+8,Košický kraj,807,Volebný obvod č. 7,523364,Zemplínska Široká,818
+8,Košický kraj,807,Volebný obvod č. 7,522635,Zemplínske Kopčany,300
+8,Košický kraj,807,Volebný obvod č. 7,523372,Žbince,748
+8,Košický kraj,808,Volebný obvod č. 8,525537,Ardovo,126
+8,Košický kraj,808,Volebný obvod č. 8,525545,Betliar,794
+8,Košický kraj,808,Volebný obvod č. 8,525553,Bohúňovo,228
+8,Košický kraj,808,Volebný obvod č. 8,525561,Bôrka,365
+8,Košický kraj,808,Volebný obvod č. 8,525570,Brdárka,45
+8,Košický kraj,808,Volebný obvod č. 8,514578,Bretka,305
+8,Košický kraj,808,Volebný obvod č. 8,560022,Brzotín,1037
+8,Košický kraj,808,Volebný obvod č. 8,525596,Čierna Lehota,472
+8,Košický kraj,808,Volebný obvod č. 8,525600,Čoltovo,375
+8,Košický kraj,808,Volebný obvod č. 8,560031,Čučma,494
+8,Košický kraj,808,Volebný obvod č. 8,525618,Dedinky,208
+8,Košický kraj,808,Volebný obvod č. 8,525626,Dlhá Ves,451
+8,Košický kraj,808,Volebný obvod č. 8,525634,Dobšiná,3687
+8,Košický kraj,808,Volebný obvod č. 8,525642,Drnava,519
+8,Košický kraj,808,Volebný obvod č. 8,525651,Gemerská Hôrka,1053
+8,Košický kraj,808,Volebný obvod č. 8,514748,Gemerská Panica,493
+8,Košický kraj,808,Volebný obvod č. 8,525669,Gemerská Poloma,1550
+8,Košický kraj,808,Volebný obvod č. 8,525693,Gočaltovo,175
+8,Košický kraj,808,Volebný obvod č. 8,525707,Gočovo,272
+8,Košický kraj,808,Volebný obvod č. 8,525715,Hanková,51
+8,Košický kraj,808,Volebný obvod č. 8,525723,Henckovce,308
+8,Košický kraj,808,Volebný obvod č. 8,525731,Honce,294
+8,Košický kraj,808,Volebný obvod č. 8,525740,Hrhov,868
+8,Košický kraj,808,Volebný obvod č. 8,525758,Hrušov,274
+8,Košický kraj,808,Volebný obvod č. 8,525782,Jablonov nad Turňou,651
+8,Košický kraj,808,Volebný obvod č. 8,560049,Jovice,580
+8,Košický kraj,808,Volebný obvod č. 8,525821,Kečovo,282
+8,Košický kraj,808,Volebný obvod č. 8,525839,Kobeliarovo,312
+8,Košický kraj,808,Volebný obvod č. 8,525847,Koceľovce,176
+8,Košický kraj,808,Volebný obvod č. 8,525855,Kováčová,52
+8,Košický kraj,808,Volebný obvod č. 8,525863,Krásnohorská Dlhá Lúka,567
+8,Košický kraj,808,Volebný obvod č. 8,525871,Krásnohorské Podhradie,2057
+8,Košický kraj,808,Volebný obvod č. 8,560065,Kružná,395
+8,Košický kraj,808,Volebný obvod č. 8,525898,Kunova Teplica,576
+8,Košický kraj,808,Volebný obvod č. 8,525910,Lipovník,438
+8,Košický kraj,808,Volebný obvod č. 8,525936,Lúčka,157
+8,Košický kraj,808,Volebný obvod č. 8,525952,Markuška,120
+8,Košický kraj,808,Volebný obvod č. 8,525961,Meliata,156
+8,Košický kraj,808,Volebný obvod č. 8,526045,Nižná Slaná,919
+8,Košický kraj,808,Volebný obvod č. 8,526053,Ochtiná,426
+8,Košický kraj,808,Volebný obvod č. 8,526061,Pača,455
+8,Košický kraj,808,Volebný obvod č. 8,526070,Pašková,245
+8,Košický kraj,808,Volebný obvod č. 8,526088,Petrovo,75
+8,Košický kraj,808,Volebný obvod č. 8,526096,Plešivec,1850
+8,Košický kraj,808,Volebný obvod č. 8,526126,Rakovnica,517
+8,Košický kraj,808,Volebný obvod č. 8,526134,Rejdová,532
+8,Košický kraj,808,Volebný obvod č. 8,526177,Rochovce,265
+8,Košický kraj,808,Volebný obvod č. 8,526185,Roštár,428
+8,Košický kraj,808,Volebný obvod č. 8,526193,Rozložná,151
+8,Košický kraj,808,Volebný obvod č. 8,525529,Rožňava,14532
+8,Košický kraj,808,Volebný obvod č. 8,526207,Rožňavské Bystré,487
+8,Košický kraj,808,Volebný obvod č. 8,526215,Rudná,596
+8,Košický kraj,808,Volebný obvod č. 8,526223,Silica,438
+8,Košický kraj,808,Volebný obvod č. 8,526231,Silická Brezová,122
+8,Košický kraj,808,Volebný obvod č. 8,526240,Silická Jablonica,156
+8,Košický kraj,808,Volebný obvod č. 8,526266,Slavec,373
+8,Košický kraj,808,Volebný obvod č. 8,526274,Slavoška,80
+8,Košický kraj,808,Volebný obvod č. 8,526282,Slavošovce,1403
+8,Košický kraj,808,Volebný obvod č. 8,526291,Stratená,99
+8,Košický kraj,808,Volebný obvod č. 8,526312,Štítnik,1226
+8,Košický kraj,808,Volebný obvod č. 8,526339,Vlachovo,673
+8,Košický kraj,808,Volebný obvod č. 8,526347,Vyšná Slaná,373
+8,Košický kraj,809,Volebný obvod č. 9,522309,Baškovce,198
+8,Košický kraj,809,Volebný obvod č. 9,522317,Beňatina,152
+8,Košický kraj,809,Volebný obvod č. 9,522325,Bežovce,775
+8,Košický kraj,809,Volebný obvod č. 9,522333,Blatná Polianka,147
+8,Košický kraj,809,Volebný obvod č. 9,522341,Blatné Remety,571
+8,Košický kraj,809,Volebný obvod č. 9,522350,Blatné Revištia,189
+8,Košický kraj,809,Volebný obvod č. 9,522384,Bunkovce,271
+8,Košický kraj,809,Volebný obvod č. 9,522422,Fekišovce,249
+8,Košický kraj,809,Volebný obvod č. 9,522457,Hlivištia,296
+8,Košický kraj,809,Volebný obvod č. 9,522473,Horňa,281
+8,Košický kraj,809,Volebný obvod č. 9,522490,Husák,142
+8,Košický kraj,809,Volebný obvod č. 9,522503,Choňkovce,428
+8,Košický kraj,809,Volebný obvod č. 9,522520,Inovce,172
+8,Košický kraj,809,Volebný obvod č. 9,522538,Jasenov,242
+8,Košický kraj,809,Volebný obvod č. 9,522554,Jenkovce,337
+8,Košický kraj,809,Volebný obvod č. 9,522601,Kolibabovce,150
+8,Košický kraj,809,Volebný obvod č. 9,522627,Koňuš,274
+8,Košický kraj,809,Volebný obvod č. 9,522643,Koromľa,348
+8,Košický kraj,809,Volebný obvod č. 9,522660,Krčava,360
+8,Košický kraj,809,Volebný obvod č. 9,522678,Kristy,247
+8,Košický kraj,809,Volebný obvod č. 9,522716,Lekárovce,731
+8,Košický kraj,809,Volebný obvod č. 9,522813,Nižná Rybnica,347
+8,Košický kraj,809,Volebný obvod č. 9,522821,Nižné Nemecké,255
+8,Košický kraj,809,Volebný obvod č. 9,522830,Orechová,192
+8,Košický kraj,809,Volebný obvod č. 9,522856,Ostrov,255
+8,Košický kraj,809,Volebný obvod č. 9,522899,Petrovce,168
+8,Košický kraj,809,Volebný obvod č. 9,522911,Pinkovce,156
+8,Košický kraj,809,Volebný obvod č. 9,522929,Podhoroď,275
+8,Košický kraj,809,Volebný obvod č. 9,522937,Porostov,166
+8,Košický kraj,809,Volebný obvod č. 9,522953,Porúbka,328
+8,Košický kraj,809,Volebný obvod č. 9,522970,Priekopa,236
+8,Košický kraj,809,Volebný obvod č. 9,523003,Remetské Hámre,496
+8,Košický kraj,809,Volebný obvod č. 9,523011,Ruská Bystrá,84
+8,Košický kraj,809,Volebný obvod č. 9,523020,Ruskovce,215
+8,Košický kraj,809,Volebný obvod č. 9,523038,Ruský Hrabovec,251
+8,Košický kraj,809,Volebný obvod č. 9,523046,Sejkov,147
+8,Košický kraj,809,Volebný obvod č. 9,523089,Sobrance,4581
+8,Košický kraj,809,Volebný obvod č. 9,523143,Svätuš,88
+8,Košický kraj,809,Volebný obvod č. 9,523160,Tašuľa,170
+8,Košický kraj,809,Volebný obvod č. 9,523178,Tibava,438
+8,Košický kraj,809,Volebný obvod č. 9,523224,Úbrež,749
+8,Košický kraj,809,Volebný obvod č. 9,523232,Veľké Revištia,410
+8,Košický kraj,809,Volebný obvod č. 9,523267,Vojnatina,195
+8,Košický kraj,809,Volebný obvod č. 9,523305,Vyšná Rybnica,326
+8,Košický kraj,809,Volebný obvod č. 9,523313,Vyšné Nemecké,182
+8,Košický kraj,809,Volebný obvod č. 9,523321,Vyšné Remety,327
+8,Košický kraj,809,Volebný obvod č. 9,523330,Záhor,540
+8,Košický kraj,810,Volebný obvod č. 10,526363,Arnutovce,539
+8,Košický kraj,810,Volebný obvod č. 10,526398,Betlanovce,552
+8,Košický kraj,810,Volebný obvod č. 10,526436,Bystrany,2272
+8,Košický kraj,810,Volebný obvod č. 10,526444,Danišovce,449
+8,Košický kraj,810,Volebný obvod č. 10,526533,Harichovce,1493
+8,Košický kraj,810,Volebný obvod č. 10,526568,Hincovce,200
+8,Košický kraj,810,Volebný obvod č. 10,526576,Hnilčík,477
+8,Košický kraj,810,Volebný obvod č. 10,526584,Hnilec,354
+8,Košický kraj,810,Volebný obvod č. 10,526592,Hrabušice,1851
+8,Košický kraj,810,Volebný obvod č. 10,543152,Chrasť nad Hornádom,639
+8,Košický kraj,810,Volebný obvod č. 10,543161,Iliašovce,801
+8,Košický kraj,810,Volebný obvod č. 10,543195,Jamník,918
+8,Košický kraj,810,Volebný obvod č. 10,543209,Kaľava,300
+8,Košický kraj,810,Volebný obvod č. 10,543250,Kolinovce,446
+8,Košický kraj,810,Volebný obvod č. 10,543268,Krompachy,6425
+8,Košický kraj,810,Volebný obvod č. 10,543284,Letanovce,1545
+8,Košický kraj,810,Volebný obvod č. 10,543306,Lieskovany,296
+8,Košický kraj,810,Volebný obvod č. 10,543331,Markušovce,2976
+8,Košický kraj,810,Volebný obvod č. 10,543349,Matejovce nad Hornádom,432
+8,Košický kraj,810,Volebný obvod č. 10,543357,Mlynky,436
+8,Košický kraj,810,Volebný obvod č. 10,543403,Odorín,810
+8,Košický kraj,810,Volebný obvod č. 10,543411,Olcnava,826
+8,Košický kraj,810,Volebný obvod č. 10,543438,Oľšavka,154
+8,Košický kraj,810,Volebný obvod č. 10,543489,Poráč,797
+8,Košický kraj,810,Volebný obvod č. 10,543519,Rudňany,2759
+8,Košický kraj,810,Volebný obvod č. 10,543527,Slatvina,249
+8,Košický kraj,810,Volebný obvod č. 10,543535,Slovinky,1451
+8,Košický kraj,810,Volebný obvod č. 10,560154,Smižany,7020
+8,Košický kraj,810,Volebný obvod č. 10,526355,Spišská Nová Ves,28837
+8,Košický kraj,810,Volebný obvod č. 10,543586,Spišské Tomášovce,1595
+8,Košický kraj,810,Volebný obvod č. 10,543594,Spišské Vlachy,2687
+8,Košický kraj,810,Volebný obvod č. 10,543616,Spišský Hrušov,1052
+8,Košický kraj,810,Volebný obvod č. 10,543667,Teplička,894
+8,Košický kraj,810,Volebný obvod č. 10,543713,Vítkovce,440
+8,Košický kraj,810,Volebný obvod č. 10,543721,Vojkovce,329
+8,Košický kraj,810,Volebný obvod č. 10,526657,Žehra,1471
+8,Košický kraj,811,Volebný obvod č. 11,528102,Bačka,480
+8,Košický kraj,811,Volebný obvod č. 11,528111,Bačkov,522
+8,Košický kraj,811,Volebný obvod č. 11,528129,Bara,238
+8,Košický kraj,811,Volebný obvod č. 11,528145,Biel,1112
+8,Košický kraj,811,Volebný obvod č. 11,528161,Boľ,585
+8,Košický kraj,811,Volebný obvod č. 11,528170,Borša,983
+8,Košický kraj,811,Volebný obvod č. 11,528188,Boťany,956
+8,Košický kraj,811,Volebný obvod č. 11,528200,Brehov,476
+8,Košický kraj,811,Volebný obvod č. 11,528218,Brezina,526
+8,Košický kraj,811,Volebný obvod č. 11,528226,Byšta,117
+8,Košický kraj,811,Volebný obvod č. 11,528234,Cejkov,973
+8,Košický kraj,811,Volebný obvod č. 11,528242,Čeľovce,422
+8,Košický kraj,811,Volebný obvod č. 11,528251,Čerhov,598
+8,Košický kraj,811,Volebný obvod č. 11,528269,Černochov,162
+8,Košický kraj,811,Volebný obvod č. 11,528285,Čierna,394
+8,Košický kraj,811,Volebný obvod č. 11,528293,Čierna nad Tisou,2917
+8,Košický kraj,811,Volebný obvod č. 11,528315,Dargov,513
+8,Košický kraj,811,Volebný obvod č. 11,528323,Dobrá,366
+8,Košický kraj,811,Volebný obvod č. 11,528340,Dvorianky,520
+8,Košický kraj,811,Volebný obvod č. 11,528358,Egreš,332
+8,Košický kraj,811,Volebný obvod č. 11,528366,Hraň,1280
+8,Košický kraj,811,Volebný obvod č. 11,528374,Hrčeľ,664
+8,Košický kraj,811,Volebný obvod č. 11,528382,Hriadky,367
+8,Košický kraj,811,Volebný obvod č. 11,528412,Kašov,234
+8,Košický kraj,811,Volebný obvod č. 11,528421,Kazimír,678
+8,Košický kraj,811,Volebný obvod č. 11,513831,Klin nad Bodrogom,164
+8,Košický kraj,811,Volebný obvod č. 11,528439,Kožuchov,160
+8,Košický kraj,811,Volebný obvod č. 11,528447,Kráľovský Chlmec,5982
+8,Košický kraj,811,Volebný obvod č. 11,528455,Kravany,271
+8,Košický kraj,811,Volebný obvod č. 11,528471,Kuzmice,1344
+8,Košický kraj,811,Volebný obvod č. 11,528480,Kysta,341
+8,Košický kraj,811,Volebný obvod č. 11,528498,Ladmovce,267
+8,Košický kraj,811,Volebný obvod č. 11,528501,Lastovce,842
+8,Košický kraj,811,Volebný obvod č. 11,528510,Leles,1458
+8,Košický kraj,811,Volebný obvod č. 11,528528,Luhyňa,252
+8,Košický kraj,811,Volebný obvod č. 11,513792,Malá Tŕňa,303
+8,Košický kraj,811,Volebný obvod č. 11,528536,Malé Ozorovce,445
+8,Košický kraj,811,Volebný obvod č. 11,528544,Malé Trakany,931
+8,Košický kraj,811,Volebný obvod č. 11,528552,Malý Horeš,917
+8,Košický kraj,811,Volebný obvod č. 11,528561,Malý Kamenec,395
+8,Košický kraj,811,Volebný obvod č. 11,528587,Michaľany,1382
+8,Košický kraj,811,Volebný obvod č. 11,528609,Nižný Žipov,1079
+8,Košický kraj,811,Volebný obvod č. 11,528617,Novosad,830
+8,Košický kraj,811,Volebný obvod č. 11,528625,Nový Ruskov,557
+8,Košický kraj,811,Volebný obvod č. 11,528676,Parchovany,1501
+8,Košický kraj,811,Volebný obvod č. 11,528641,Plechotice,599
+8,Košický kraj,811,Volebný obvod č. 11,528668,Poľany,387
+8,Košický kraj,811,Volebný obvod č. 11,528684,Pribeník,810
+8,Košický kraj,811,Volebný obvod č. 11,528706,Rad,425
+8,Košický kraj,811,Volebný obvod č. 11,528722,Sečovce,6432
+8,Košický kraj,811,Volebný obvod č. 11,543730,Sirník,462
+8,Košický kraj,811,Volebný obvod č. 11,543748,Slivník,622
+8,Košický kraj,811,Volebný obvod č. 11,543756,Slovenské Nové Mesto,858
+8,Košický kraj,811,Volebný obvod č. 11,543764,Soľnička,199
+8,Košický kraj,811,Volebný obvod č. 11,543772,Somotor,1186
+8,Košický kraj,811,Volebný obvod č. 11,513849,Stanča,314
+8,Košický kraj,811,Volebný obvod č. 11,543781,Stankovce,116
+8,Košický kraj,811,Volebný obvod č. 11,543799,Strážne,474
+8,Košický kraj,811,Volebný obvod č. 11,543802,Streda nad Bodrogom,1938
+8,Košický kraj,811,Volebný obvod č. 11,528153,Svätá Mária,461
+8,Košický kraj,811,Volebný obvod č. 11,528650,Svätuše,671
+8,Košický kraj,811,Volebný obvod č. 11,543811,Svinice,172
+8,Košický kraj,811,Volebný obvod č. 11,528099,Trebišov,17636
+8,Košický kraj,811,Volebný obvod č. 11,543829,Trnávka,144
+8,Košický kraj,811,Volebný obvod č. 11,543845,Veľaty,661
+8,Košický kraj,811,Volebný obvod č. 11,513806,Veľká Tŕňa,360
+8,Košický kraj,811,Volebný obvod č. 11,543861,Veľké Ozorovce,586
+8,Košický kraj,811,Volebný obvod č. 11,543896,Veľké Trakany,1204
+8,Košický kraj,811,Volebný obvod č. 11,543900,Veľký Horeš,817
+8,Košický kraj,811,Volebný obvod č. 11,543918,Veľký Kamenec,635
+8,Košický kraj,811,Volebný obvod č. 11,543926,Viničky,374
+8,Košický kraj,811,Volebný obvod č. 11,543934,Višňov,197
+8,Košický kraj,811,Volebný obvod č. 11,543951,Vojčice,1674
+8,Košický kraj,811,Volebný obvod č. 11,543969,Vojka,387
+8,Košický kraj,811,Volebný obvod č. 11,543977,Zatín,608
+8,Košický kraj,811,Volebný obvod č. 11,543985,Zbehňov,281
+8,Košický kraj,811,Volebný obvod č. 11,543993,Zemplín,284
+8,Košický kraj,811,Volebný obvod č. 11,544001,Zemplínska Nová Ves,725
+8,Košický kraj,811,Volebný obvod č. 11,544019,Zemplínska Teplica,1274
+8,Košický kraj,811,Volebný obvod č. 11,544027,Zemplínske Hradište,933
+8,Košický kraj,811,Volebný obvod č. 11,544035,Zemplínske Jastrabie,514
+8,Košický kraj,811,Volebný obvod č. 11,544043,Zemplínsky Branč,405

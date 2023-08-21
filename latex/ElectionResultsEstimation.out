@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Data}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Offline data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Online data}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Google sheets structure}{}% 5
+\BOOKMARK [1][-]{section.4}{Code}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{download\137data.py}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{main.py}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{The Model}{}% 9
